@@ -16112,14 +16112,12 @@
     </library>
     <library name="puma (v3.4.0, RVM: ruby-2.2.2 [terminal-provisioning]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/puma/3.4.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/puma-3.4.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/puma-3.4.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/puma-3.4.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/puma-3.4.0/tools" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/puma/3.4.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/puma-3.4.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/puma-3.4.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/puma-3.4.0/lib" />
