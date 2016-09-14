@@ -2,6 +2,7 @@
   <component name="PowerModeII">
     <option name="blueFrom" value="163" />
     <option name="blueTo" value="163" />
+    <option name="enabled" value="false" />
     <option name="flameLife" value="153" />
     <option name="flamesEnabled" value="false" />
     <option name="frameRate" value="60" />
