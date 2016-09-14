@@ -1,0 +1,19 @@
+<application>
+  <component name="PowerModeII">
+    <option name="blueFrom" value="163" />
+    <option name="blueTo" value="163" />
+    <option name="flameLife" value="153" />
+    <option name="flamesEnabled" value="false" />
+    <option name="frameRate" value="60" />
+    <option name="gravityFactor" value="53.05" />
+    <option name="greenFrom" value="161" />
+    <option name="greenTo" value="161" />
+    <option name="heatupTime" value="4466" />
+    <option name="keyStrokesPerMinute" value="733" />
+    <option name="maxFlameSize" value="30" />
+    <option name="redFrom" value="163" />
+    <option name="redTo" value="163" />
+    <option name="sparkSize" value="5" />
+    <option name="sparkVelocityFactor" value="4.96" />
+  </component>
+</application>
