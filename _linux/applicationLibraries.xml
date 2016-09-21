@@ -1386,6 +1386,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/annotate-2.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="annotate (v2.7.0@c95230, RVM: ruby-2.2.2 [terminal-provisioning]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/bundler/gems/annotate_models-c952306966c9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/bundler/gems/annotate_models-c952306966c9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/bundler/gems/annotate_models-c952306966c9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/bundler/gems/annotate_models-c952306966c9/lib" />
+      </SOURCES>
+    </library>
     <library name="annotate (v2.7.1, RVM: ruby-2.2.2 [terminal-provisioning]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/annotate-2.7.1/bin" />
@@ -21616,6 +21626,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p645@mothership/gems/shoulda-matchers-2.8.0/gemfiles" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p645@mothership/gems/shoulda-matchers-2.8.0/doc_config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p645@mothership/gems/shoulda-matchers-2.8.0/.hound_config" />
+      </SOURCES>
+    </library>
+    <library name="shoulda-matchers (v2.8.0, RVM: ruby-2.2.2 [terminal-provisioning]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/shoulda-matchers-2.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/shoulda-matchers-2.8.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/shoulda-matchers-2.8.0/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/shoulda-matchers-2.8.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/shoulda-matchers-2.8.0/doc_config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/shoulda-matchers-2.8.0/.hound_config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/shoulda-matchers-2.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/shoulda-matchers-2.8.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/shoulda-matchers-2.8.0/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/shoulda-matchers-2.8.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/shoulda-matchers-2.8.0/doc_config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/shoulda-matchers-2.8.0/.hound_config" />
       </SOURCES>
     </library>
     <library name="shoulda-matchers (v2.8.0, RVM: ruby-2.2.3) [gem]">
