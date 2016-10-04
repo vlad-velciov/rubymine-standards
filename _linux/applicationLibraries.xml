@@ -7942,6 +7942,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/faraday-0.9.2/lib" />
       </SOURCES>
     </library>
+    <library name="faraday (v0.9.2, RVM: ruby-2.3.0 [corral]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@corral/gems/faraday-0.9.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@corral/gems/faraday-0.9.2/lib" />
+      </SOURCES>
+    </library>
     <library name="fast-stemmer (v1.0.2, RVM: ruby-2.0.0-p645 [mothership]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby20/fast-stemmer/1.0.2" />
@@ -13638,6 +13646,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/momentjs-rails-2.9.0/vendor" />
       </SOURCES>
     </library>
+    <library name="money (v6.7.1, RVM: ruby-2.3.0 [corral]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@corral/gems/money-6.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@corral/gems/money-6.7.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@corral/gems/money-6.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@corral/gems/money-6.7.1/config" />
+      </SOURCES>
+    </library>
     <library name="mongo (v1.12.5, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/mongo-1.12.5/bin" />
@@ -14204,6 +14222,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/multipart-post-2.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="multipart-post (v2.0.0, RVM: ruby-2.3.0 [corral]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@corral/gems/multipart-post-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@corral/gems/multipart-post-2.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="nenv (v0.3.0, RVM: ruby-2.0.0-p645 [mothership]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p645@mothership/gems/nenv-0.3.0/lib" />
@@ -14730,6 +14756,7 @@
     </library>
     <library name="nokogiri (v1.6.6.2, RVM: ruby-2.3.0 [corral]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.6.6.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@corral/gems/nokogiri-1.6.6.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@corral/gems/nokogiri-1.6.6.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@corral/gems/nokogiri-1.6.6.2/lib" />
@@ -14737,6 +14764,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@corral/gems/nokogiri-1.6.6.2/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.6.6.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@corral/gems/nokogiri-1.6.6.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@corral/gems/nokogiri-1.6.6.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@corral/gems/nokogiri-1.6.6.2/lib" />
@@ -21528,6 +21556,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/savon-2.9.0/lib" />
       </SOURCES>
     </library>
+    <library name="scout_apm (v2.1.12, RVM: ruby-2.3.0 [corral]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/scout_apm/2.1.12" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@corral/gems/scout_apm-2.1.12/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@corral/gems/scout_apm-2.1.12/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@corral/gems/scout_apm-2.1.12/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/scout_apm/2.1.12" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@corral/gems/scout_apm-2.1.12/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@corral/gems/scout_apm-2.1.12/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@corral/gems/scout_apm-2.1.12/data" />
+      </SOURCES>
+    </library>
     <library name="sdoc (v0.4.0, RVM: ruby-2.0.0-p353 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p353@global/gems/sdoc-0.4.0/bin" />
@@ -22360,6 +22402,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/sinatra-respond_to-0.9.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="sixarm_ruby_unaccent (v1.1.1, RVM: ruby-2.3.0 [corral]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@corral/gems/sixarm_ruby_unaccent-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@corral/gems/sixarm_ruby_unaccent-1.1.1/lib" />
       </SOURCES>
     </library>
     <library name="slim (v3.0.6, RVM: ruby-2.0.0-p645 [mothership]) [gem]">
