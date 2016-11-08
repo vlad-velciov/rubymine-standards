@@ -25754,6 +25754,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@tb/bundler/gems/usaepay-f78eb93823c9/lib" />
       </SOURCES>
     </library>
+    <library name="usaepay (v1.0.1@fc548c, RVM: ruby-2.2.2 [terminal-provisioning]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/bundler/gems/usaepay-fc548cf6dce2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/bundler/gems/usaepay-fc548cf6dce2/lib" />
+      </SOURCES>
+    </library>
     <library name="usaepay (v1.0.1@fe7954, RVM: ruby-2.2.2 [terminal-provisioning]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/bundler/gems/usaepay-fe7954dd3ceb/lib" />
