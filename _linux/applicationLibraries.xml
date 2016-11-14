@@ -10162,6 +10162,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/httparty-0.13.7/features" />
       </SOURCES>
     </library>
+    <library name="httparty (v0.14.0, RVM: ruby-2.2.2 [tb]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@tb/gems/httparty-0.14.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@tb/gems/httparty-0.14.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@tb/gems/httparty-0.14.0/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@tb/gems/httparty-0.14.0/website" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@tb/gems/httparty-0.14.0/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@tb/gems/httparty-0.14.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@tb/gems/httparty-0.14.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@tb/gems/httparty-0.14.0/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@tb/gems/httparty-0.14.0/website" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@tb/gems/httparty-0.14.0/features" />
+      </SOURCES>
+    </library>
     <library name="httpclient (v2.6.0.1, RVM: ruby-2.2.2 [tb]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@tb/gems/httpclient-2.6.0.1/bin" />
@@ -15250,6 +15266,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/nokogiri-1.6.8/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/nokogiri-1.6.8/patches" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/nokogiri-1.6.8/suppressions" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.6.8.1, RVM: ruby-2.2.2 [tb]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.6.8.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@tb/gems/nokogiri-1.6.8.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@tb/gems/nokogiri-1.6.8.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@tb/gems/nokogiri-1.6.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@tb/gems/nokogiri-1.6.8.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@tb/gems/nokogiri-1.6.8.1/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@tb/gems/nokogiri-1.6.8.1/suppressions" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.6.8.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@tb/gems/nokogiri-1.6.8.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@tb/gems/nokogiri-1.6.8.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@tb/gems/nokogiri-1.6.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@tb/gems/nokogiri-1.6.8.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@tb/gems/nokogiri-1.6.8.1/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@tb/gems/nokogiri-1.6.8.1/suppressions" />
       </SOURCES>
     </library>
     <library name="nokogiri (v1.6.8.1, RVM: ruby-2.2.2 [terminal-provisioning]) [gem]">
@@ -25672,6 +25708,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@tb/bundler/gems/usaepay-41d5d9589a22/lib" />
+      </SOURCES>
+    </library>
+    <library name="usaepay (v1.0.1@4c7c77, RVM: ruby-2.2.2 [tb]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@tb/bundler/gems/usaepay-4c7c77e5f940/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@tb/bundler/gems/usaepay-4c7c77e5f940/lib" />
       </SOURCES>
     </library>
     <library name="usaepay (v1.0.1@50958d, RVM: ruby-2.2.2 [terminal-provisioning]) [gem]">
