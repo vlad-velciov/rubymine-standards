@@ -15290,7 +15290,6 @@
     </library>
     <library name="nokogiri (v1.6.8.1, RVM: ruby-2.2.2 [terminal-provisioning]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.6.8.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/nokogiri-1.6.8.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/nokogiri-1.6.8.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/nokogiri-1.6.8.1/lib" />
@@ -15299,7 +15298,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/nokogiri-1.6.8.1/suppressions" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.6.8.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/nokogiri-1.6.8.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/nokogiri-1.6.8.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/nokogiri-1.6.8.1/lib" />
@@ -16114,13 +16112,11 @@
     </library>
     <library name="pg (v0.19.0, RVM: ruby-2.2.2 [terminal-provisioning]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/pg/0.19.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/pg-0.19.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/pg-0.19.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/pg-0.19.0/sample" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/pg/0.19.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/pg-0.19.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/pg-0.19.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/pg-0.19.0/sample" />
