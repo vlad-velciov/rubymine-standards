@@ -80,6 +80,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aasm-4.10.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="aasm (v4.11.1, RVM: ruby-2.2.2 [terminal-provisioning]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/aasm-4.11.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/aasm-4.11.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/aasm-4.11.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/aasm-4.11.1/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="aasm (v4.5.2, RVM: ruby-2.0.0-p645 [mothership]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p645@mothership/gems/aasm-4.5.2/lib" />
