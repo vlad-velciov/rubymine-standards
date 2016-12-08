@@ -1820,6 +1820,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/attr_encrypted-1.3.3/lib" />
       </SOURCES>
     </library>
+    <library name="attr_encrypted (v3.0.3, RVM: ruby-2.2.2 [terminal-provisioning]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/attr_encrypted-3.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/attr_encrypted-3.0.3/certs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/attr_encrypted-3.0.3/checksum" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/attr_encrypted-3.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/attr_encrypted-3.0.3/certs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/attr_encrypted-3.0.3/checksum" />
+      </SOURCES>
+    </library>
     <library name="autoprefixer-rails (v5.1.5, RVM: ruby-2.0.0-p353 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p353@global/gems/autoprefixer-rails-5.1.5/lib" />
@@ -7070,6 +7082,18 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/encryptor-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="encryptor (v3.0.0, RVM: ruby-2.2.2 [terminal-provisioning]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/encryptor-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/encryptor-3.0.0/certs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/encryptor-3.0.0/checksum" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/encryptor-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/encryptor-3.0.0/certs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@terminal-provisioning/gems/encryptor-3.0.0/checksum" />
       </SOURCES>
     </library>
     <library name="equalizer (v0.0.11, RVM: ruby-2.0.0-p645 [mothership]) [gem]">
