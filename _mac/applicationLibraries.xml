@@ -868,6 +868,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/builder-3.2.2/rakelib" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.14.4, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.14.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.14.4/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.14.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.14.4/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.14.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.14.4/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.14.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.14.4/man" />
+      </SOURCES>
+    </library>
     <library name="bundler (v1.14.4, RVM: ruby-2.2.1 [metamax]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@metamax/gems/bundler-1.14.4/bin" />
