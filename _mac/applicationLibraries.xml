@@ -482,6 +482,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@metamax/gems/arel-6.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="arel (v6.0.3, RVM: ruby-2.2.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/arel-6.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/arel-6.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="assert_difference (v1.0.0@a4f98f, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/bundler/gems/assert_difference-a4f98f5ee234/lib" />
@@ -1616,6 +1624,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@metamax/gems/docile-1.1.5/lib" />
       </SOURCES>
     </library>
+    <library name="docile (v1.1.5, RVM: ruby-2.2.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/docile-1.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/docile-1.1.5/lib" />
+      </SOURCES>
+    </library>
     <library name="domain_name (v0.5.22, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/domain_name-0.5.22/lib" />
@@ -1876,6 +1892,7 @@
     </library>
     <library name="eventmachine (v1.0.8, RVM: ruby-2.2.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/eventmachine/1.0.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/eventmachine-1.0.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/eventmachine-1.0.8/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/eventmachine-1.0.8/java" />
@@ -1883,6 +1900,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/eventmachine-1.0.8/rakelib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/eventmachine/1.0.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/eventmachine-1.0.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/eventmachine-1.0.8/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/eventmachine-1.0.8/java" />
@@ -3818,6 +3836,7 @@
     </library>
     <library name="json (v1.8.3, RVM: ruby-2.2.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json/1.8.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/json-1.8.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/json-1.8.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/json-1.8.3/data" />
@@ -3827,6 +3846,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/json-1.8.3/diagrams" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json/1.8.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/json-1.8.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/json-1.8.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/json-1.8.3/data" />
@@ -4264,6 +4284,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/mime-types-2.6.2/support" />
       </SOURCES>
     </library>
+    <library name="mime-types (v2.99, RVM: ruby-2.2.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/mime-types-2.99/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/mime-types-2.99/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/mime-types-2.99/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/mime-types-2.99/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/mime-types-2.99/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/mime-types-2.99/support" />
+      </SOURCES>
+    </library>
     <library name="mini_magick (v3.8.0, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/mini_magick-3.8.0/lib" />
@@ -4286,6 +4318,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@metamax/gems/mini_portile-0.6.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="mini_portile (v0.6.2, RVM: ruby-2.2.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/mini_portile-0.6.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/mini_portile-0.6.2/lib" />
       </SOURCES>
     </library>
     <library name="minitest (v5.7.0, RVM: ruby-2.2.1 [metamax]) [gem]">
@@ -4374,6 +4414,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@metamax/gems/multi_json-1.11.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_json (v1.11.2, RVM: ruby-2.2.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/multi_json-1.11.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/multi_json-1.11.2/lib" />
       </SOURCES>
     </library>
     <library name="multi_xml (v0.5.2, RVM: ruby-2.2.1 [wri_server]) [gem]">
@@ -4490,6 +4538,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/net-ssh-2.9.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/net-ssh-2.9.2/support" />
+      </SOURCES>
+    </library>
+    <library name="net-ssh (v3.0.1, RVM: ruby-2.2.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/net-ssh-3.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/net-ssh-3.0.1/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/net-ssh-3.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/net-ssh-3.0.1/support" />
       </SOURCES>
     </library>
     <library name="net-ssh (v4.0.1, RVM: ruby-2.2.1 [metamax]) [gem]">
@@ -5130,6 +5188,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@metamax/gems/rack-1.6.4/example" />
       </SOURCES>
     </library>
+    <library name="rack (v1.6.4, RVM: ruby-2.2.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/rack-1.6.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/rack-1.6.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/rack-1.6.4/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/rack-1.6.4/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/rack-1.6.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/rack-1.6.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/rack-1.6.4/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/rack-1.6.4/example" />
+      </SOURCES>
+    </library>
     <library name="rack-attack (v4.1.1, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/rack-attack-4.1.1/lib" />
@@ -5578,6 +5650,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/redis-3.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/redis-3.1.0/.travis" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/redis-3.1.0/benchmarking" />
+      </SOURCES>
+    </library>
+    <library name="redis (v3.2.1, RVM: ruby-2.2.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/redis-3.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/redis-3.2.1/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/redis-3.2.1/benchmarking" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/redis-3.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/redis-3.2.1/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/redis-3.2.1/benchmarking" />
       </SOURCES>
     </library>
     <library name="redis (v3.3.3, RVM: ruby-2.2.1 [metamax]) [gem]">
@@ -6064,6 +6148,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/rspec-support-3.0.4/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-support (v3.2.2, RVM: ruby-2.2.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/rspec-support-3.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/rspec-support-3.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-support (v3.3.0, RVM: ruby-2.2.1 [metamax]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@metamax/gems/rspec-support-3.3.0/lib" />
@@ -6530,6 +6622,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@metamax/gems/simplecov-html-0.10.0/views" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@metamax/gems/simplecov-html-0.10.0/assets" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@metamax/gems/simplecov-html-0.10.0/public" />
+      </SOURCES>
+    </library>
+    <library name="simplecov-html (v0.10.0, RVM: ruby-2.2.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/simplecov-html-0.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/simplecov-html-0.10.0/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/simplecov-html-0.10.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/simplecov-html-0.10.0/public" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/simplecov-html-0.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/simplecov-html-0.10.0/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/simplecov-html-0.10.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/simplecov-html-0.10.0/public" />
       </SOURCES>
     </library>
     <library name="simplecov-html (v0.8.0, RVM: ruby-2.2.1 [wri_server]) [gem]">
@@ -7028,6 +7134,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/tilt-1.4.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/tilt-1.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="tilt (v2.0.1, RVM: ruby-2.2.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/tilt-2.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/tilt-2.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/tilt-2.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/tilt-2.0.1/lib" />
       </SOURCES>
     </library>
     <library name="tire (v0.6.2, RVM: ruby-2.2.1 [wri_server]) [gem]">
