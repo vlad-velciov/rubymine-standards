@@ -3,17 +3,26 @@
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
+  <action id="CompareTwoFiles" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift f9" />
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
+  <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoProject" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="shift meta x" />
   </action>
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
@@ -30,4 +39,6 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="Uml.ShowDiff" />
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
