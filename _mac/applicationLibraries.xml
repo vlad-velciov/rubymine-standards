@@ -3150,6 +3150,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/googlebooks-0.0.9/lib" />
       </SOURCES>
     </library>
+    <library name="guard-compat (v1.2.1, RVM: ruby-2.2.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/guard-compat-1.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/guard-compat-1.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="haml (v4.0.6, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/haml-4.0.6/bin" />
@@ -4328,6 +4336,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/bundler/gems/metamax-gem-41a31beabb15/lib" />
       </SOURCES>
     </library>
+    <library name="method_source (v0.8.1, RVM: ruby-2.2.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/method_source-0.8.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/method_source-0.8.2/lib" />
+      </SOURCES>
+    </library>
     <library name="micromachine (v1.0.4, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/micromachine-1.0.4/lib" />
@@ -4574,6 +4590,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/multipart-post-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="nenv (v0.3.0, RVM: ruby-2.2.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/nenv-0.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/nenv-0.3.0/lib" />
       </SOURCES>
     </library>
     <library name="net-http-persistent (v2.9.4, RVM: ruby-2.2.1 [wri_server]) [gem]">
@@ -6688,6 +6712,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/selenium-webdriver-3.0.5/lib" />
       </SOURCES>
     </library>
+    <library name="selenium-webdriver (v3.0.8, RVM: ruby-2.2.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/selenium-webdriver-3.0.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/selenium-webdriver-3.0.8/lib" />
+      </SOURCES>
+    </library>
     <library name="sexmachine (v0.0.6, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/sexmachine-0.0.6/lib" />
@@ -6702,6 +6734,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/sexmachine-0.0.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="shellany (v0.0.1, RVM: ruby-2.2.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/shellany-0.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/shellany-0.0.1/lib" />
       </SOURCES>
     </library>
     <library name="shoulda (v3.5.0, RVM: ruby-2.2.1 [wri_server]) [gem]">
@@ -6954,6 +6994,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/sitemap_generator-5.0.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/sitemap_generator-5.0.5/rails" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/sitemap_generator-5.0.5/templates" />
+      </SOURCES>
+    </library>
+    <library name="slop (v3.6.0, RVM: ruby-2.2.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/slop-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/slop-3.6.0/lib" />
       </SOURCES>
     </library>
     <library name="spring (v1.3.6, RVM: ruby-2.2.1 [metamax]) [gem]">
