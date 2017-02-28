@@ -1082,6 +1082,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/byebug-8.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="byebug (v9.0.6, RVM: ruby-2.2.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/byebug/9.0.6" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/byebug-9.0.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/byebug-9.0.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/byebug-9.0.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/byebug/9.0.6" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/byebug-9.0.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/byebug-9.0.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/byebug-9.0.6/lib" />
+      </SOURCES>
+    </library>
     <library name="cancancan (v1.10.1, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/cancancan-1.10.1/lib" />
@@ -1188,6 +1202,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/childprocess-0.5.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="childprocess (v0.6.1, RVM: ruby-2.2.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/childprocess-0.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/childprocess-0.6.1/lib" />
       </SOURCES>
     </library>
     <library name="chunky_png (v1.3.4, RVM: ruby-2.2.1 [wri_server]) [gem]">
@@ -1312,6 +1334,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/codeclimate-test-reporter-0.4.7/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/codeclimate-test-reporter-0.4.7/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/codeclimate-test-reporter-0.4.7/config" />
+      </SOURCES>
+    </library>
+    <library name="coderay (v1.1.1, RVM: ruby-2.2.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/coderay-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/coderay-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/coderay-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/coderay-1.1.1/lib" />
       </SOURCES>
     </library>
     <library name="coffee-rails (v4.1.0, RVM: ruby-2.2.1 [metamax]) [gem]">
@@ -1522,6 +1554,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/dalli-2.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="database_cleaner (v1.5.3, RVM: ruby-2.2.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/database_cleaner-1.5.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/database_cleaner-1.5.3/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/database_cleaner-1.5.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/database_cleaner-1.5.3/features" />
       </SOURCES>
     </library>
     <library name="debase (v0.2.1, RVM: ruby-2.2.1 [metamax]) [gem]">
@@ -3164,12 +3206,36 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/googlebooks-0.0.9/lib" />
       </SOURCES>
     </library>
+    <library name="guard (v2.14.1, RVM: ruby-2.2.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/guard-2.14.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/guard-2.14.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/guard-2.14.1/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/guard-2.14.1/images" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/guard-2.14.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/guard-2.14.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/guard-2.14.1/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/guard-2.14.1/images" />
+      </SOURCES>
+    </library>
     <library name="guard-compat (v1.2.1, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/guard-compat-1.2.1/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/guard-compat-1.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="guard-rspec (v4.7.3, RVM: ruby-2.2.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/guard-rspec-4.7.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/guard-rspec-4.7.3/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/guard-rspec-4.7.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/guard-rspec-4.7.3/gemfiles" />
       </SOURCES>
     </library>
     <library name="haml (v4.0.6, RVM: ruby-2.2.1 [wri_server]) [gem]">
@@ -4162,6 +4228,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/lisbn-0.2.1/data" />
       </SOURCES>
     </library>
+    <library name="listen (v3.0.5, RVM: ruby-2.2.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/listen-3.0.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/listen-3.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/listen-3.0.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/listen-3.0.5/lib" />
+      </SOURCES>
+    </library>
     <library name="loofah (v2.0.2, RVM: ruby-2.2.1 [metamax]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@metamax/gems/loofah-2.0.2/lib" />
@@ -4180,6 +4256,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/loofah-2.0.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/loofah-2.0.2/benchmark" />
+      </SOURCES>
+    </library>
+    <library name="lumberjack (v1.0.11, RVM: ruby-2.2.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/lumberjack-1.0.11/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/lumberjack-1.0.11/lib" />
       </SOURCES>
     </library>
     <library name="macaddr (v1.6.1, RVM: ruby-2.2.1 [wri_server]) [gem]">
@@ -4942,6 +5026,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/nori-2.4.0/benchmark" />
       </SOURCES>
     </library>
+    <library name="notiffany (v0.1.1, RVM: ruby-2.2.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/notiffany-0.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/notiffany-0.1.1/images" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/notiffany-0.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/notiffany-0.1.1/images" />
+      </SOURCES>
+    </library>
     <library name="oauth (v0.4.7, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/oauth-0.4.7/bin" />
@@ -5236,6 +5330,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/bundler/gems/protected_attributes-95c8eb506276/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/bundler/gems/protected_attributes-95c8eb506276/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="pry (v0.10.4, RVM: ruby-2.2.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/pry-0.10.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/pry-0.10.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/pry-0.10.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/pry-0.10.4/lib" />
       </SOURCES>
     </library>
     <library name="psych (v2.0.13, RVM: ruby-2.2.1 [wri_server]) [gem]">
@@ -6256,6 +6360,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@metamax/gems/roxml-3.1.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@metamax/gems/roxml-3.1.6/website" />
+      </SOURCES>
+    </library>
+    <library name="rspec (v3.0.0, RVM: ruby-2.2.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/rspec-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/rspec-3.0.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec (v3.2.0, RVM: ruby-2.2.1) [gem]">
@@ -7460,6 +7572,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/tilt-2.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="timecop (v0.8.1, RVM: ruby-2.2.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/timecop-0.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/timecop-0.8.1/lib" />
+      </SOURCES>
+    </library>
     <library name="tire (v0.6.2, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/tire-0.6.2/lib" />
@@ -7842,6 +7962,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/websocket-1.2.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="websocket (v1.2.4, RVM: ruby-2.2.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/websocket-1.2.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/websocket-1.2.4/lib" />
       </SOURCES>
     </library>
     <library name="websocket-driver (v0.3.4, RVM: ruby-2.2.1 [wri_server]) [gem]">
