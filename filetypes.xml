@@ -8,6 +8,7 @@
       <mapping pattern="Bowerfile" type="PLAIN_TEXT" />
       <mapping ext="spec" type="PLAIN_TEXT" />
       <mapping ext="epub" type="PLAIN_TEXT" />
+      <mapping ext="eco" type="RHTML" />
     </extensionMap>
   </component>
 </application>
