@@ -998,6 +998,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/bundler-1.14.4/man" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.14.5, RVM: ruby-2.2.1 [bowling_game]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bowling_game/gems/bundler-1.14.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bowling_game/gems/bundler-1.14.5/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bowling_game/gems/bundler-1.14.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bowling_game/gems/bundler-1.14.5/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bowling_game/gems/bundler-1.14.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bowling_game/gems/bundler-1.14.5/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bowling_game/gems/bundler-1.14.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bowling_game/gems/bundler-1.14.5/man" />
+      </SOURCES>
+    </library>
     <library name="bundler (v1.14.5, RVM: ruby-2.2.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/bundler-1.14.5/bin" />
@@ -1010,6 +1024,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/bundler-1.14.5/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/bundler-1.14.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/bundler-1.14.5/man" />
+      </SOURCES>
+    </library>
+    <library name="bundler-unload (v1.0.2, RVM: ruby-2.2.1 [bowling_game]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@global/gems/bundler-unload-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@global/gems/bundler-unload-1.0.2/lib" />
       </SOURCES>
     </library>
     <library name="bundler-unload (v1.0.2, RVM: ruby-2.2.1 [global]) [gem]">
@@ -1682,6 +1704,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/devise_lastseenable-0.0.4/lib" />
       </SOURCES>
     </library>
+    <library name="diff-lcs (v1.2.5, RVM: ruby-2.2.1 [bowling_game]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bowling_game/gems/diff-lcs-1.2.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bowling_game/gems/diff-lcs-1.2.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bowling_game/gems/diff-lcs-1.2.5/autotest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bowling_game/gems/diff-lcs-1.2.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bowling_game/gems/diff-lcs-1.2.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bowling_game/gems/diff-lcs-1.2.5/autotest" />
+      </SOURCES>
+    </library>
     <library name="diff-lcs (v1.2.5, RVM: ruby-2.2.1 [metamax]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@metamax/gems/diff-lcs-1.2.5/bin" />
@@ -2094,6 +2128,18 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@metamax/gems/execjs-2.5.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="executable-hooks (v1.3.2, RVM: ruby-2.2.1 [bowling_game]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@global/gems/executable-hooks-1.3.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@global/gems/executable-hooks-1.3.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@global/gems/executable-hooks-1.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@global/gems/executable-hooks-1.3.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@global/gems/executable-hooks-1.3.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@global/gems/executable-hooks-1.3.2/lib" />
       </SOURCES>
     </library>
     <library name="executable-hooks (v1.3.2, RVM: ruby-2.2.1 [global]) [gem]">
@@ -3042,6 +3088,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/foxy_sync-0.3.2/lib" />
       </SOURCES>
     </library>
+    <library name="gem-wrappers (v1.2.7, RVM: ruby-2.2.1 [bowling_game]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@global/gems/gem-wrappers-1.2.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@global/gems/gem-wrappers-1.2.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@global/gems/gem-wrappers-1.2.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@global/gems/gem-wrappers-1.2.7/lib" />
+      </SOURCES>
+    </library>
     <library name="gem-wrappers (v1.2.7, RVM: ruby-2.2.1 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@global/gems/gem-wrappers-1.2.7/ext" />
@@ -3652,6 +3708,72 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/inherited_resources-1.6.0/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/inherited_resources-1.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="io-console (v0.4.3, RVM: ruby-2.2.1 [bowling_game]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/io" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/cgi" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/drb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/irb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/net" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rss" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/uri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/racc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rake" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/yaml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/psych" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rexml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rinda" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/shell" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/digest" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/fiddle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/matrix" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/ripper" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/syslog" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/xmlrpc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/openssl" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/optparse" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rbconfig" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rubygems" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/bigdecimal" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/x86_64-darwin14" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/unicode_normalize" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/io" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/cgi" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/drb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/irb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/net" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rss" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/uri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/racc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rake" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/yaml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/psych" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rexml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rinda" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/shell" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/digest" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/fiddle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/matrix" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/ripper" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/syslog" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/xmlrpc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/openssl" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/optparse" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rbconfig" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rubygems" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/bigdecimal" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/x86_64-darwin14" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/unicode_normalize" />
       </SOURCES>
     </library>
     <library name="io-console (v0.4.3, RVM: ruby-2.2.1 [metamax]) [gem]">
@@ -6370,6 +6492,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/rspec-3.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec (v3.2.0, RVM: ruby-2.2.1 [bowling_game]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bowling_game/gems/rspec-3.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bowling_game/gems/rspec-3.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec (v3.2.0, RVM: ruby-2.2.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/rspec-3.2.0/lib" />
@@ -6396,6 +6526,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/rspec-core-3.0.4/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/rspec-core-3.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-core (v3.2.3, RVM: ruby-2.2.1 [bowling_game]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bowling_game/gems/rspec-core-3.2.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bowling_game/gems/rspec-core-3.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bowling_game/gems/rspec-core-3.2.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bowling_game/gems/rspec-core-3.2.3/lib" />
       </SOURCES>
     </library>
     <library name="rspec-core (v3.2.3, RVM: ruby-2.2.1) [gem]">
@@ -6434,6 +6574,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/rspec-expectations-3.0.4/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-expectations (v3.2.1, RVM: ruby-2.2.1 [bowling_game]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bowling_game/gems/rspec-expectations-3.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bowling_game/gems/rspec-expectations-3.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-expectations (v3.2.1, RVM: ruby-2.2.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/rspec-expectations-3.2.1/lib" />
@@ -6464,6 +6612,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/rspec-mocks-3.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-mocks (v3.2.1, RVM: ruby-2.2.1 [bowling_game]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bowling_game/gems/rspec-mocks-3.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bowling_game/gems/rspec-mocks-3.2.1/lib" />
       </SOURCES>
     </library>
     <library name="rspec-mocks (v3.2.1, RVM: ruby-2.2.1) [gem]">
@@ -6528,6 +6684,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/rspec-support-3.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-support (v3.2.2, RVM: ruby-2.2.1 [bowling_game]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bowling_game/gems/rspec-support-3.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bowling_game/gems/rspec-support-3.2.2/lib" />
       </SOURCES>
     </library>
     <library name="rspec-support (v3.2.2, RVM: ruby-2.2.1) [gem]">
@@ -6600,6 +6764,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/ruby-saml-0.7.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rubygems-bundler (v1.4.4, RVM: ruby-2.2.1 [bowling_game]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@global/gems/rubygems-bundler-1.4.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@global/gems/rubygems-bundler-1.4.4/lib" />
       </SOURCES>
     </library>
     <library name="rubygems-bundler (v1.4.4, RVM: ruby-2.2.1 [global]) [gem]">
@@ -6676,6 +6848,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@metamax/gems/rufus-scheduler-3.3.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rvm (v1.11.3.9, RVM: ruby-2.2.1 [bowling_game]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@global/gems/rvm-1.11.3.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@global/gems/rvm-1.11.3.9/lib" />
       </SOURCES>
     </library>
     <library name="rvm (v1.11.3.9, RVM: ruby-2.2.1 [global]) [gem]">
