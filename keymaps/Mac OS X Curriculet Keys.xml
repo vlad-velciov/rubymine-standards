@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateRoutesToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift f9" />
