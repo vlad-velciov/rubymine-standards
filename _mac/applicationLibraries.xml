@@ -7628,6 +7628,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/oauth2-0.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="octokit (v4.6.2, RVM: ruby-2.2.6 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/octokit-4.6.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/octokit-4.6.2/lib" />
+      </SOURCES>
+    </library>
     <library name="omniauth (v1.1.1, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/omniauth-1.1.1/lib" />
@@ -10164,6 +10172,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/sassy-maps-0.4.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/sassy-maps-0.4.0/sass" />
+      </SOURCES>
+    </library>
+    <library name="sawyer (v0.8.1, RVM: ruby-2.2.6 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/sawyer-0.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/sawyer-0.8.1/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/sawyer-0.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/sawyer-0.8.1/script" />
       </SOURCES>
     </library>
     <library name="selenium-webdriver (v3.0.5, RVM: ruby-2.2.1 [wri_server]) [gem]">
