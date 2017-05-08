@@ -2528,6 +2528,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/docile-1.1.5/lib" />
       </SOURCES>
     </library>
+    <library name="docile (v1.1.5, RVM: ruby-2.2.6 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/docile-1.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/docile-1.1.5/lib" />
+      </SOURCES>
+    </library>
     <library name="domain_name (v0.5.22, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/domain_name-0.5.22/lib" />
@@ -3354,6 +3362,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/ffaker-1.15.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/ffaker-1.15.0/scripts" />
+      </SOURCES>
+    </library>
+    <library name="ffaker (v2.5.0, RVM: ruby-2.2.6 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/ffaker-2.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/ffaker-2.5.0/scripts" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/ffaker-2.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/ffaker-2.5.0/scripts" />
       </SOURCES>
     </library>
     <library name="ffi (v1.9.8, RVM: ruby-2.2.1 [wri_server]) [gem]">
