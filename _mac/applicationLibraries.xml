@@ -7452,6 +7452,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/newrelic_rpm-3.12.0.288/recipes" />
       </SOURCES>
     </library>
+    <library name="newrelic_rpm (v4.1.0.333, RVM: ruby-2.2.6 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/newrelic_rpm-4.1.0.333/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/newrelic_rpm-4.1.0.333/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/newrelic_rpm-4.1.0.333/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/newrelic_rpm-4.1.0.333/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/newrelic_rpm-4.1.0.333/recipes" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/newrelic_rpm-4.1.0.333/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/newrelic_rpm-4.1.0.333/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/newrelic_rpm-4.1.0.333/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/newrelic_rpm-4.1.0.333/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/newrelic_rpm-4.1.0.333/recipes" />
+      </SOURCES>
+    </library>
     <library name="nokogiri (v1.5.11, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.5.11" />
