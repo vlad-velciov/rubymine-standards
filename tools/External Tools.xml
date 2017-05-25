@@ -6,4 +6,11 @@
       <option name="WORKING_DIRECTORY" />
     </exec>
   </tool>
+  <tool name="Rake resque parallel" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/Applications/Utilities/Terminal.app" />
+      <option name="PARAMETERS" value="cdse; rake resque:work" />
+      <option name="WORKING_DIRECTORY" value="/Applications/Utilities" />
+    </exec>
+  </tool>
 </toolSet>
