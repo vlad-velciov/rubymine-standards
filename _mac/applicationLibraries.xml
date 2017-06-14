@@ -5876,6 +5876,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/i18n-0.8.1/gemfiles" />
       </SOURCES>
     </library>
+    <library name="i18n (v0.8.4, RVM: ruby-2.2.6 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/i18n-0.8.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/i18n-0.8.4/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/i18n-0.8.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/i18n-0.8.4/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="i18n (v0.8.4, RVM: ruby-2.4.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/i18n-0.8.4/lib" />
@@ -7808,6 +7818,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@global/gems/minitest-5.10.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.10.2, RVM: ruby-2.2.6 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/minitest-5.10.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/minitest-5.10.2/lib" />
       </SOURCES>
     </library>
     <library name="minitest (v5.10.2, RVM: ruby-2.4.0) [gem]">
