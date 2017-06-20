@@ -11478,6 +11478,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/rspec-3.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec (v3.6.0, RVM: ruby-2.2.6 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/rspec-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/rspec-3.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec (v3.6.0, RVM: ruby-2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rspec-3.6.0/lib" />
@@ -11546,6 +11554,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/rspec-core-3.5.4/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-core (v3.6.0, RVM: ruby-2.2.6 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/rspec-core-3.6.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/rspec-core-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/rspec-core-3.6.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/rspec-core-3.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-core (v3.6.0, RVM: ruby-2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rspec-core-3.6.0/exe" />
@@ -11604,6 +11622,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/rspec-expectations-3.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-expectations (v3.6.0, RVM: ruby-2.2.6 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/rspec-expectations-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/rspec-expectations-3.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-expectations (v3.6.0, RVM: ruby-2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rspec-expectations-3.6.0/lib" />
@@ -11660,6 +11686,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/rspec-mocks-3.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-mocks (v3.6.0, RVM: ruby-2.2.6 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/rspec-mocks-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/rspec-mocks-3.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-mocks (v3.6.0, RVM: ruby-2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rspec-mocks-3.6.0/lib" />
@@ -11708,6 +11742,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/rspec-rails-3.5.2/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-rails (v3.6.0, RVM: ruby-2.2.6 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/rspec-rails-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/rspec-rails-3.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-support (v3.0.4, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/rspec-support-3.0.4/lib" />
@@ -11754,6 +11796,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/rspec-support-3.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-support (v3.6.0, RVM: ruby-2.2.6 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/rspec-support-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/rspec-support-3.6.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-support (v3.6.0, RVM: ruby-2.4.1) [gem]">
