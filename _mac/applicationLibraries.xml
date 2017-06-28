@@ -3968,6 +3968,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/faraday-0.8.9/script" />
       </SOURCES>
     </library>
+    <library name="faraday (v0.9.2, RVM: ruby-2.2.6 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/faraday-0.9.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/faraday-0.9.2/lib" />
+      </SOURCES>
+    </library>
     <library name="faraday-cookie_jar (v0.0.6, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/faraday-cookie_jar-0.0.6/lib" />
@@ -5518,6 +5526,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/get_process_mem-0.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="gh (v0.14.0, RVM: ruby-2.2.6 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/gh-0.14.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/gh-0.14.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="gh (v0.15.1, RVM: ruby-2.2.6 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/gh-0.15.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/gh-0.15.1/lib" />
+      </SOURCES>
+    </library>
     <library name="gibbon (v0.4.2, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/gibbon-0.4.2/lib" />
@@ -5898,6 +5922,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/hashr-0.0.22/lib" />
+      </SOURCES>
+    </library>
+    <library name="highline (v1.7.8, RVM: ruby-2.2.6 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/highline-1.7.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/highline-1.7.8/site" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/highline-1.7.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/highline-1.7.8/site" />
       </SOURCES>
     </library>
     <library name="hike (v1.2.3, RVM: ruby-2.2.1 [wri_server]) [gem]">
@@ -8634,6 +8668,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/net-http-persistent-2.9.4/lib" />
       </SOURCES>
     </library>
+    <library name="net-http-pipeline (v1.0.1, RVM: ruby-2.2.6 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/net-http-pipeline-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/net-http-pipeline-1.0.1/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/net-http-pipeline-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/net-http-pipeline-1.0.1/sample" />
+      </SOURCES>
+    </library>
     <library name="net-scp (v1.2.1, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/net-scp-1.2.1/lib" />
@@ -9920,6 +9964,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/puma-3.9.1/tools" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/puma-3.9.1/.github" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/puma-3.9.1/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="pusher-client (v0.6.2, RVM: ruby-2.2.6 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/pusher-client-0.6.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/pusher-client-0.6.2/certs" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/pusher-client-0.6.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/pusher-client-0.6.2/certs" />
       </SOURCES>
     </library>
     <library name="querystring (v0.1.0, RVM: ruby-2.2.1 [wri_server]) [gem]">
@@ -13836,6 +13890,30 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/tire-0.6.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="travis (v1.6.9, RVM: ruby-2.2.6 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/travis-1.6.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/travis-1.6.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/travis-1.6.9/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/travis-1.6.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/travis-1.6.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/travis-1.6.9/assets" />
+      </SOURCES>
+    </library>
+    <library name="travis (v1.8.8, RVM: ruby-2.2.6 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/travis-1.8.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/travis-1.8.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/travis-1.8.8/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/travis-1.8.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/travis-1.8.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/travis-1.8.8/assets" />
       </SOURCES>
     </library>
     <library name="trollop (v2.1.2, RVM: ruby-2.2.6 [wri_server]) [gem]">
