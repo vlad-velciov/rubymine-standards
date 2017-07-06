@@ -62,15 +62,19 @@
       <option name="auto-sync" value="false" />
       <property name="prompt" value="false" />
     </driver>
-    <driver id="mysql" name="MySQL" dialect="MySQL">
-      <artifact name="MySQL Connector/J" use="true" />
+    <driver id="mysql" name="MySQL" dialect="GenericSQL">
+      <artifact name="Redshift" use="true" version="1.2.1.1001" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
       <property name="autoReconnect" value="true" />
       <property name="zeroDateTimeBehavior" value="convertToNull" />
       <property name="tinyInt1isBit" value="false" />
       <property name="characterEncoding" value="utf8" />
       <property name="characterSetResults" value="utf8" />
       <property name="yearIsDateType" value="false" />
+      <library>
+        <url>file://$USER_HOME$/workspace/kits/RedshiftJDBC41-1.2.1.1001.jar</url>
+      </library>
     </driver>
     <driver id="hsqldb.remote" name="HSQLDB (Remote)" dialect="HSQLDB">
       <artifact name="HSQLDB" use="true" />
