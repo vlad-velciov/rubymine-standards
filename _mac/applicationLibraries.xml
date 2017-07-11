@@ -2150,6 +2150,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/cancancan-1.10.1/gemfiles" />
       </SOURCES>
     </library>
+    <library name="cancancan (v2.0.0, RVM: ruby-2.2.6 [ada]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@ada/gems/cancancan-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@ada/gems/cancancan-2.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="canonix (v0.1.1, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/canonix-0.1.1/lib" />
