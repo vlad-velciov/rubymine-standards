@@ -962,6 +962,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/addressable-2.5.1/tasks" />
       </SOURCES>
     </library>
+    <library name="addressable (v2.5.2, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/addressable-2.5.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/addressable-2.5.2/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/addressable-2.5.2/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/addressable-2.5.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/addressable-2.5.2/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/addressable-2.5.2/tasks" />
+      </SOURCES>
+    </library>
     <library name="airbrake (v4.1.0, RVM: ruby-2.2.1 [ada]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@ada/gems/airbrake-4.1.0/bin" />
@@ -2792,6 +2804,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/canonix-0.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="capybara (v2.13.0, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/capybara-2.13.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/capybara-2.13.0/.yard" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/capybara-2.13.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/capybara-2.13.0/.yard" />
+      </SOURCES>
+    </library>
     <library name="capybara (v2.14.0, RVM: ruby-2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/capybara-2.14.0/lib" />
@@ -2844,6 +2866,40 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/capybara-screenshot-1.0.14/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/capybara-screenshot-1.0.14/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="capybara-webkit (v1.1.0, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/capybara-webkit/1.1.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/capybara-webkit-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/capybara-webkit-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/capybara-webkit-1.1.0/src" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/capybara-webkit-1.1.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/capybara-webkit-1.1.0/templates" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/capybara-webkit/1.1.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/capybara-webkit-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/capybara-webkit-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/capybara-webkit-1.1.0/src" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/capybara-webkit-1.1.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/capybara-webkit-1.1.0/templates" />
+      </SOURCES>
+    </library>
+    <library name="capybara-webkit (v1.14.0, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/capybara-webkit-1.14.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/capybara-webkit-1.14.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/capybara-webkit-1.14.0/src" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/capybara-webkit-1.14.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/capybara-webkit-1.14.0/templates" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/capybara-webkit-1.14.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/capybara-webkit-1.14.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/capybara-webkit-1.14.0/src" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/capybara-webkit-1.14.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/capybara-webkit-1.14.0/templates" />
       </SOURCES>
     </library>
     <library name="carrierwave (v0.10.0, RVM: ruby-2.2.1 [wri_server]) [gem]">
@@ -9698,6 +9754,7 @@
     </library>
     <library name="json (v2.1.0, RVM: ruby-2.4.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/2.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/json-2.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/json-2.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/json-2.1.0/data" />
@@ -9708,6 +9765,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/json-2.1.0/references" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/2.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/json-2.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/json-2.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/json-2.1.0/data" />
@@ -12110,6 +12168,7 @@
     </library>
     <library name="nokogiri (v1.8.0, RVM: ruby-2.4.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/nokogiri-1.8.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/nokogiri-1.8.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/nokogiri-1.8.0/lib" />
@@ -12118,6 +12177,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/nokogiri-1.8.0/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/nokogiri-1.8.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/nokogiri-1.8.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/nokogiri-1.8.0/lib" />
@@ -12928,6 +12988,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/public_suffix-2.0.5/data" />
       </SOURCES>
     </library>
+    <library name="public_suffix (v3.0.0, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/public_suffix-3.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/public_suffix-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/public_suffix-3.0.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/public_suffix-3.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/public_suffix-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/public_suffix-3.0.0/data" />
+      </SOURCES>
+    </library>
     <library name="pubnub (v3.7.12, RVM: ruby-2.2.1 [ada]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@ada/gems/pubnub-3.7.12/lib" />
@@ -13506,6 +13578,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rack-test-0.6.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-test (v0.7.0, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rack-test-0.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rack-test-0.7.0/lib" />
       </SOURCES>
     </library>
     <library name="rack-timeout (v0.0.4, RVM: ruby-2.2.1 [wri_server]) [gem]">
@@ -19640,6 +19720,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/xpath-2.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="xpath (v2.1.0, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/xpath-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/xpath-2.1.0/lib" />
       </SOURCES>
     </library>
     <library name="yajl-ruby (v1.2.1, RVM: ruby-2.2.1 [wri_server]) [gem]">
