@@ -2030,6 +2030,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/bindex-0.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="binding.repl (v3.0.0, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/binding.repl-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/binding.repl-3.0.0/.bundle" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/binding.repl-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/binding.repl-3.0.0/.bundle" />
+      </SOURCES>
+    </library>
     <library name="binding_of_caller (v0.7.2, RVM: ruby-2.2.1 [ada]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/binding_of_caller/0.7.2" />
@@ -3490,6 +3500,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/coderay-1.1.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/coderay-1.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="coderay (v1.1.2, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/coderay-1.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/coderay-1.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/coderay-1.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/coderay-1.1.2/lib" />
       </SOURCES>
     </library>
     <library name="coffee-rails (v4.1.0, RVM: ruby-2.2.1 [ada]) [gem]">
@@ -8230,6 +8250,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/hike-1.2.3/lib" />
       </SOURCES>
     </library>
+    <library name="hirb (v0.7.3, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/hirb-0.7.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/hirb-0.7.3/lib" />
+      </SOURCES>
+    </library>
     <library name="hirefire-resource (v0.3.4, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/hirefire-resource-0.3.4/bin" />
@@ -8804,6 +8832,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/inherited_resources-1.7.2/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/inherited_resources-1.7.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="instance (v0.2.0, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/instance-0.2.0/etc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/instance-0.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/instance-0.2.0/demo" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/instance-0.2.0/etc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/instance-0.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/instance-0.2.0/demo" />
       </SOURCES>
     </library>
     <library name="interactive_editor (v0.0.10, RVM: ruby-2.4.1) [gem]">
@@ -11356,6 +11396,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/method_source-0.8.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="methodfinder (v2.1.0, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/methodfinder-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/methodfinder-2.1.0/lib" />
       </SOURCES>
     </library>
     <library name="micromachine (v1.0.4, RVM: ruby-2.2.1 [wri_server]) [gem]">
@@ -21010,6 +21058,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/websocket-extensions-0.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="wirb (v2.1.1, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/wirb-2.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/wirb-2.1.1/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/wirb-2.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/wirb-2.1.1/data" />
       </SOURCES>
     </library>
     <library name="xml-simple (v1.1.5, RVM: ruby-2.2.1 [wri_server]) [gem]">
