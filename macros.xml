@@ -1,0 +1,10 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Tabs To Top">
+      <action id="TabsPlacementTop" />
+    </macro>
+    <macro name="Tabs to Right">
+      <action id="TabsPlacementRight" />
+    </macro>
+  </component>
+</application>
