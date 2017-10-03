@@ -6004,6 +6004,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/factory_girl-3.6.2/gemfiles" />
       </SOURCES>
     </library>
+    <library name="factory_girl (v4.8.1, RVM: ruby-2.2.6 [qa_api]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@qa_api/gems/factory_girl-4.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@qa_api/gems/factory_girl-4.8.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@qa_api/gems/factory_girl-4.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@qa_api/gems/factory_girl-4.8.1/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="factory_girl_rails (v3.6.0, RVM: ruby-2.2.1 [ada]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@ada/gems/factory_girl_rails-3.6.0/lib" />
