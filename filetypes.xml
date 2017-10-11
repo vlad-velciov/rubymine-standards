@@ -12,6 +12,7 @@
       <mapping ext="markdown" type="PLAIN_TEXT" />
       <mapping ext="epub" type="PLAIN_TEXT" />
       <mapping ext="eco" type="RHTML" />
+      <mapping pattern="Rakekfile" type="Ruby" />
     </extensionMap>
   </component>
 </application>
