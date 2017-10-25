@@ -4284,6 +4284,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/bullet-5.6.1/tasks" />
       </SOURCES>
     </library>
+    <library name="bullet (v5.6.1, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/bullet-5.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/bullet-5.6.1/perf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/bullet-5.6.1/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/bullet-5.6.1/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/bullet-5.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/bullet-5.6.1/perf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/bullet-5.6.1/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/bullet-5.6.1/tasks" />
+      </SOURCES>
+    </library>
     <library name="bundler (v1.14.4, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.14.4/bin" />
@@ -29860,6 +29874,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/uniform_notifier-1.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="uniform_notifier (v1.10.0, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/uniform_notifier-1.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/uniform_notifier-1.10.0/lib" />
       </SOURCES>
     </library>
     <library name="url2png (v0.3.6, RVM: ruby-2.2.1 [wri_server]) [gem]">
