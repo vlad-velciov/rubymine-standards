@@ -73,6 +73,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'RecursiveMultiplication: generate_b_string'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'RecursiveMultiplication: generate_b_string'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Test">
         <Item>
           <IdeaActionID>GotoTest</IdeaActionID>
