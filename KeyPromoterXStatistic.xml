@@ -30,7 +30,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Debug 'Zigzag should divide...'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug...">
@@ -70,7 +70,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>13</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -105,12 +105,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Zigzag should divide...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Zigzag should divide...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Zigzag: generate_b_s...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Zigzag: generate_b_s...'</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show All Affected Files">
@@ -134,6 +142,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Zigzag should default test: generate_b_string'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Zigzag: generate_b_string'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Zigzag: generate_b_string'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
