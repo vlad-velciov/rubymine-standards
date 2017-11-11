@@ -33,6 +33,14 @@
           <Count>32</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Generate...">
+        <Item>
+          <IdeaActionID>Generate</IdeaActionID>
+          <ShortCut>'⌃N' or '⌃⏎'</ShortCut>
+          <Description>Generate...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rename...">
         <Item>
           <IdeaActionID>RenameElement</IdeaActionID>
@@ -70,6 +78,22 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'RecursiveMultiplicat...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Zigzag should defaul...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Zigzag should defaul...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Zigzag: generate_b_s...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Zigzag: generate_b_s...'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
