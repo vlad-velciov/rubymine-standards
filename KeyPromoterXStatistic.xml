@@ -70,7 +70,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>24</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -158,6 +158,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Zigzag should divide 4 letters on 3 rows: generate_b_string'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Zigzag should divide 5 letters on 4 rows: generate_b_string'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Zigzag should divide 5 letters on 4 rows: generate_b_string'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
