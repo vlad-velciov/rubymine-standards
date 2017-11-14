@@ -81,6 +81,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Recent Find Usages">
+        <Item>
+          <IdeaActionID>UsageView.ShowRecentFindUsages</IdeaActionID>
+          <ShortCut>'⌘E'</ShortCut>
+          <Description>Recent Find Usages</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rename...">
         <Item>
           <IdeaActionID>RenameElement</IdeaActionID>
@@ -126,7 +134,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'All specs in server:...'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Generator: generate_...'">
@@ -134,6 +142,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Generator: generate_...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Limit Active Session...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Limit Active Session...'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
