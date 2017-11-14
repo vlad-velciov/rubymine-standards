@@ -9,6 +9,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Database">
+        <Item>
+          <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
+          <ShortCut>'⌘2'</ShortCut>
+          <Description>Database</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug">
         <Item>
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
@@ -79,6 +87,14 @@
           <ShortCut>'⌃↑'</ShortCut>
           <Description>Move Watch Up</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project">
+        <Item>
+          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
+          <ShortCut>'⌘1'</ShortCut>
+          <Description>Project</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recent Find Usages">
