@@ -46,7 +46,7 @@
           <IdeaActionID>ChooseDebugConfiguration</IdeaActionID>
           <ShortCut>'⌥⇧F9'</ShortCut>
           <Description>Debug...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -55,6 +55,14 @@
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
           <Count>32</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find">
+        <Item>
+          <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
+          <ShortCut>'⌘3'</ShortCut>
+          <Description>Find</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
