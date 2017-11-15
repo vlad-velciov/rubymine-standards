@@ -6118,6 +6118,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/capybara-2.14.2/.yard" />
       </SOURCES>
     </library>
+    <library name="capybara (v2.16.0, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/capybara-2.16.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/capybara-2.16.0/.yard" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/capybara-2.16.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/capybara-2.16.0/.yard" />
+      </SOURCES>
+    </library>
     <library name="capybara (v2.5.0, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/capybara-2.5.0/lib" />
@@ -24218,6 +24228,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rails-api-0.4.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rails-api-0.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-controller-testing (v1.0.2, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/rails-controller-testing-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/rails-controller-testing-1.0.2/lib" />
       </SOURCES>
     </library>
     <library name="rails-deprecated_sanitizer (v1.0.3, RVM: ruby-2.2.1 [ada]) [gem]">
