@@ -1956,6 +1956,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@wri_server/gems/ambry-0.3.1/extras" />
       </SOURCES>
     </library>
+    <library name="ambry (v1.0.0, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/ambry-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/ambry-1.0.0/extras" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/ambry-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/ambry-1.0.0/extras" />
+      </SOURCES>
+    </library>
     <library name="amoeba (v2.1.0, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/amoeba-2.1.0/lib" />
@@ -7648,6 +7658,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/crass-1.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="crass (v1.0.3, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/crass-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/crass-1.0.3/lib" />
       </SOURCES>
     </library>
     <library name="dalli (v2.6.0, RVM: ruby-2.2.1 [wri_server]) [gem]">
@@ -18954,6 +18972,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/merit-2.3.4/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/merit-2.3.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/merit-2.3.4/config" />
+      </SOURCES>
+    </library>
+    <library name="merit (v3.0.0, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/merit-3.0.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/merit-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/merit-3.0.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/merit-3.0.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/merit-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/merit-3.0.0/config" />
       </SOURCES>
     </library>
     <library name="metamagic (v3.1.6, RVM: ruby-2.2.1 [wri_server]) [gem]">
