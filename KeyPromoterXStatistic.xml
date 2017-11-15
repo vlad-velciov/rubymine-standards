@@ -22,7 +22,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>3</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'All specs in server:...'">
@@ -38,7 +38,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Debug 'Enroll in Class  whe...'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'RecursiveMultiplicat...'">
@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>46</Count>
+          <Count>55</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -137,6 +137,30 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Enroll in Class  when student has account Can sign in with email/password: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Enroll in Class  when student has account Can sign in with email/password: server'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Enroll in Class  when student needs to sign up Can sign up with email/password: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Enroll in Class  when student needs to sign up Can sign up with email/password: server'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Teachers::CurriculetsController index includes next link header if more than one page: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Teachers::CurriculetsController index includes next link header if more than one page: server'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Zigzag should divide lots of letters on 2 rows: generate_b_string'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -150,7 +174,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>50</Count>
+          <Count>66</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -166,7 +190,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>3</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All specs in server:...'">
@@ -262,7 +286,7 @@
           <IdeaActionID>VcsHistory.ShowAllAffected</IdeaActionID>
           <ShortCut>'⌥⇧A'</ShortCut>
           <Description>Show All Affected Files</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -278,6 +302,22 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'All specs in server: server'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Enroll in Class  when student has account Can sign in with email/password: server'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Enroll in Class  when student has account Can sign in with email/password: server'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Enroll in Class  when student needs to sign up Can sign up with email/password: server'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Enroll in Class  when student needs to sign up Can sign up with email/password: server'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
