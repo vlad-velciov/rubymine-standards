@@ -22,7 +22,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'All specs in server:...'">
@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>66</Count>
+          <Count>75</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -158,7 +158,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Enroll in Class  when student has account Can sign in with email/password: server'</Description>
-          <Count>14</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Enroll in Class  when student needs to sign up Can sign up with email/password: server'">
@@ -198,7 +198,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>111</Count>
+          <Count>133</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -358,7 +358,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Enroll in Class  when student has account Can sign in with email/password: server'</Description>
-          <Count>11</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Enroll in Class  when student needs to sign up Can sign up with email/password: server'">
