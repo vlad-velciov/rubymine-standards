@@ -222,7 +222,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Enroll in Class  when student needs to sign up Can sign up with email/password: server'</Description>
-          <Count>19</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'QaApi::TeachersController creating a teacher should not create a teacher with the admin role if the flag is false: server'">
@@ -286,7 +286,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>159</Count>
+          <Count>163</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -462,7 +462,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Enroll in Class  when student needs to sign up Can sign up with email/password: server'</Description>
-          <Count>15</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'QaApi::TeachersController creating a teacher should not create a teacher with the admin role if the flag is false: server'">
