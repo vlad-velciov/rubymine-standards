@@ -417,6 +417,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Run spec 'single_ses...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Run spec 'single_ses...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'StudentAttendance: g...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
