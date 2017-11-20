@@ -22,7 +22,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>36</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ActivityBlock: server'">
@@ -142,7 +142,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>97</Count>
+          <Count>100</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -334,7 +334,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>27</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ActivityBlock#DB: se...'">
@@ -351,6 +351,30 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'All specs in server:...'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'BookInfoController T...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'BookInfoController T...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'BookInfoController c...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'BookInfoController c...'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'BookInfoController: ...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'BookInfoController: ...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Data::ActivityStreak...'">
@@ -502,7 +526,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'All specs in server: server'</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Development: server'">
