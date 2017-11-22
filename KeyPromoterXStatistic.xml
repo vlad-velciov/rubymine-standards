@@ -406,7 +406,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'All specs in server:...'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'BookInfoController T...'">
@@ -494,6 +494,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'StudentCurriculetAss...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'StudentImporter: ser...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'StudentImporter: ser...'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -606,7 +614,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'All specs in server: server'</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Development: server'">
