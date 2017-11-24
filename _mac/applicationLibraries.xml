@@ -1786,6 +1786,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/airbrake-ruby-2.5.1/lib" />
       </SOURCES>
     </library>
+    <library name="airbrake-ruby (v2.6.0, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/airbrake-ruby-2.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/airbrake-ruby-2.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="algoliasearch (v1.18.0, RVM: ruby-2.4.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/algoliasearch-1.18.0/lib" />
@@ -1794,6 +1802,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/algoliasearch-1.18.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/algoliasearch-1.18.0/resources" />
+      </SOURCES>
+    </library>
+    <library name="algoliasearch (v1.18.1, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/algoliasearch-1.18.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/algoliasearch-1.18.1/resources" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/algoliasearch-1.18.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/algoliasearch-1.18.1/resources" />
       </SOURCES>
     </library>
     <library name="algoliasearch (v1.6.1, RVM: ruby-2.2.1 [wri_server]) [gem]">
@@ -2510,6 +2528,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/aws-partitions-1.33.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.39.0, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/aws-partitions-1.39.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/aws-partitions-1.39.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v2.1.11, RVM: ruby-2.2.1 [metamax]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@metamax/gems/aws-sdk-2.1.11/lib" />
@@ -3184,6 +3210,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/aws-sdk-core-3.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-core (v3.9.0, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/aws-sdk-core-3.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/aws-sdk-core-3.9.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-costandusagereportservice (v1.0.0, RVM: ruby-2.4.1 [ada]) [gem]">
@@ -4214,6 +4248,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/aws-sdk-s3-1.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-s3 (v1.7.0, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/aws-sdk-s3-1.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/aws-sdk-s3-1.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-servicecatalog (v1.1.0, RVM: ruby-2.4.1 [ada]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ada/gems/aws-sdk-servicecatalog-1.1.0/lib" />
@@ -4976,6 +5018,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@wri_server/gems/bitly-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="bitly (v1.1.1, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/bitly-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/bitly-1.1.1/lib" />
       </SOURCES>
     </library>
     <library name="bootstrap-sass (v2.3.2.2, RVM: ruby-2.2.1 [wri_server]) [gem]">
@@ -6116,6 +6166,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/cancancan-2.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="cancancan (v2.1.2, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/cancancan-2.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/cancancan-2.1.2/lib" />
+      </SOURCES>
+    </library>
     <library name="canonix (v0.1.1, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/canonix-0.1.1/lib" />
@@ -6178,6 +6236,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/capybara-2.16.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/capybara-2.16.0/.yard" />
+      </SOURCES>
+    </library>
+    <library name="capybara (v2.16.1, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/capybara-2.16.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/capybara-2.16.1/.yard" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/capybara-2.16.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/capybara-2.16.1/.yard" />
       </SOURCES>
     </library>
     <library name="capybara (v2.5.0, RVM: ruby-2.2.1 [wri_server]) [gem]">
@@ -10724,6 +10792,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@wri_server/gems/fakeredis-0.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="fakeredis (v0.6.0, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/fakeredis-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/fakeredis-0.6.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/fakeredis-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/fakeredis-0.6.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="fancy_irb (v1.1.0, RVM: ruby-2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/fancy_irb-1.1.0/lib" />
@@ -14318,6 +14396,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ada/gems/hashie-3.5.6/lib" />
       </SOURCES>
     </library>
+    <library name="hashie (v3.5.6, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/hashie-3.5.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/hashie-3.5.6/lib" />
+      </SOURCES>
+    </library>
     <library name="hashr (v0.0.22, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/hashr-0.0.22/lib" />
@@ -15222,6 +15308,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/bundler/gems/infra-38fc0ef2d863/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/bundler/gems/infra-38fc0ef2d863/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/bundler/gems/infra-38fc0ef2d863/tasks" />
+      </SOURCES>
+    </library>
+    <library name="infra (v1.0.0@e3c4a9, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/bundler/gems/infra-e3c4a95302ec/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/bundler/gems/infra-e3c4a95302ec/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/bundler/gems/infra-e3c4a95302ec/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/bundler/gems/infra-e3c4a95302ec/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/bundler/gems/infra-e3c4a95302ec/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/bundler/gems/infra-e3c4a95302ec/tasks" />
       </SOURCES>
     </library>
     <library name="infra-auth (v0.1.9@1d3f2b, RVM: ruby-2.2.1 [ada]) [gem]">
@@ -19386,6 +19484,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@metamax/bundler/gems/onix-816440e505b2/support" />
       </SOURCES>
     </library>
+    <library name="mime-types (v1.25.1, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/mime-types-1.25.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/mime-types-1.25.1/lib" />
+      </SOURCES>
+    </library>
     <library name="mime-types (v2.6.1, RVM: ruby-2.2.1 [ada]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@ada/gems/mime-types-2.6.1/lib" />
@@ -22376,6 +22482,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@wri_server/gems/parser-2.4.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="parser (v2.4.0.2, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/parser-2.4.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/parser-2.4.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/parser-2.4.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/parser-2.4.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="pathutil (v0.14.0, RVM: ruby-2.4.0 [blog]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@blog/gems/pathutil-0.14.0/lib" />
@@ -23110,6 +23226,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/pry-0.11.2/lib" />
       </SOURCES>
     </library>
+    <library name="pry (v0.11.3, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/pry-0.11.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/pry-0.11.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/pry-0.11.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/pry-0.11.3/lib" />
+      </SOURCES>
+    </library>
     <library name="psych (v2.0.13, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/psych/2.0.13" />
@@ -23302,6 +23428,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/pubnub-3.7.9/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/pubnub-3.7.9/fixtures" />
+      </SOURCES>
+    </library>
+    <library name="pubnub (v3.8.5, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/pubnub-3.8.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/pubnub-3.8.5/.yardoc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/pubnub-3.8.5/fixtures" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/pubnub-3.8.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/pubnub-3.8.5/.yardoc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/pubnub-3.8.5/fixtures" />
       </SOURCES>
     </library>
     <library name="pubnub (v4.0.25, RVM: ruby-2.4.1 [ada]) [gem]">
@@ -26628,6 +26766,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ada/gems/resque-1.27.4/lib" />
       </SOURCES>
     </library>
+    <library name="resque (v1.27.4, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/resque-1.27.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/resque-1.27.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/resque-1.27.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/resque-1.27.4/lib" />
+      </SOURCES>
+    </library>
     <library name="resque-cleaner (v0.3.0, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/resque-cleaner-0.3.0/lib" />
@@ -26698,6 +26846,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@wri_server/gems/resque-cleaner-0.3.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="resque-cleaner (v0.4.0, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/resque-cleaner-0.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/resque-cleaner-0.4.0/lib" />
       </SOURCES>
     </library>
     <library name="resque-multi-job-forks (v0.4.3, RVM: ruby-2.2.1 [ada]) [gem]">
@@ -26862,6 +27018,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ada/gems/resque-retry-1.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="resque-retry (v1.5.0, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/resque-retry-1.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/resque-retry-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/resque-retry-1.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/resque-retry-1.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="resque-scheduler (v4.0.0, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/resque-scheduler-4.0.0/bin" />
@@ -26998,6 +27164,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ada/gems/resque-scheduler-4.3.0/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ada/gems/resque-scheduler-4.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="resque-scheduler (v4.3.1, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/resque-scheduler-4.3.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/resque-scheduler-4.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/resque-scheduler-4.3.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/resque-scheduler-4.3.1/lib" />
       </SOURCES>
     </library>
     <library name="resque-status (v0.5.0, RVM: ruby-2.2.1 [ada]) [gem]">
@@ -27192,6 +27368,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@wri_server/gems/rest-client-1.6.7/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@wri_server/gems/rest-client-1.6.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="rest-client (v1.6.9, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/rest-client-1.6.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/rest-client-1.6.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/rest-client-1.6.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/rest-client-1.6.9/lib" />
       </SOURCES>
     </library>
     <library name="rest-client (v2.0.2, RVM: ruby-2.4.1) [gem]">
@@ -27930,6 +28116,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/rspec-rails-3.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-rails (v3.7.2, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/rspec-rails-3.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/rspec-rails-3.7.2/lib" />
       </SOURCES>
     </library>
     <library name="rspec-retry (v0.5.5, RVM: ruby-2.4.1) [gem]">
@@ -32048,6 +32242,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ada/gems/turbolinks-source-5.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="twitter-typeahead-rails (v0.11.1, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/twitter-typeahead-rails-0.11.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/twitter-typeahead-rails-0.11.1/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/twitter-typeahead-rails-0.11.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/twitter-typeahead-rails-0.11.1/vendor" />
+      </SOURCES>
+    </library>
     <library name="twitter-typeahead-rails (v0.9.2, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/twitter-typeahead-rails-0.9.2/lib" />
@@ -33308,6 +33512,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/webmock-3.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/webmock-3.1.0/minitest" />
+      </SOURCES>
+    </library>
+    <library name="webmock (v3.1.1, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/webmock-3.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/webmock-3.1.1/minitest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/webmock-3.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/webmock-3.1.1/minitest" />
       </SOURCES>
     </library>
     <library name="websocket (v1.2.3, RVM: ruby-2.2.1 [wri_server]) [gem]">
