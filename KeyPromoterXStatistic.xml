@@ -105,6 +105,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'User guess gender sh...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'User guess gender sh...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Zigzag should defaul...'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -142,7 +150,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>154</Count>
+          <Count>160</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -273,6 +281,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'QaApi::StudentsController delete students should not delete a student from another organization: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'QaApi::StudentsController delete students should not delete a student from another organization: server'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'QaApi::TeachersController creating a teacher should create an unconfirmed teacher: server'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -345,6 +361,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'User guess gender should not guess gender if first name did not change: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'User guess gender should not guess gender if first name did not change: server'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Zigzag should divide lots of letters on 2 rows: generate_b_string'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -390,7 +414,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>286</Count>
+          <Count>290</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -481,12 +505,20 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'QaApi::ClassroomsCon...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'QaApi::ClassroomsCon...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'QaApi::StudentsContr...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'QaApi::StudentsContr...'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'QaApi::TeachersContr...'">
@@ -585,6 +617,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'User: server'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'User: server'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Zigzag should defaul...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -630,7 +670,7 @@
           <IdeaActionID>ChooseRunConfiguration</IdeaActionID>
           <ShortCut>'⌥⇧F10'</ShortCut>
           <Description>Run...</Description>
-          <Count>21</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show All Affected Files">
@@ -646,7 +686,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'⌥F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ActivityBlock#DB: server'">
@@ -735,6 +775,22 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'StudentCurriculetAssignmentDecorator#as_json should return correct values in json fields : server'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'User guess gender should not guess gender if first name did not change: server'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'User guess gender should not guess gender if first name did not change: server'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'User: server'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'User: server'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Zigzag should default test: generate_b_string'">
