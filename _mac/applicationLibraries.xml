@@ -2608,6 +2608,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/aws-partitions-1.39.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.40.0, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/aws-partitions-1.40.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/aws-partitions-1.40.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v2.1.11, RVM: ruby-2.2.1 [metamax]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@metamax/gems/aws-sdk-2.1.11/lib" />
@@ -15388,6 +15396,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/bundler/gems/infra-38fc0ef2d863/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/bundler/gems/infra-38fc0ef2d863/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/bundler/gems/infra-38fc0ef2d863/tasks" />
+      </SOURCES>
+    </library>
+    <library name="infra (v1.0.0@b49232, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/bundler/gems/infra-b49232518214/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/bundler/gems/infra-b49232518214/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/bundler/gems/infra-b49232518214/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/bundler/gems/infra-b49232518214/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/bundler/gems/infra-b49232518214/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/bundler/gems/infra-b49232518214/tasks" />
       </SOURCES>
     </library>
     <library name="infra (v1.0.0@e3c4a9, RVM: ruby-2.4.1 [wri_server]) [gem]">
