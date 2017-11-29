@@ -246,7 +246,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Development: server'</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Enroll in Class  when student has account Can sign in with email/password: server'">
@@ -430,7 +430,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>335</Count>
+          <Count>337</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
