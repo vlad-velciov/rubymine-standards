@@ -1878,6 +1878,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/algoliasearch-1.18.1/resources" />
       </SOURCES>
     </library>
+    <library name="algoliasearch (v1.18.3, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/algoliasearch-1.18.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/algoliasearch-1.18.3/resources" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/algoliasearch-1.18.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/algoliasearch-1.18.3/resources" />
+      </SOURCES>
+    </library>
     <library name="algoliasearch (v1.6.1, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/algoliasearch-1.6.1/lib" />
@@ -5588,6 +5598,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/bullet-5.6.1/perf" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/bullet-5.6.1/rails" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/bullet-5.6.1/tasks" />
+      </SOURCES>
+    </library>
+    <library name="bullet (v5.7.0, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/bullet-5.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/bullet-5.7.0/perf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/bullet-5.7.0/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/bullet-5.7.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/bullet-5.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/bullet-5.7.0/perf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/bullet-5.7.0/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/bullet-5.7.0/tasks" />
       </SOURCES>
     </library>
     <library name="bundler (v1.14.4, ruby-2.0.0-p648) [gem]">
@@ -9606,6 +9630,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@wri_server/gems/elasticsearch-model-5.0.1/gemfiles" />
       </SOURCES>
     </library>
+    <library name="elasticsearch-model (v5.0.2, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/elasticsearch-model-5.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/elasticsearch-model-5.0.2/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/elasticsearch-model-5.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/elasticsearch-model-5.0.2/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="elasticsearch-persistence (v5.0.1, RVM: ruby-2.4.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/elasticsearch-persistence-5.0.1/lib" />
@@ -9620,6 +9654,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@wri_server/gems/elasticsearch-persistence-5.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-persistence (v5.0.2, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/elasticsearch-persistence-5.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/elasticsearch-persistence-5.0.2/lib" />
       </SOURCES>
     </library>
     <library name="elasticsearch-transport (v5.0.4, RVM: ruby-2.4.1 [wri_server]) [gem]">
@@ -11712,6 +11754,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@wri_server/gems/fog-aws-1.4.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@wri_server/gems/fog-aws-1.4.1/tests" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@wri_server/gems/fog-aws-1.4.1/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog-aws (v2.0.0, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/fog-aws-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/fog-aws-2.0.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/fog-aws-2.0.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/fog-aws-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/fog-aws-2.0.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/fog-aws-2.0.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="fog-brightbox (v0.11.0, RVM: ruby-2.2.6 [wri_server]) [gem]">
@@ -29790,6 +29844,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/selenium-webdriver-3.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="selenium-webdriver (v3.8.0, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/selenium-webdriver-3.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/selenium-webdriver-3.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="sexmachine (v0.0.6, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/sexmachine-0.0.6/lib" />
@@ -32714,6 +32776,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/uglifier-3.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="uglifier (v4.0.1, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/uglifier-4.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/uglifier-4.0.1/lib" />
       </SOURCES>
     </library>
     <library name="unf (v0.1.4, RVM: ruby-2.2.1 [wri_server]) [gem]">

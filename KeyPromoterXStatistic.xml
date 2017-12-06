@@ -393,6 +393,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Teachers::CsvProcessor: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Teachers::CsvProcessor: server'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Teachers::CurriculetsController index includes next link header if more than one page: server'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1046,7 +1054,7 @@
           <IdeaActionID>GotoTest</IdeaActionID>
           <ShortCut>'⇧⌘T'</ShortCut>
           <Description>Test</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
