@@ -1858,6 +1858,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/airbrake-ruby-2.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="airbrake-ruby (v2.6.2, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/airbrake-ruby-2.6.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/airbrake-ruby-2.6.2/lib" />
+      </SOURCES>
+    </library>
     <library name="algoliasearch (v1.18.0, RVM: ruby-2.4.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/algoliasearch-1.18.0/lib" />
@@ -2626,6 +2634,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/aws-partitions-1.40.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.44.0, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/aws-partitions-1.44.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/aws-partitions-1.44.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v2.1.11, RVM: ruby-2.2.1 [metamax]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@metamax/gems/aws-sdk-2.1.11/lib" />
@@ -3284,6 +3300,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/aws-sdk-core-2.9.21/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/aws-sdk-core-2.9.21/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/aws-sdk-core-2.9.21/apis" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-core (v3.11.0, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/aws-sdk-core-3.11.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/aws-sdk-core-3.11.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-core (v3.6.0, RVM: ruby-2.4.1 [ada]) [gem]">
@@ -4344,6 +4368,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/aws-sdk-s3-1.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-s3 (v1.8.0, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/aws-sdk-s3-1.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/aws-sdk-s3-1.8.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-servicecatalog (v1.1.0, RVM: ruby-2.4.1 [ada]) [gem]">
@@ -14570,6 +14602,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/hashr-0.0.22/lib" />
       </SOURCES>
     </library>
+    <library name="highline (v1.7.10, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/highline-1.7.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/highline-1.7.10/site" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/highline-1.7.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/highline-1.7.10/site" />
+      </SOURCES>
+    </library>
     <library name="highline (v1.7.8, RVM: ruby-2.2.6 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/highline-1.7.8/lib" />
@@ -15638,6 +15680,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@wri_server/gems/inherited_resources-1.7.2/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@wri_server/gems/inherited_resources-1.7.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="inherited_resources (v1.8.0, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/inherited_resources-1.8.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/inherited_resources-1.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/inherited_resources-1.8.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/inherited_resources-1.8.0/lib" />
       </SOURCES>
     </library>
     <library name="instance (v0.2.0, RVM: ruby-2.4.1) [gem]">
