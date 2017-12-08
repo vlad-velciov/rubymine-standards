@@ -150,7 +150,7 @@
           <IdeaActionID>ChooseDebugConfiguration</IdeaActionID>
           <ShortCut>'⌥⇧F9'</ShortCut>
           <Description>Debug...</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -239,6 +239,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'ActivityBlock#DB: server'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'All specs in server-acceptance-tests: server-acceptance-tests'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'All specs in server-acceptance-tests: server-acceptance-tests'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'All specs in server: server'">
@@ -871,6 +879,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'All specs in app: server'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'All specs in server-acceptance-tests: server-acceptance-tests'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'All specs in server-acceptance-tests: server-acceptance-tests'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All specs in server: server'">
