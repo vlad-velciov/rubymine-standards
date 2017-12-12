@@ -22,7 +22,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>63</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ActivityBlock: server'">
@@ -158,7 +158,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>245</Count>
+          <Count>246</Count>
         </Item>
       </Statistic>
       <Statistic Action="Drop">
@@ -319,6 +319,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Enroll in Class  when student needs to sign up: server'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ImportExternalCurriculetsController creating a new import processing returns a flash message should send an email to the current user with the results: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ImportExternalCurriculetsController creating a new import processing returns a flash message should send an email to the current user with the results: server'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Limit Active Sessions: server'">
@@ -510,7 +518,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>353</Count>
+          <Count>358</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -526,7 +534,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>42</Count>
+          <Count>43</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ActivityBlock#DB: se...'">
@@ -935,6 +943,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Enroll in Class  when student needs to sign up Can sign up with email/password: server'</Description>
           <Count>21</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ImportExternalCurriculetsController creating a new import processing returns a flash message should send an email to the current user with the results: server'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ImportExternalCurriculetsController creating a new import processing returns a flash message should send an email to the current user with the results: server'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Limit Active Sessions: server'">
