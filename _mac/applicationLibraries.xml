@@ -2738,6 +2738,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ada/gems/aws-partitions-1.46.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.46.0, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/aws-partitions-1.46.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/aws-partitions-1.46.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v2.1.11, RVM: ruby-2.2.1 [metamax]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@metamax/gems/aws-sdk-2.1.11/lib" />
