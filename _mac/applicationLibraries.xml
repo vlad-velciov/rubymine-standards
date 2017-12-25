@@ -1978,6 +1978,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/airbrake-7.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="airbrake (v7.1.1, RVM: ruby-2.4.1 [ada]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ada/gems/airbrake-7.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ada/gems/airbrake-7.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="airbrake (v7.1.1, RVM: ruby-2.4.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/airbrake-7.1.1/lib" />
@@ -2032,6 +2040,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/airbrake-ruby-2.6.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="airbrake-ruby (v2.7.0, RVM: ruby-2.4.1 [ada]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ada/gems/airbrake-ruby-2.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ada/gems/airbrake-ruby-2.7.0/lib" />
       </SOURCES>
     </library>
     <library name="airbrake-ruby (v2.7.0, RVM: ruby-2.4.1 [wri_server]) [gem]">
@@ -2856,6 +2872,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/aws-partitions-1.46.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-partitions (v1.47.0, RVM: ruby-2.4.1 [ada]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ada/gems/aws-partitions-1.47.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ada/gems/aws-partitions-1.47.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-partitions (v1.47.0, RVM: ruby-2.4.1 [wri_server]) [gem]">
