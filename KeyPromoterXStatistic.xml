@@ -57,6 +57,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'MergeSort should ord...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'MergeSort should ord...'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'MergeSort should ret...'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -534,7 +542,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>433</Count>
+          <Count>435</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -671,6 +679,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Limit Active Session...'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'MergeSort: generate_...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'MergeSort: generate_...'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'QaApi::ClassroomsCon...'">
@@ -999,6 +1015,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Limit Active Sessions: server'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MergeSort should order a 2 element array: generate_b_string'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'MergeSort should order a 2 element array: generate_b_string'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'QaApi::TeachersController creating a teacher should not create a teacher with the admin role if the flag is false: server'">
