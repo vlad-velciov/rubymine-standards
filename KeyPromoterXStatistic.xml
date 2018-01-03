@@ -57,6 +57,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'MergeSort should ret...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'MergeSort should ret...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'QaApi::TeachersContr...'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
