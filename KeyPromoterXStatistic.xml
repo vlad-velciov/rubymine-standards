@@ -862,7 +862,7 @@
           <IdeaActionID>ChooseRunConfiguration</IdeaActionID>
           <ShortCut>'⌥⇧F10'</ShortCut>
           <Description>Run...</Description>
-          <Count>28</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show All Affected Files">
