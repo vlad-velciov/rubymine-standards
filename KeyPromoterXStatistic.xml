@@ -393,6 +393,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'TeacherChangesSettings Should show settings page: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'TeacherChangesSettings Should show settings page: server'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'TeacherImporter process_teacher_csv_file data errors in valid files failed to load file saved on windows with ^M chars in stream: server'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1022,7 +1030,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'TeacherChangesSettings Should show settings page: server'</Description>
-          <Count>1</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'User guess gender should not guess gender if first name did not change: server'">
