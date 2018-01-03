@@ -353,6 +353,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'MergeSort: generate_b_string'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'MergeSort: generate_b_string'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'QaApi::StudentsController delete students should not delete a student from another organization: server'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
