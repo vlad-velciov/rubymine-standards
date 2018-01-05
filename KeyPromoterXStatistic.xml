@@ -182,7 +182,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>315</Count>
+          <Count>321</Count>
         </Item>
       </Statistic>
       <Statistic Action="Drop">
@@ -727,6 +727,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'QaApi::ClassroomsCon...'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'QaApi::Cleaner shoul...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'QaApi::Cleaner shoul...'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'QaApi::StudentsContr...'">
