@@ -225,6 +225,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Previous Page">
+        <Item>
+          <IdeaActionID>Console.TableResult.PreviousPage</IdeaActionID>
+          <ShortCut>'⌥⌘↑'</ShortCut>
+          <Description>Previous Page</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
