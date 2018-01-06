@@ -57,6 +57,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'CountInversions retu...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'CountInversions retu...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Enroll in Class  whe...'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -574,7 +582,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>435</Count>
+          <Count>449</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1015,6 +1023,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'All specs in server: server'</Description>
           <Count>19</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'CountInversions returns 4 for 1,3,5,2,4: generate_b_string'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'CountInversions returns 4 for 1,3,5,2,4: generate_b_string'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CountInversions: generate_b_string'">
