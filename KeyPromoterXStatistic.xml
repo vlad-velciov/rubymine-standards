@@ -590,7 +590,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>451</Count>
+          <Count>455</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1103,6 +1103,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Limit Active Sessions: server'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MatrixMultiplication should multiply 2 4x4 matrices: generate_b_string'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'MatrixMultiplication should multiply 2 4x4 matrices: generate_b_string'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MergeSort should order a 2 element array: generate_b_string'">
