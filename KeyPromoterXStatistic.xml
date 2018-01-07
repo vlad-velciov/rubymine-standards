@@ -198,7 +198,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>323</Count>
+          <Count>326</Count>
         </Item>
       </Statistic>
       <Statistic Action="Drop">
@@ -590,7 +590,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>455</Count>
+          <Count>456</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -734,7 +734,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'MatrixMultiplication...'</Description>
-          <Count>2</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'MergeSort: generate_...'">
@@ -1111,6 +1111,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'MatrixMultiplication should multiply 2 4x4 matrices: generate_b_string'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MatrixMultiplication splitting matrix up with divide and conquer: generate_b_string'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'MatrixMultiplication splitting matrix up with divide and conquer: generate_b_string'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MergeSort should order a 2 element array: generate_b_string'">
