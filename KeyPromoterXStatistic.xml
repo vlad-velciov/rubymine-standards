@@ -206,7 +206,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>332</Count>
+          <Count>333</Count>
         </Item>
       </Statistic>
       <Statistic Action="Drop">
@@ -409,6 +409,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'MatrixMultiplication splitting matrix up with divide and conquer: generate_b_string'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'MatrixMultiplication splitting matrix up with divide and conquer: generate_b_string'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'MergeSort: generate_b_string'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -606,7 +614,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>456</Count>
+          <Count>491</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1158,7 +1166,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'MatrixMultiplication splitting matrix up with divide and conquer: generate_b_string'</Description>
-          <Count>1</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MergeSort should order a 2 element array: generate_b_string'">
