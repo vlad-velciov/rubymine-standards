@@ -46,7 +46,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>72</Count>
+          <Count>73</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ActivityBlock: server'">
@@ -94,7 +94,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Debug 'MatrixMultiplication...'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'MergeSort should ord...'">
@@ -782,7 +782,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'MatrixMultiplication...'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'MergeSort: generate_...'">
@@ -1185,6 +1185,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'MatrixMultiplication splitting matrix up with divide and conquer should multiply 2x2 matrices: generate_b_string'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'MatrixMultiplication splitting matrix up with divide and conquer should multiply 2x2 matrices: generate_b_string'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'MatrixMultiplication splitting matrix up with divide and conquer should multiply 3x3 matrices: generate_b_string'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1199,6 +1207,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'MatrixMultiplication splitting matrix up with divide and conquer: generate_b_string'</Description>
           <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MatrixMultiplication: generate_b_string'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'MatrixMultiplication: generate_b_string'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MergeSort should order a 2 element array: generate_b_string'">
