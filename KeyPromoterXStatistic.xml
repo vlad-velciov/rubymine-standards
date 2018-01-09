@@ -622,7 +622,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>492</Count>
+          <Count>495</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1198,7 +1198,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'MatrixMultiplication splitting matrix up with divide and conquer should multiply 3x3 matrices: generate_b_string'</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MatrixMultiplication splitting matrix up with divide and conquer: generate_b_string'">
