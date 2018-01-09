@@ -222,7 +222,7 @@
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
           <ShortCut>'⌘3'</ShortCut>
           <Description>Find</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -278,7 +278,7 @@
           <IdeaActionID>UsageView.ShowRecentFindUsages</IdeaActionID>
           <ShortCut>'⌘E'</ShortCut>
           <Description>Recent Find Usages</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reload Page">
@@ -1095,6 +1095,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'All specs in server: server'</Description>
           <Count>19</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Assignments::AssignCurriculetToClassroom: server'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Assignments::AssignCurriculetToClassroom: server'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CountInversions returns 4 for 1,3,5,2,4: generate_b_string'">
