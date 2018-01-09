@@ -1185,6 +1185,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'MatrixMultiplication splitting matrix up with divide and conquer should multiply 3x3 matrices: generate_b_string'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'MatrixMultiplication splitting matrix up with divide and conquer should multiply 3x3 matrices: generate_b_string'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'MatrixMultiplication splitting matrix up with divide and conquer: generate_b_string'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
