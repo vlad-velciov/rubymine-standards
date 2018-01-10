@@ -23696,6 +23696,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@wri_server/gems/parallel-1.12.0/lib" />
       </SOURCES>
     </library>
+    <library name="parallel_tests (v2.19.0, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/parallel_tests-2.19.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/parallel_tests-2.19.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/parallel_tests-2.19.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/parallel_tests-2.19.0/lib" />
+      </SOURCES>
+    </library>
     <library name="paranoia (v2.3.1, RVM: ruby-2.2.6 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/paranoia-2.3.1/lib" />
