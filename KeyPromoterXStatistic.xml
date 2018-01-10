@@ -214,7 +214,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>359</Count>
+          <Count>360</Count>
         </Item>
       </Statistic>
       <Statistic Action="Drop">
@@ -670,7 +670,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'All specs in server:...'</Description>
-          <Count>19</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'BookInfoController T...'">
@@ -1255,6 +1255,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'StudentCurriculetAssignmentDecorator#as_json should return correct values in json fields : server'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Subscriptions: server'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Subscriptions: server'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TeacherChangesSettings Should show settings page: server'">
