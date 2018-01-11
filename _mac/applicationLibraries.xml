@@ -11194,6 +11194,32 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@wri_server/gems/extlib-0.9.16/tasks" />
       </SOURCES>
     </library>
+    <library name="factory_bot (v4.8.2, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/factory_bot-4.8.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/factory_bot-4.8.2/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/factory_bot-4.8.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/factory_bot-4.8.2/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="factory_bot_rails (v4.8.2, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/factory_bot_rails-4.8.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/factory_bot_rails-4.8.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/factory_bot_rails-4.8.2/tmp" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/factory_bot_rails-4.8.2/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/factory_bot_rails-4.8.2/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/factory_bot_rails-4.8.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/factory_bot_rails-4.8.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/factory_bot_rails-4.8.2/tmp" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/factory_bot_rails-4.8.2/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/factory_bot_rails-4.8.2/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="factory_girl (v3.6.2, RVM: ruby-2.2.1 [ada]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@ada/gems/factory_girl-3.6.2/lib" />
