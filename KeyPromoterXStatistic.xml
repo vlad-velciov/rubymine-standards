@@ -129,6 +129,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Service::ClassroomsC...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'Service::ClassroomsC...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Service::LicensedCon...'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -193,6 +201,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'book_processor'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'book_processor'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'preview_exp_dates:se...'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -214,7 +230,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>397</Count>
+          <Count>426</Count>
         </Item>
       </Statistic>
       <Statistic Action="Drop">
@@ -230,7 +246,7 @@
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
           <ShortCut>'⌘3'</ShortCut>
           <Description>Find</Description>
-          <Count>46</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -622,7 +638,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>495</Count>
+          <Count>497</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -646,7 +662,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>54</Count>
+          <Count>55</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ActivityBlock#DB: se...'">
@@ -1358,6 +1374,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'activity_block'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'book_processor'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'book_processor'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
