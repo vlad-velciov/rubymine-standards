@@ -230,7 +230,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>431</Count>
+          <Count>433</Count>
         </Item>
       </Statistic>
       <Statistic Action="Drop">
@@ -414,6 +414,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Enroll in Class  when student needs to sign up: server'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Import students when file is a valid csv: server-acceptance-tests'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Import students when file is a valid csv: server-acceptance-tests'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -775,6 +783,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Generator: generate_...'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Import students when...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Import students when...'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ImportExternalCurric...'">
@@ -1183,6 +1199,22 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Enroll in Class  when student needs to sign up Can sign up with email/password: server'</Description>
           <Count>21</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Import students when file is a valid csv enables disabled student in same organization: server-acceptance-tests'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Import students when file is a valid csv enables disabled student in same organization: server-acceptance-tests'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Import students when file is a valid csv: server-acceptance-tests'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Import students when file is a valid csv: server-acceptance-tests'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ImportExternalCurriculetsController creating a new import processing returns a flash message should send an email to the current user with the results: server'">
