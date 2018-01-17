@@ -2480,6 +2480,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@wri_server/gems/arbre-1.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="archive-zip (v0.7.0, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/archive-zip-0.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/archive-zip-0.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="arel (v5.0.1.20140414130214, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/arel-5.0.1.20140414130214/lib" />
@@ -6788,6 +6796,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/capybara-2.16.1/.yard" />
       </SOURCES>
     </library>
+    <library name="capybara (v2.17.0, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/capybara-2.17.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/capybara-2.17.0/.yard" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/capybara-2.17.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/capybara-2.17.0/.yard" />
+      </SOURCES>
+    </library>
     <library name="capybara (v2.5.0, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/capybara-2.5.0/lib" />
@@ -7270,6 +7288,18 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/childprocess-0.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="chromedriver-helper (v1.1.0, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/chromedriver-helper-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/chromedriver-helper-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/chromedriver-helper-1.1.0/concourse" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/chromedriver-helper-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/chromedriver-helper-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/chromedriver-helper-1.1.0/concourse" />
       </SOURCES>
     </library>
     <library name="chunky_png (v1.3.4, RVM: ruby-2.2.1 [wri_server]) [gem]">
@@ -18288,6 +18318,14 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/unicode_normalize" />
       </SOURCES>
     </library>
+    <library name="io-like (v0.3.0, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/io-like-0.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/io-like-0.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="ipaddress (v0.8.0, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/ipaddress-0.8.0/lib" />
@@ -25298,6 +25336,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ada/gems/puma-3.11.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ada/gems/puma-3.11.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ada/gems/puma-3.11.0/tools" />
+      </SOURCES>
+    </library>
+    <library name="puma (v3.11.0, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.11.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/puma-3.11.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/puma-3.11.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/puma-3.11.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/puma-3.11.0/tools" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.11.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/puma-3.11.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/puma-3.11.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/puma-3.11.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/puma-3.11.0/tools" />
       </SOURCES>
     </library>
     <library name="puma (v3.9.1, RVM: ruby-2.4.0) [gem]">
@@ -36574,6 +36628,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/xpath-2.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="xpath (v3.0.0, RVM: ruby-2.4.1 [wri_server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/xpath-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/xpath-3.0.0/lib" />
       </SOURCES>
     </library>
     <library name="yajl-ruby (v1.2.1, RVM: ruby-2.2.1 [wri_server]) [gem]">

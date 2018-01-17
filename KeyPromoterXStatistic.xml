@@ -222,7 +222,7 @@
           <IdeaActionID>ChooseDebugConfiguration</IdeaActionID>
           <ShortCut>'⌥⇧F9'</ShortCut>
           <Description>Debug...</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -1486,7 +1486,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Test">
@@ -1510,7 +1510,7 @@
           <IdeaActionID>railways.UpdateRoutesList</IdeaActionID>
           <ShortCut>'⇧⌘\'</ShortCut>
           <Description>Update route list</Description>
-          <Count>3</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Variable...">
