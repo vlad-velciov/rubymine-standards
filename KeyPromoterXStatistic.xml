@@ -169,6 +169,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Teachers::Checkpoint...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'Teachers::Checkpoint...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Teachers::CreateTeac...'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -230,7 +238,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>489</Count>
+          <Count>491</Count>
         </Item>
       </Statistic>
       <Statistic Action="Drop">
@@ -654,7 +662,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>533</Count>
+          <Count>540</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
