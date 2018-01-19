@@ -662,7 +662,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>546</Count>
+          <Count>584</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1319,6 +1319,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'QaApi::TeachersController creating a teacher should not create a teacher with the admin role if the flag is false: server'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'QuickSort sorts the GeeksForGeeks example: generate_b_string'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'QuickSort sorts the GeeksForGeeks example: generate_b_string'</Description>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'RecursiveMultiplication: generate_b_string'">
