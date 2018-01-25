@@ -16366,6 +16366,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/bundler/gems/infra-38fc0ef2d863/tasks" />
       </SOURCES>
     </library>
+    <library name="infra (v1.0.0@b225ac, RVM: ruby-2.4.1 [ada]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ada/bundler/gems/infra-b225ac9af89b/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ada/bundler/gems/infra-b225ac9af89b/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ada/bundler/gems/infra-b225ac9af89b/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ada/bundler/gems/infra-b225ac9af89b/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ada/bundler/gems/infra-b225ac9af89b/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@ada/bundler/gems/infra-b225ac9af89b/tasks" />
+      </SOURCES>
+    </library>
     <library name="infra (v1.0.0@b225ac, RVM: ruby-2.4.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/bundler/gems/infra-b225ac9af89b/bin" />
