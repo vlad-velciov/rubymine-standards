@@ -97,6 +97,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'LongestPalindrome fi...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'LongestPalindrome fi...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'MatrixMultiplication...'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -686,7 +694,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>592</Count>
+          <Count>605</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -863,6 +871,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Limit Active Session...'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'LongestPalindrome: g...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'LongestPalindrome: g...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'MatrixMultiplication...'">
@@ -1287,6 +1303,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Limit Active Sessions: server'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'LongestPalindrome finds a letter from a 3 string non palindrome: generate_b_string'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'LongestPalindrome finds a letter from a 3 string non palindrome: generate_b_string'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MatrixMultiplication should multiply 2 4x4 matrices: generate_b_string'">
