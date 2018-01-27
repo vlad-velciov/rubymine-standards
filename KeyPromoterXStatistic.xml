@@ -254,7 +254,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>511</Count>
+          <Count>512</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -295,6 +295,14 @@
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Inline...">
+        <Item>
+          <IdeaActionID>Inline</IdeaActionID>
+          <ShortCut>'⌥⌘N'</ShortCut>
+          <Description>Inline...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move Watch Up">
