@@ -254,7 +254,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>512</Count>
+          <Count>513</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -943,6 +943,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'QaApi::TeachersContr...'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'QuickSort sorts the ...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'QuickSort sorts the ...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'RecursiveMultiplicat...'">
