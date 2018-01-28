@@ -718,7 +718,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>639</Count>
+          <Count>654</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -918,7 +918,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'MedianSortedArrays s...'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'MedianSortedArrays: ...'">
@@ -1422,7 +1422,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'MedianSortedArrays should return 4.5 for [1,2,3,4] and [5,6,7,8]: generate_b_string'</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MedianSortedArrays: generate_b_string'">
@@ -1430,7 +1430,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'MedianSortedArrays: generate_b_string'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MergeSort should order a 2 element array: generate_b_string'">
