@@ -54,7 +54,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>82</Count>
+          <Count>83</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ActivityBlock: server'">
@@ -111,6 +111,14 @@
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Debug 'MatrixMultiplication...'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'MedianSortedArrays s...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'MedianSortedArrays s...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'MergeSort should ord...'">
@@ -702,7 +710,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>605</Count>
+          <Count>618</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -897,12 +905,20 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'MedianSortedArrays s...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'MedianSortedArrays s...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'MedianSortedArrays: ...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'MedianSortedArrays: ...'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'MergeSort: generate_...'">
@@ -1390,6 +1406,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'MedianSortedArrays calculates for unequal size small arrays: generate_b_string'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MedianSortedArrays should return 4.5 for [1,2,3,4] and [5,6,7,8]: generate_b_string'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'MedianSortedArrays should return 4.5 for [1,2,3,4] and [5,6,7,8]: generate_b_string'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
