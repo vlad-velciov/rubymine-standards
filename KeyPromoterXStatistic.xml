@@ -897,6 +897,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'MedianSortedArrays: ...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'MedianSortedArrays: ...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'MergeSort: generate_...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1374,6 +1382,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'MatrixMultiplication: generate_b_string'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MedianSortedArrays calculates for unequal size small arrays: generate_b_string'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'MedianSortedArrays calculates for unequal size small arrays: generate_b_string'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
