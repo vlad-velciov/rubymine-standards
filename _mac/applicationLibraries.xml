@@ -28414,6 +28414,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/rack-proxy-0.6.3/lib" />
       </SOURCES>
     </library>
+    <library name="rack-proxy (v0.6.3, RVM: ruby-2.4.3 [server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/rack-proxy-0.6.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/rack-proxy-0.6.3/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-test (v0.6.3, RVM: ruby-2.2.1 [ada]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@ada/gems/rack-test-0.6.3/lib" />
@@ -34776,6 +34784,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/sawyer-0.8.1/script" />
       </SOURCES>
     </library>
+    <library name="scout_apm (v2.4.7, RVM: ruby-2.4.3 [server]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/scout_apm/2.4.7" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/scout_apm-2.4.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/scout_apm-2.4.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/scout_apm-2.4.7/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/scout_apm/2.4.7" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/scout_apm-2.4.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/scout_apm-2.4.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/scout_apm-2.4.7/data" />
+      </SOURCES>
+    </library>
     <library name="sdoc (v0.4.2, RVM: ruby-2.4.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/sdoc-0.4.2/bin" />
@@ -39360,6 +39382,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/bundler/gems/webpacker-8c8248277aa9/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/bundler/gems/webpacker-8c8248277aa9/package" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/bundler/gems/webpacker-8c8248277aa9/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="webpacker (v3.1.1@8c8248, RVM: ruby-2.4.3 [server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/bundler/gems/webpacker-8c8248277aa9/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/bundler/gems/webpacker-8c8248277aa9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/bundler/gems/webpacker-8c8248277aa9/package" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/bundler/gems/webpacker-8c8248277aa9/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/bundler/gems/webpacker-8c8248277aa9/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/bundler/gems/webpacker-8c8248277aa9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/bundler/gems/webpacker-8c8248277aa9/package" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/bundler/gems/webpacker-8c8248277aa9/gemfiles" />
       </SOURCES>
     </library>
     <library name="websocket (v1.2.3, RVM: ruby-2.2.1 [wri_server]) [gem]">
