@@ -21,6 +21,12 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="EditorDuplicate" />
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoProject" />
   <action id="FindInPath">
@@ -30,6 +36,9 @@
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="shift meta g" />
+  </action>
+  <action id="Images.Editor.ZoomIn">
+    <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="Macro.Tabs To Top">
     <keyboard-shortcut first-keystroke="shift meta f1" />
@@ -66,5 +75,8 @@
   </action>
   <action id="Uml.ShowDiff" />
   <action id="XDebugger.CopyWatch" />
+  <action id="XDebugger.NewWatch">
+    <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
