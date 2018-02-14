@@ -494,7 +494,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Development: server'</Description>
-          <Count>70</Count>
+          <Count>71</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Enroll in Class  when student has account Can sign in with email/password: server'">
@@ -1342,7 +1342,7 @@
           <IdeaActionID>ChooseRunConfiguration</IdeaActionID>
           <ShortCut>'⌥⇧F10'</ShortCut>
           <Description>Run...</Description>
-          <Count>43</Count>
+          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show All Affected Files">
@@ -1478,7 +1478,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Development: server'</Description>
-          <Count>40</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Enroll in Class  when student has account Can sign in with email/password: server'">
