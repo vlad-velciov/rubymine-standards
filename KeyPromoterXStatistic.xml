@@ -961,6 +961,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'LookAndSay spells 13...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'LookAndSay spells 13...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'MatrixMultiplication...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
