@@ -286,7 +286,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>745</Count>
+          <Count>757</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -790,7 +790,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>763</Count>
+          <Count>765</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1687,6 +1687,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Specs without acceptance'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Store::CreateBookBank: server'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Store::CreateBookBank: server'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'StudentCurriculetAssignmentDecorator#as_json should return correct values in json fields : server'">
