@@ -286,7 +286,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>729</Count>
+          <Count>738</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -399,6 +399,14 @@
           <ShortCut>'⌘E'</ShortCut>
           <Description>Recent Find Usages</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Refactor This...">
+        <Item>
+          <IdeaActionID>Refactorings.QuickListPopupAction</IdeaActionID>
+          <ShortCut>'⌥⇧⌘T'</ShortCut>
+          <Description>Refactor This...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reload Page">
