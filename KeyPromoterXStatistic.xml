@@ -286,7 +286,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>788</Count>
+          <Count>801</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -510,7 +510,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Development: server'</Description>
-          <Count>82</Count>
+          <Count>83</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Enroll in Class  when student has account Can sign in with email/password: server'">
@@ -790,7 +790,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>766</Count>
+          <Count>767</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1518,7 +1518,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Development: server'</Description>
-          <Count>43</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Enroll in Class  when student has account Can sign in with email/password: server'">
@@ -1918,7 +1918,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
     </option>
