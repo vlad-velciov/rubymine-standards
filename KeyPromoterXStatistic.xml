@@ -294,7 +294,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>873</Count>
+          <Count>877</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -887,6 +887,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'BookBank has a defau...'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'BookBank when a book...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'BookBank when a book...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'BookBank: server'">
