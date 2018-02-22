@@ -193,6 +193,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Store::FulfillOrder ...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'Store::FulfillOrder ...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Students::ReaderCont...'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -286,7 +294,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>869</Count>
+          <Count>873</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -649,12 +657,20 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Store::FulfillOrder when a license is purchased the organization promote service is called: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Store::FulfillOrder when a license is purchased the organization promote service is called: server'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Store::FulfillOrder: server'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Store::FulfillOrder: server'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'StudentCurriculetAssignmentDecorator#as_json should return correct values in json fields : server'">
@@ -806,7 +822,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>770</Count>
+          <Count>773</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1142,7 +1158,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Store::FulfillOrder ...'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Store::ProcessFoxyca...'">
@@ -1422,7 +1438,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'⌥F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Visualisation Popup...">
@@ -1734,6 +1750,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Store::FulfillOrder raises error if productable is not found: server'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Store::FulfillOrder with a valid batch created for a teacher with curriculet_id calls  CurriculetOps::CopyToLibrary: server'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Store::FulfillOrder with a valid batch created for a teacher with curriculet_id calls  CurriculetOps::CopyToLibrary: server'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
