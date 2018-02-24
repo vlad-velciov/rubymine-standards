@@ -201,6 +201,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Store::LineItem#find...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'Store::LineItem#find...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Students::ReaderCont...'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -822,7 +830,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>774</Count>
+          <Count>775</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1767,6 +1775,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Store::FulfillOrder with a valid batch created for a teacher with curriculet_id calls  CurriculetOps::CopyToLibrary: server'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Store::LineItem: server'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Store::LineItem: server'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'StudentCurriculetAssignmentDecorator#as_json should return correct values in json fields : server'">
