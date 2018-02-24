@@ -206,7 +206,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Debug 'Store::LineItem#find...'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Students::ReaderCont...'">
@@ -302,7 +302,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>919</Count>
+          <Count>920</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -1774,6 +1774,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Store::FulfillOrder with a valid batch created for a teacher with curriculet_id calls  CurriculetOps::CopyToLibrary: server'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Store::LineItem#find_productable when product is not found raises a Store::InvalidProduct error: server'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Store::LineItem#find_productable when product is not found raises a Store::InvalidProduct error: server'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
