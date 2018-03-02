@@ -6132,6 +6132,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/bourbon-4.3.4/features" />
       </SOURCES>
     </library>
+    <library name="bourbon (v5.0.0, RVM: ruby-2.4.3 [server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/bourbon-5.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/bourbon-5.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/bourbon-5.0.0/core" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/bourbon-5.0.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/bourbon-5.0.0/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/bourbon-5.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/bourbon-5.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/bourbon-5.0.0/core" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/bourbon-5.0.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/bourbon-5.0.0/features" />
+      </SOURCES>
+    </library>
     <library name="breakpoint (v2.5.0, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/breakpoint-2.5.0/lib" />
@@ -24332,6 +24348,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/mustermann-1.0.1/bench" />
       </SOURCES>
     </library>
+    <library name="neat (v2.1.0, RVM: ruby-2.4.3 [server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/neat-2.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/neat-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/neat-2.1.0/core" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/neat-2.1.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/neat-2.1.0/contrib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/neat-2.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/neat-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/neat-2.1.0/core" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/neat-2.1.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/neat-2.1.0/contrib" />
+      </SOURCES>
+    </library>
     <library name="nenv (v0.3.0, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/nenv-0.3.0/lib" />
@@ -38772,6 +38804,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/uglifier-4.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="uglifier (v4.1.6, RVM: ruby-2.4.3 [server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/uglifier-4.1.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/uglifier-4.1.6/lib" />
       </SOURCES>
     </library>
     <library name="unf (v0.1.4, RVM: ruby-2.2.1 [wri_server]) [gem]">
