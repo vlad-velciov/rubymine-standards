@@ -94,7 +94,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Debug 'Enroll in Class  whe...'</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'LongestPalindrome fi...'">
@@ -310,7 +310,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>964</Count>
+          <Count>969</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -574,6 +574,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Enroll in Class  when student needs to sign up: server'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Enroll in Class  when user is logged in student is enrolled immediately: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Enroll in Class  when user is logged in student is enrolled immediately: server'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -846,7 +854,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>789</Count>
+          <Count>793</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -870,7 +878,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>84</Count>
+          <Count>86</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ActivityBlock#DB: se...'">
@@ -894,7 +902,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'All specs in server:...'</Description>
-          <Count>37</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'BookBank cannot crea...'">
@@ -1689,6 +1697,14 @@
           <Count>21</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Enroll in Class  when user is logged in student is enrolled immediately: server'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Enroll in Class  when user is logged in student is enrolled immediately: server'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Import students when file is a valid csv enables disabled student in same organization: server-acceptance-tests'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2070,7 +2086,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'⌥⌘Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>26</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
