@@ -310,7 +310,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>971</Count>
+          <Count>972</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -479,6 +479,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'All specs in server: server'</Description>
           <Count>13</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Book Shuffled scopes should shuffle records, depending on date: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Book Shuffled scopes should shuffle records, depending on date: server'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Book: server'">
@@ -854,7 +862,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>793</Count>
+          <Count>807</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1617,6 +1625,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Book Shuffled scopes should shuffle records, depending on date: server'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Book Shuffled scopes should shuffle records, depending on date: server'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'BookBank: server'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2150,7 +2166,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>15</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
     </option>
