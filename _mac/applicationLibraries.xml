@@ -2642,6 +2642,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/annotate-2.7.2/lib" />
       </SOURCES>
     </library>
+    <library name="annotate (v2.7.2@3c9075, RVM: ruby-2.4.3 [server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/bundler/gems/annotate_models-3c90753a4459/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/bundler/gems/annotate_models-3c90753a4459/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/bundler/gems/annotate_models-3c90753a4459/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/bundler/gems/annotate_models-3c90753a4459/lib" />
+      </SOURCES>
+    </library>
     <library name="ansi (v1.5.0, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/ansi-1.5.0/lib" />
