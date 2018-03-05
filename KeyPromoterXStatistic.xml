@@ -310,7 +310,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>972</Count>
+          <Count>973</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -390,7 +390,7 @@
           <IdeaActionID>Jdbc.OpenConsole</IdeaActionID>
           <ShortCut>'⇧⌘F10'</ShortCut>
           <Description>Open Console</Description>
-          <Count>12</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -886,7 +886,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>87</Count>
+          <Count>91</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ActivityBlock#DB: se...'">
@@ -910,7 +910,15 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'All specs in server:...'</Description>
-          <Count>38</Count>
+          <Count>39</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Book Shuffled scopes...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Book Shuffled scopes...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'BookBank cannot crea...'">
@@ -1542,7 +1550,7 @@
           <IdeaActionID>VcsHistory.ShowAllAffected</IdeaActionID>
           <ShortCut>'⌥⇧A'</ShortCut>
           <Description>Show All Affected Files</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
