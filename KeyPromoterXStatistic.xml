@@ -310,7 +310,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>982</Count>
+          <Count>985</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -487,6 +487,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Book Shuffled scopes should shuffle records, depending on date: server'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Book Shuffled scopes: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Book Shuffled scopes: server'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Book: server'">
