@@ -326,7 +326,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1043</Count>
+          <Count>1049</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -1415,6 +1415,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Students::CsvProcess...'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Students::ReaderCont...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Students::ReaderCont...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Students::UpdateRead...'">
