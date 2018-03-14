@@ -26756,6 +26756,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/bundler/gems/pages-263fa994531f/.idea" />
       </SOURCES>
     </library>
+    <library name="pages (v1.0.0@acf47a, RVM: ruby-2.4.3 [server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/bundler/gems/pages-acf47a51d626/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/bundler/gems/pages-acf47a51d626/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/bundler/gems/pages-acf47a51d626/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/bundler/gems/pages-acf47a51d626/lib" />
+      </SOURCES>
+    </library>
     <library name="pages (v1.0.0@be9bb7, RVM: ruby-2.4.1 [server-acceptance-tests]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@server-acceptance-tests/bundler/gems/pages-be9bb70c21d7/bin" />
@@ -27960,6 +27970,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@server-acceptance-tests/gems/public_suffix-3.0.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@server-acceptance-tests/gems/public_suffix-3.0.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@server-acceptance-tests/gems/public_suffix-3.0.2/data" />
+      </SOURCES>
+    </library>
+    <library name="public_suffix (v3.0.2, RVM: ruby-2.4.3 [server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/public_suffix-3.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/public_suffix-3.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/public_suffix-3.0.2/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/public_suffix-3.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/public_suffix-3.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/public_suffix-3.0.2/data" />
       </SOURCES>
     </library>
     <library name="pubnub (v3.7.12, RVM: ruby-2.2.1 [ada]) [gem]">
