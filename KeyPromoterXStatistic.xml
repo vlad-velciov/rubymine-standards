@@ -326,7 +326,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1049</Count>
+          <Count>1051</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -759,6 +759,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'StudentCurriculetAssignmentDecorator#as_json should return correct values in json fields : server'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Students::ReaderController: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Students::ReaderController: server'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Students::UpdateReadingLevel should update a students reading level if lexile changes and student doesnt have a reading level: server'">
@@ -1422,7 +1430,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Students::ReaderCont...'</Description>
-          <Count>1</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Students::UpdateRead...'">
