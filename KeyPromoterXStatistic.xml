@@ -326,7 +326,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1041</Count>
+          <Count>1043</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -438,7 +438,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recent Find Usages">
@@ -2214,7 +2214,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>20</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Test">
