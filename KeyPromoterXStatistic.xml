@@ -918,7 +918,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Routes">
@@ -1407,6 +1407,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Students::UpdateRead...'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Teacher Login can no...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Teacher Login can no...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Teacher Login: server'">
