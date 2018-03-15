@@ -153,6 +153,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Organizations::Limit...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'Organizations::Limit...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'QaApi::StudentsContr...'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -974,7 +982,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>847</Count>
+          <Count>849</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1294,7 +1302,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Organizations::Limit...'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'QaApi::ClassroomsCon...'">
