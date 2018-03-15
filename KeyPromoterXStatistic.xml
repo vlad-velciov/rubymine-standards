@@ -761,6 +761,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Students::ReaderController When logged in as a student read_curriculet Limit independent books reading flag is activated: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Students::ReaderController When logged in as a student read_curriculet Limit independent books reading flag is activated: server'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Students::ReaderController: server'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
