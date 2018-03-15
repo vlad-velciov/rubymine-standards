@@ -326,7 +326,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1051</Count>
+          <Count>1055</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -753,6 +753,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'StudentCurriculetAssignment#independent_books_in_bag: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'StudentCurriculetAssignment#independent_books_in_bag: server'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'StudentCurriculetAssignmentDecorator#as_json should return correct values in json fields : server'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -774,7 +782,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Students::ReaderController: server'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Students::UpdateReadingLevel should update a students reading level if lexile changes and student doesnt have a reading level: server'">
@@ -942,7 +950,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>844</Count>
+          <Count>846</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1390,7 +1398,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'StudentCurriculetAss...'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'StudentDecorator: se...'">
