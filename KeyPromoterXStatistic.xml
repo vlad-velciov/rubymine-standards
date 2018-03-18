@@ -1921,6 +1921,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'IntegerToRoman: generate_b_string'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'IntegerToRoman: generate_b_string'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Limit Active Sessions: server'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
