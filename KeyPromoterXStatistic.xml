@@ -342,7 +342,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1091</Count>
+          <Count>1093</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -1039,6 +1039,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'All specs in server:...'</Description>
           <Count>39</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Assignments::RemoveE...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Assignments::RemoveE...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Book Shuffled scopes...'">
