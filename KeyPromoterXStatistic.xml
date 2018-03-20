@@ -334,7 +334,7 @@
           <IdeaActionID>ChooseDebugConfiguration</IdeaActionID>
           <ShortCut>'⌥⇧F9'</ShortCut>
           <Description>Debug...</Description>
-          <Count>44</Count>
+          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -2374,7 +2374,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>21</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
     </option>
