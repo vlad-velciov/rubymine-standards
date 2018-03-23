@@ -225,6 +225,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Store::BookBankCreat...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'Store::BookBankCreat...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Store::FulfillOrder ...'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -350,7 +358,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1151</Count>
+          <Count>1157</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -1006,7 +1014,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>908</Count>
+          <Count>909</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1127,6 +1135,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'BookBankDecorator#as...'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'BookBankDecorator: s...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'BookBankDecorator: s...'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'BookInfoController T...'">
@@ -1430,7 +1446,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Service::BookBanksCo...'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Service::NewsArticle...'">
@@ -1446,7 +1462,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Store::BookBankCreat...'</Description>
-          <Count>1</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Store::FulfillOrder ...'">
@@ -1686,7 +1702,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Users::BookBankOwner...'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ValidParenthesis sho...'">
