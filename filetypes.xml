@@ -12,7 +12,6 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="spec" type="PLAIN_TEXT" />
       <mapping ext="etb" type="PLAIN_TEXT" />
-      <mapping ext="markdown" type="PLAIN_TEXT" />
       <mapping ext="epub" type="PLAIN_TEXT" />
       <mapping ext="eco" type="RHTML" />
       <mapping pattern="Rakekfile" type="Ruby" />

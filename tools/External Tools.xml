@@ -13,7 +13,7 @@
       <option name="WORKING_DIRECTORY" value="/Applications/Utilities" />
     </exec>
   </tool>
-  <tool name="killspring" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+  <tool name="killspring" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
     <exec>
       <option name="COMMAND" value="bash" />
       <option name="PARAMETERS" value="-l -c &quot;ps -ef | grep spring | grep -v grep | awk '{print $2}' | xargs kill -9&quot;" />
