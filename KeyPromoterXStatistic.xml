@@ -1022,7 +1022,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>913</Count>
+          <Count>915</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
