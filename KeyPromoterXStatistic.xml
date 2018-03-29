@@ -1038,7 +1038,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>980</Count>
+          <Count>982</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1479,6 +1479,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Service::BookBanksCo...'</Description>
           <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Service::LicensedCon...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Service::LicensedCon...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Service::NewsArticle...'">
@@ -2470,7 +2478,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>28</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
     </option>
