@@ -2009,6 +2009,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'CurriculetInfoController preview as a vistor book has no preview should show unlicensed template for PAID products: server'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'CurriculetInfoController preview as a vistor book has no preview should show unlicensed template for PAID products: server'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'CurriculetInfoController: server'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
