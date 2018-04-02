@@ -1449,6 +1449,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Nesting C#nesting sh...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Nesting C#nesting sh...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Nesting shows the ne...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
