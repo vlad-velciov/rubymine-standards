@@ -462,7 +462,7 @@
           <IdeaActionID>XDebugger.NewWatch</IdeaActionID>
           <ShortCut>'⌘='</ShortCut>
           <Description>New Watch...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Console">
@@ -1078,7 +1078,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1024</Count>
+          <Count>1029</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">

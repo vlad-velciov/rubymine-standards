@@ -10060,6 +10060,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/declarative-option-0.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="derailed (v0.1.0, RVM: ruby-2.4.3 [server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/derailed-0.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/derailed-0.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="derailed_benchmarks (v1.3.4, RVM: ruby-2.4.3 [server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/derailed_benchmarks-1.3.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/derailed_benchmarks-1.3.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/derailed_benchmarks-1.3.4/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/derailed_benchmarks-1.3.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/derailed_benchmarks-1.3.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/derailed_benchmarks-1.3.4/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="descendants_tracker (v0.0.4, RVM: ruby-2.4.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/descendants_tracker-0.0.4/lib" />
@@ -16302,6 +16322,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/get_process_mem-0.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="get_process_mem (v0.2.1, RVM: ruby-2.4.3 [server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/get_process_mem-0.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/get_process_mem-0.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="gh (v0.14.0, RVM: ruby-2.2.6 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/gh-0.14.0/lib" />
@@ -17368,6 +17396,18 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/hashr-0.0.22/lib" />
+      </SOURCES>
+    </library>
+    <library name="heapy (v0.1.3, RVM: ruby-2.4.3 [server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/heapy-0.1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/heapy-0.1.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/heapy-0.1.3/weird_memory" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/heapy-0.1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/heapy-0.1.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/heapy-0.1.3/weird_memory" />
       </SOURCES>
     </library>
     <library name="highline (v1.7.10, RVM: ruby-2.4.1 [wri_server]) [gem]">
