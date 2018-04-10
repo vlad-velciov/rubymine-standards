@@ -374,7 +374,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1223</Count>
+          <Count>1238</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -1078,7 +1078,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1000</Count>
+          <Count>1013</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2646,7 +2646,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
     </option>
