@@ -5902,6 +5902,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/bcrypt-ruby-3.1.5/lib" />
       </SOURCES>
     </library>
+    <library name="benchmark-ips (v2.7.2, RVM: ruby-2.4.3 [server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/benchmark-ips-2.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/benchmark-ips-2.7.2/lib" />
+      </SOURCES>
+    </library>
     <library name="bigdecimal (v1.3.0, RVM: ruby-2.4.1 [ada]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/bigdecimal" />
@@ -23328,6 +23336,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@wri_server/gems/memoist-0.16.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@wri_server/gems/memoist-0.16.0/script" />
+      </SOURCES>
+    </library>
+    <library name="memory_profiler (v0.9.10, RVM: ruby-2.4.3 [server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/memory_profiler-0.9.10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/memory_profiler-0.9.10/lib" />
       </SOURCES>
     </library>
     <library name="mercenary (v0.3.6, RVM: ruby-2.4.0 [blog]) [gem]">
