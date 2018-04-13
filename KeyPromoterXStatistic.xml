@@ -2654,7 +2654,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>33</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
     </option>
