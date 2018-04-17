@@ -374,7 +374,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1295</Count>
+          <Count>1297</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -1990,7 +1990,7 @@
           <IdeaActionID>ChooseRunConfiguration</IdeaActionID>
           <ShortCut>'⌥⇧F10'</ShortCut>
           <Description>Run...</Description>
-          <Count>53</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show All Affected Files">
