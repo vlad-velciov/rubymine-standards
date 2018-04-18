@@ -1193,6 +1193,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Assignments::RecalcC...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Assignments::RecalcC...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Assignments::RemoveE...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
