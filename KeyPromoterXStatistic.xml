@@ -1337,6 +1337,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'CurriculetOps::Impor...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'CurriculetOps::Impor...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Data::ActivityStreak...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
