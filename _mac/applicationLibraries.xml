@@ -2116,6 +2116,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/addressable-2.5.2/tasks" />
       </SOURCES>
     </library>
+    <library name="addressable (v2.5.2, RVM: ruby-2.5.1 [trackmycash]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/addressable-2.5.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/addressable-2.5.2/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/addressable-2.5.2/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/addressable-2.5.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/addressable-2.5.2/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/addressable-2.5.2/tasks" />
+      </SOURCES>
+    </library>
     <library name="airbrake (v4.1.0, RVM: ruby-2.2.1 [ada]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@ada/gems/airbrake-4.1.0/bin" />
@@ -9924,6 +9936,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-0.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.2, RVM: ruby-2.5.1 [trackmycash]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/debase-0.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/debase-0.2.2/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/debase-0.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/debase-0.2.2/ext" />
+      </SOURCES>
+    </library>
     <library name="debase (v0.2.2.beta10, RVM: ruby-2.2.6 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/debase-0.2.2.beta10/ext" />
@@ -10076,6 +10098,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/debase-ruby_core_source-0.10.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.2, RVM: ruby-2.5.1 [trackmycash]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/debase-ruby_core_source-0.10.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/debase-ruby_core_source-0.10.2/lib" />
       </SOURCES>
     </library>
     <library name="debase-ruby_core_source (v0.9.10, RVM: ruby-2.4.1 [wri_server]) [gem]">
@@ -10236,12 +10266,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/declarative-0.0.10/lib" />
       </SOURCES>
     </library>
+    <library name="declarative (v0.0.10, RVM: ruby-2.5.1 [trackmycash]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/declarative-0.0.10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/declarative-0.0.10/lib" />
+      </SOURCES>
+    </library>
     <library name="declarative-option (v0.1.0, RVM: ruby-2.4.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/declarative-option-0.1.0/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/declarative-option-0.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="declarative-option (v0.1.0, RVM: ruby-2.5.1 [trackmycash]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/declarative-option-0.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/declarative-option-0.1.0/lib" />
       </SOURCES>
     </library>
     <library name="derailed (v0.1.0, RVM: ruby-2.4.3 [server]) [gem]">
@@ -13624,6 +13670,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/faraday-0.12.2/lib" />
       </SOURCES>
     </library>
+    <library name="faraday (v0.15.0, RVM: ruby-2.5.1 [trackmycash]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/faraday-0.15.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/faraday-0.15.0/lib" />
+      </SOURCES>
+    </library>
     <library name="faraday (v0.8.11, RVM: ruby-2.2.6 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@wri_server/gems/faraday-0.8.11/lib" />
@@ -16836,6 +16890,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/google-api-client-0.17.0/generated" />
       </SOURCES>
     </library>
+    <library name="google-api-client (v0.20.1, RVM: ruby-2.5.1 [trackmycash]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/google-api-client-0.20.1/samples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/google-api-client-0.20.1/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/google-api-client-0.20.1/generated" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/google-api-client-0.20.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/google-api-client-0.20.1/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/google-api-client-0.20.1/samples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/google-api-client-0.20.1/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/google-api-client-0.20.1/generated" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/google-api-client-0.20.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/google-api-client-0.20.1/bin" />
+      </SOURCES>
+    </library>
     <library name="google-api-client (v0.6.4, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/google-api-client-0.6.4/bin" />
@@ -16978,6 +17048,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/googleauth-0.6.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="googleauth (v0.6.2, RVM: ruby-2.5.1 [trackmycash]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/googleauth-0.6.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/googleauth-0.6.2/lib" />
       </SOURCES>
     </library>
     <library name="googlebooks (v0.0.9, RVM: ruby-2.2.1 [wri_server]) [gem]">
@@ -18302,6 +18380,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/httpclient-2.8.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/httpclient-2.8.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/httpclient-2.8.3/sample" />
+      </SOURCES>
+    </library>
+    <library name="httpclient (v2.8.3, RVM: ruby-2.5.1 [trackmycash]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/httpclient-2.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/httpclient-2.8.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/httpclient-2.8.3/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/httpclient-2.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/httpclient-2.8.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/httpclient-2.8.3/sample" />
       </SOURCES>
     </library>
     <library name="i18n (v0.7.0, RVM: ruby-2.2.1 [ada]) [gem]">
@@ -22010,6 +22100,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/jwt-1.5.6/lib" />
       </SOURCES>
     </library>
+    <library name="jwt (v2.1.0, RVM: ruby-2.5.1 [trackmycash]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/jwt-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/jwt-2.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="kaminari (v0.16.3, RVM: ruby-2.2.1 [ada]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@ada/gems/kaminari-0.16.3/app" />
@@ -22988,6 +23086,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@wri_server/gems/little-plugger-1.1.4/lib" />
       </SOURCES>
     </library>
+    <library name="little-plugger (v1.1.4, RVM: ruby-2.5.1 [trackmycash]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/little-plugger-1.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/little-plugger-1.1.4/lib" />
+      </SOURCES>
+    </library>
     <library name="logging (v2.2.2, RVM: ruby-2.4.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/logging-2.2.2/lib" />
@@ -23006,6 +23112,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@wri_server/gems/logging-2.2.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@wri_server/gems/logging-2.2.2/script" />
+      </SOURCES>
+    </library>
+    <library name="logging (v2.2.2, RVM: ruby-2.5.1 [trackmycash]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/logging-2.2.2/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/logging-2.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/logging-2.2.2/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/logging-2.2.2/lib" />
       </SOURCES>
     </library>
     <library name="loofah (v2.0.2, RVM: ruby-2.2.1 [ada]) [gem]">
@@ -23666,6 +23782,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@wri_server/gems/memoist-0.16.0/script" />
       </SOURCES>
     </library>
+    <library name="memoist (v0.16.0, RVM: ruby-2.5.1 [trackmycash]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/memoist-0.16.0/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/memoist-0.16.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/memoist-0.16.0/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/memoist-0.16.0/lib" />
+      </SOURCES>
+    </library>
     <library name="memory_profiler (v0.9.10, RVM: ruby-2.4.3 [server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/memory_profiler-0.9.10/lib" />
@@ -24276,6 +24402,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/mime-types-3.1/lib" />
       </SOURCES>
     </library>
+    <library name="mime-types (v3.1, RVM: ruby-2.5.1 [trackmycash]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/mime-types-3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/mime-types-3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="mime-types-data (v3.2016.0521, RVM: ruby-2.2.6 [qa_api]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@qa_api/gems/mime-types-data-3.2016.0521/lib" />
@@ -24384,6 +24518,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/mime-types-data-3.2016.0521/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/mime-types-data-3.2016.0521/data" />
+      </SOURCES>
+    </library>
+    <library name="mime-types-data (v3.2016.0521, RVM: ruby-2.5.1 [trackmycash]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/mime-types-data-3.2016.0521/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/mime-types-data-3.2016.0521/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/mime-types-data-3.2016.0521/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/mime-types-data-3.2016.0521/lib" />
       </SOURCES>
     </library>
     <library name="mimemagic (v0.3.2, RVM: ruby-2.2.6 [wri_server]) [gem]">
@@ -25446,6 +25590,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/multi_json-1.13.1/lib" />
       </SOURCES>
     </library>
+    <library name="multi_json (v1.13.1, RVM: ruby-2.5.1 [trackmycash]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/multi_json-1.13.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/multi_json-1.13.1/lib" />
+      </SOURCES>
+    </library>
     <library name="multi_xml (v0.5.2, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/multi_xml-0.5.2/lib" />
@@ -25564,6 +25716,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/multipart-post-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="multipart-post (v2.0.0, RVM: ruby-2.5.1 [trackmycash]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/multipart-post-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/multipart-post-2.0.0/lib" />
       </SOURCES>
     </library>
     <library name="mustermann (v1.0.1, RVM: ruby-2.4.1 [ada]) [gem]">
@@ -27370,6 +27530,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/nokogiri-1.8.2/suppressions" />
       </SOURCES>
     </library>
+    <library name="nokogiri (v1.8.2, RVM: ruby-2.5.1 [trackmycash]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/nokogiri-1.8.2/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/nokogiri-1.8.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/nokogiri-1.8.2/suppressions" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/nokogiri-1.8.2/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/nokogiri-1.8.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/nokogiri-1.8.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/nokogiri-1.8.2/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/nokogiri-1.8.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/nokogiri-1.8.2/suppressions" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/nokogiri-1.8.2/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/nokogiri-1.8.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/nokogiri-1.8.2/lib" />
+      </SOURCES>
+    </library>
     <library name="nori (v2.4.0, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/nori-2.4.0/lib" />
@@ -28006,6 +28186,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@wri_server/gems/os-0.9.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@wri_server/gems/os-0.9.6/autotest" />
+      </SOURCES>
+    </library>
+    <library name="os (v0.9.6, RVM: ruby-2.5.1 [trackmycash]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/os-0.9.6/autotest" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/os-0.9.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/os-0.9.6/autotest" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/os-0.9.6/lib" />
       </SOURCES>
     </library>
     <library name="os (v1.0.0, RVM: ruby-2.4.1 [server-acceptance-tests]) [gem]">
@@ -29464,6 +29654,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/public_suffix-3.0.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/public_suffix-3.0.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/public_suffix-3.0.2/data" />
+      </SOURCES>
+    </library>
+    <library name="public_suffix (v3.0.2, RVM: ruby-2.5.1 [trackmycash]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/public_suffix-3.0.2/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/public_suffix-3.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/public_suffix-3.0.2/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/public_suffix-3.0.2/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/public_suffix-3.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/public_suffix-3.0.2/bin" />
       </SOURCES>
     </library>
     <library name="pubnub (v3.7.12, RVM: ruby-2.2.1 [ada]) [gem]">
@@ -33616,6 +33818,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/representable-3.0.4/lib" />
       </SOURCES>
     </library>
+    <library name="representable (v3.0.4, RVM: ruby-2.5.1 [trackmycash]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/representable-3.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/representable-3.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="request_store (v1.1.0, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/request_store-1.1.0/lib" />
@@ -34804,6 +35014,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/retriable-3.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="retriable (v3.1.1, RVM: ruby-2.5.1 [trackmycash]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/retriable-3.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/retriable-3.1.1/lib" />
       </SOURCES>
     </library>
     <library name="rouge (v1.11.1, RVM: ruby-2.4.0 [blog]) [gem]">
@@ -36090,6 +36308,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/rubocop-0.53.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/rubocop-0.53.0/assets" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/rubocop-0.53.0/config" />
+      </SOURCES>
+    </library>
+    <library name="ruby-debug-ide (v0.6.1, RVM: ruby-2.5.1 [trackmycash]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/ruby-debug-ide-0.6.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/ruby-debug-ide-0.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/ruby-debug-ide-0.6.1/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/ruby-debug-ide-0.6.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/ruby-debug-ide-0.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/ruby-debug-ide-0.6.1/ext" />
       </SOURCES>
     </library>
     <library name="ruby-debug-ide (v0.6.1.beta3, RVM: ruby-2.2.1 [metamax]) [gem]">
@@ -38178,6 +38408,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/signet-0.8.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/signet-0.8.1/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/signet-0.8.1/website" />
+      </SOURCES>
+    </library>
+    <library name="signet (v0.8.1, RVM: ruby-2.5.1 [trackmycash]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/signet-0.8.1/website" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/signet-0.8.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/signet-0.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/signet-0.8.1/website" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/signet-0.8.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/signet-0.8.1/lib" />
       </SOURCES>
     </library>
     <library name="simplecov (v0.10.0, RVM: ruby-2.2.1 [ada]) [gem]">
@@ -41198,6 +41440,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/gems/uber-0.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="uber (v0.1.0, RVM: ruby-2.5.1 [trackmycash]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/uber-0.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/uber-0.1.0/lib" />
       </SOURCES>
     </library>
     <library name="uglifier (v2.5.1, RVM: ruby-2.2.1 [wri_server]) [gem]">

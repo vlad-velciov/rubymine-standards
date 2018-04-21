@@ -361,6 +361,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'spreadsheet'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9' or '⇧⌘D'</ShortCut>
+          <Description>Debug 'spreadsheet'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'utility'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -390,6 +398,14 @@
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Delete Row</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete...">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Delete...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1105,6 +1121,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'spreadsheet'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'spreadsheet'</Description>
+          <Count>18</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'teaspoon'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1142,7 +1166,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1147</Count>
+          <Count>1152</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2041,6 +2065,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'spreadsheet'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'spreadsheet'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'students_controller'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -2679,6 +2711,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'rspec:not_acceptance: server'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'spreadsheet'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'spreadsheet'</Description>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'teaspoon'">
