@@ -593,6 +593,14 @@
           <Count>13</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'As Teacher when selecting a free book added as ereader, book can be removed from Library: server-acceptance-tests'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'As Teacher when selecting a free book added as ereader, book can be removed from Library: server-acceptance-tests'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Book Shuffled scopes should shuffle records, depending on date: server'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1215,6 +1223,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'All specs in server:...'</Description>
           <Count>39</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'As Teacher when sele...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'As Teacher when sele...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Assignments::AssignC...'">
