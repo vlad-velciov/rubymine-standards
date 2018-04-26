@@ -145,6 +145,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Lic::Policy::BookRen...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'Lic::Policy::BookRen...'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'LongestPalindrome fi...'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -398,7 +406,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1434</Count>
+          <Count>1441</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -783,6 +791,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'ImportExternalCurriculetsController creating a new import processing returns a flash message should send an email to the current user with the results: server'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Lic::Policy::BookRentalCreateLicense#try_update_batch_and_create_license! has no other batch types with valid book bank for one of the beneficiary\'s teachers asdlkasjd: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Lic::Policy::BookRentalCreateLicense#try_update_batch_and_create_license! has no other batch types with valid book bank for one of the beneficiary\'s teachers asdlkasjd: server'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Lic::Policy::BookRentalCreateLicense: server'">
@@ -1190,7 +1206,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1182</Count>
+          <Count>1203</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1198,7 +1214,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Routes">
@@ -1534,7 +1550,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Lic::Policy::BookRen...'</Description>
-          <Count>4</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Lic::RetrieveLicense...'">
