@@ -10928,6 +10928,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-0.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.2, RVM: ruby-2.5.1 [server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/debase-0.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/debase-0.2.2/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/debase-0.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/debase-0.2.2/ext" />
+      </SOURCES>
+    </library>
     <library name="debase (v0.2.2, RVM: ruby-2.5.1 [trackmycash]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/debase-0.2.2/lib" />
@@ -11090,6 +11100,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/debase-ruby_core_source-0.10.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.2, RVM: ruby-2.5.1 [server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/debase-ruby_core_source-0.10.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/debase-ruby_core_source-0.10.2/lib" />
       </SOURCES>
     </library>
     <library name="debase-ruby_core_source (v0.10.2, RVM: ruby-2.5.1 [trackmycash]) [gem]">
@@ -40164,6 +40182,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/rubocop-0.53.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/rubocop-0.53.0/assets" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/rubocop-0.53.0/config" />
+      </SOURCES>
+    </library>
+    <library name="ruby-debug-ide (v0.6.1, RVM: ruby-2.5.1 [server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/ruby-debug-ide-0.6.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/ruby-debug-ide-0.6.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/ruby-debug-ide-0.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/ruby-debug-ide-0.6.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/ruby-debug-ide-0.6.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/ruby-debug-ide-0.6.1/lib" />
       </SOURCES>
     </library>
     <library name="ruby-debug-ide (v0.6.1, RVM: ruby-2.5.1 [trackmycash]) [gem]">
