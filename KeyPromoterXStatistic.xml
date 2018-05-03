@@ -793,6 +793,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'In Student Library when clicking on a paid book set in preview for paid books opened as ereader: server-acceptance-tests'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'In Student Library when clicking on a paid book set in preview for paid books opened as ereader: server-acceptance-tests'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Lic::Policy::BookRentalCreateLicense#try_update_batch_and_create_license! has no other batch types with valid book bank for one of the beneficiary\'s teachers asdlkasjd: server'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1534,6 +1542,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'ImportExternalCurric...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'In Student Library w...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'In Student Library w...'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
