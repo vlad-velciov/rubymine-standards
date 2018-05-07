@@ -7764,6 +7764,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@wri_server/gems/bundler-1.16.0.pre.3/man" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.16.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.16.1/man" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.16.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.16.1/exe" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.16.1/man" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.16.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.16.1/exe" />
+      </SOURCES>
+    </library>
     <library name="bundler (v1.16.1, RVM: ruby-2.4.1 [pages]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@pages/gems/bundler-1.16.1/exe" />
