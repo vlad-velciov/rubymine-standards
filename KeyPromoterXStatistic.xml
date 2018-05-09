@@ -62,7 +62,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'⌥⏎'</ShortCut>
           <Description>Data Source Properties</Description>
-          <Count>8</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database">
@@ -430,7 +430,7 @@
           <IdeaActionID>DatabaseView.CloseConnectionAction</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Disconnect</Description>
-          <Count>12</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Drop">
@@ -2838,7 +2838,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'⌥⌘Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>43</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
