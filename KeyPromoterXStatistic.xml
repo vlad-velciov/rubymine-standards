@@ -369,6 +369,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'initializes with a xml file (route_spec....'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9' or '⇧⌘D'</ShortCut>
+          <Description>Debug 'initializes with a xml file (route_spec....'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'preview_exp_dates:se...'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -406,7 +414,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1550</Count>
+          <Count>1554</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">

@@ -11072,6 +11072,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-0.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.2, RVM: ruby-2.5.1 [hacktm]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hacktm/gems/debase-0.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hacktm/gems/debase-0.2.2/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hacktm/gems/debase-0.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hacktm/gems/debase-0.2.2/ext" />
+      </SOURCES>
+    </library>
     <library name="debase (v0.2.2, RVM: ruby-2.5.1 [server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/debase-0.2.2/lib" />
@@ -11260,6 +11270,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/debase-ruby_core_source-0.10.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.3, RVM: ruby-2.5.1 [hacktm]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hacktm/gems/debase-ruby_core_source-0.10.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hacktm/gems/debase-ruby_core_source-0.10.3/lib" />
       </SOURCES>
     </library>
     <library name="debase-ruby_core_source (v0.9.10, RVM: ruby-2.4.1 [wri_server]) [gem]">
@@ -12332,6 +12350,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/diff-lcs-1.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/diff-lcs-1.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/diff-lcs-1.3/autotest" />
+      </SOURCES>
+    </library>
+    <library name="diff-lcs (v1.3, RVM: ruby-2.5.1 [hacktm]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hacktm/gems/diff-lcs-1.3/autotest" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hacktm/gems/diff-lcs-1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hacktm/gems/diff-lcs-1.3/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hacktm/gems/diff-lcs-1.3/autotest" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hacktm/gems/diff-lcs-1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hacktm/gems/diff-lcs-1.3/bin" />
       </SOURCES>
     </library>
     <library name="diff-lcs (v1.3, RVM: ruby-2.5.1 [server-acceptance-tests]) [gem]">
@@ -39740,6 +39770,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/rspec-core-3.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-core (v3.7.1, RVM: ruby-2.5.1 [hacktm]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hacktm/gems/rspec-core-3.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hacktm/gems/rspec-core-3.7.1/exe" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hacktm/gems/rspec-core-3.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hacktm/gems/rspec-core-3.7.1/exe" />
+      </SOURCES>
+    </library>
     <library name="rspec-core (v3.7.1, RVM: ruby-2.5.1 [server-acceptance-tests]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/rspec-core-3.7.1/lib" />
@@ -39954,6 +39994,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/rspec-expectations-3.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-expectations (v3.7.0, RVM: ruby-2.5.1 [hacktm]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hacktm/gems/rspec-expectations-3.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hacktm/gems/rspec-expectations-3.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-expectations (v3.7.0, RVM: ruby-2.5.1 [server-acceptance-tests]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/rspec-expectations-3.7.0/lib" />
@@ -40162,6 +40210,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/rspec-mocks-3.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-mocks (v3.7.0, RVM: ruby-2.5.1 [hacktm]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hacktm/gems/rspec-mocks-3.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hacktm/gems/rspec-mocks-3.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-mocks (v3.7.0, RVM: ruby-2.5.1 [server-acceptance-tests]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/rspec-mocks-3.7.0/lib" />
@@ -40336,6 +40392,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/rspec-rails-3.7.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-rails (v3.7.2, RVM: ruby-2.5.1 [hacktm]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hacktm/gems/rspec-rails-3.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hacktm/gems/rspec-rails-3.7.2/lib" />
       </SOURCES>
     </library>
     <library name="rspec-rails (v3.7.2, RVM: ruby-2.5.1 [server]) [gem]">
@@ -40576,6 +40640,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/rspec-support-3.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-support (v3.7.1, RVM: ruby-2.5.1 [hacktm]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hacktm/gems/rspec-support-3.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hacktm/gems/rspec-support-3.7.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-support (v3.7.1, RVM: ruby-2.5.1 [server-acceptance-tests]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/rspec-support-3.7.1/lib" />
@@ -40710,6 +40782,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/rubocop-0.53.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/rubocop-0.53.0/assets" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/rubocop-0.53.0/config" />
+      </SOURCES>
+    </library>
+    <library name="ruby-debug-ide (v0.6.1, RVM: ruby-2.5.1 [hacktm]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hacktm/gems/ruby-debug-ide-0.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hacktm/gems/ruby-debug-ide-0.6.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hacktm/gems/ruby-debug-ide-0.6.1/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hacktm/gems/ruby-debug-ide-0.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hacktm/gems/ruby-debug-ide-0.6.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hacktm/gems/ruby-debug-ide-0.6.1/bin" />
       </SOURCES>
     </library>
     <library name="ruby-debug-ide (v0.6.1, RVM: ruby-2.5.1 [server]) [gem]">
