@@ -137,6 +137,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Development: kombat_github_app'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9' or '⇧⌘D'</ShortCut>
+          <Description>Debug 'Development: kombat_github_app'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Enroll in Class  whe...'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -414,7 +422,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1569</Count>
+          <Count>1573</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
