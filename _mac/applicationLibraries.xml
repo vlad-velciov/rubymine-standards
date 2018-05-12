@@ -30846,6 +30846,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/nio4r-2.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="nio4r (v2.3.1, RVM: ruby-2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nio4r-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nio4r-2.3.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nio4r-2.3.1/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nio4r-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nio4r-2.3.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nio4r-2.3.1/tasks" />
+      </SOURCES>
+    </library>
     <library name="nokogiri (v1.5.11, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.5.11" />
