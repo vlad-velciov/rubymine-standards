@@ -153,6 +153,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'GithubEventsController debugs: kombat_gi...'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9' or '⇧⌘D'</ShortCut>
+          <Description>Debug 'GithubEventsController debugs: kombat_gi...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Lic::Policy::BookRen...'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -422,7 +430,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1574</Count>
+          <Count>1575</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -1262,7 +1270,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1235</Count>
+          <Count>1236</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1558,6 +1566,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Generator: generate_...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'GithubEventsController debugs: kombat_gi...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10' or '⇧⌘X' or '⌥⇧X'</ShortCut>
+          <Description>Run 'GithubEventsController debugs: kombat_gi...'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
