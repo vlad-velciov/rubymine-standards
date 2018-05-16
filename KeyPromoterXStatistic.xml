@@ -121,6 +121,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Checkpoints::UpdateQ...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'Checkpoints::UpdateQ...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'CountInversions retu...'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -430,7 +438,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1601</Count>
+          <Count>1606</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -614,7 +622,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6' or '⇧⌘R'</ShortCut>
           <Description>Rename...</Description>
-          <Count>35</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ActivityBlock#DB: server'">
@@ -703,6 +711,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'BookBank: server'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Checkpoints::UpdateQuestionService updating between subtypes of the multiple choice question updates to multiple choice if question was fill-in blank: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Checkpoints::UpdateQuestionService updating between subtypes of the multiple choice question updates to multiple choice if question was fill-in blank: server'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CreateQuizService: server'">
@@ -1270,7 +1286,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1291</Count>
+          <Count>1294</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1470,7 +1486,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Checkpoints::UpdateQ...'</Description>
-          <Count>1</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CreateQuizService: s...'">
@@ -2310,7 +2326,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'⌥F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Visualisation Popup...">
@@ -2423,6 +2439,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'BookMetadataDecorator: server'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Checkpoints::UpdateQuestionService updating between subtypes of the multiple choice question updates to multiple choice if question was fill-in blank: server'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Checkpoints::UpdateQuestionService updating between subtypes of the multiple choice question updates to multiple choice if question was fill-in blank: server'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CountInversions returns 4 for 1,3,5,2,4: generate_b_string'">
@@ -3030,7 +3054,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>39</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
     </option>
