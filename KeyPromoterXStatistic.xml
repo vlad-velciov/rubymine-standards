@@ -438,7 +438,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1655</Count>
+          <Count>1658</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -462,7 +462,7 @@
           <IdeaActionID>DatabaseView.CloseConnectionAction</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Disconnect</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Drop">
