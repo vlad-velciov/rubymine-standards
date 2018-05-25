@@ -36372,6 +36372,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/gems/rack-proxy-0.6.3/lib" />
       </SOURCES>
     </library>
+    <library name="rack-proxy (v0.6.4, RVM: ruby-2.5.1 [server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/rack-proxy-0.6.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/rack-proxy-0.6.4/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-test (v0.6.3, RVM: ruby-2.2.1 [ada]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@ada/gems/rack-test-0.6.3/lib" />
@@ -51038,6 +51046,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/bundler/gems/webpacker-8c8248277aa9/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/bundler/gems/webpacker-8c8248277aa9/package" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/bundler/gems/webpacker-8c8248277aa9/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="webpacker (v3.5.3, RVM: ruby-2.5.1 [server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/webpacker-3.5.3/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/webpacker-3.5.3/package" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/webpacker-3.5.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/webpacker-3.5.3/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/webpacker-3.5.3/package" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/webpacker-3.5.3/lib" />
       </SOURCES>
     </library>
     <library name="webrick (v1.4.2, RVM: ruby-2.5.1 [global]) [gem]">

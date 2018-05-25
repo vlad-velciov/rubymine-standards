@@ -790,7 +790,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Development: server'</Description>
-          <Count>123</Count>
+          <Count>124</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Development: trackmycash'">
@@ -1230,7 +1230,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'resque:work: server'</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'resque:workers: server'">
