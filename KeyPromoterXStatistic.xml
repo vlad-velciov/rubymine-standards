@@ -438,7 +438,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1753</Count>
+          <Count>1764</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -743,6 +743,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'CurriculetInfoController preview as a vistor book has no preview should show unlicensed template for PAID products: server'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CurriculetInfoController: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'CurriculetInfoController: server'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Data::RecalcDailyMetrics in eastern time when a student reads in the early morning should update the existing daily metric: server'">
@@ -1294,7 +1302,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1401</Count>
+          <Count>1403</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1518,7 +1526,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'CurriculetInfoContro...'</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CurriculetOps::Impor...'">
