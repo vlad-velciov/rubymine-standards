@@ -614,7 +614,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>55</Count>
+          <Count>56</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -1294,7 +1294,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1391</Count>
+          <Count>1398</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
