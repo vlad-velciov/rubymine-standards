@@ -137,6 +137,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Curriculet#create_co...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'Curriculet#create_co...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'CurriculetInfoContro...'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -438,7 +446,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1775</Count>
+          <Count>1780</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -1302,7 +1310,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1403</Count>
+          <Count>1409</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1526,6 +1534,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Curriculet#create_co...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Curriculet: server'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Curriculet: server'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
