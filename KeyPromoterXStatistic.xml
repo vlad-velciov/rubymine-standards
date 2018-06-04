@@ -438,7 +438,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1774</Count>
+          <Count>1775</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -1503,6 +1503,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Checkpoints::UpdateQ...'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Classroom: server'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Classroom: server'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CreateQuizService: s...'">
