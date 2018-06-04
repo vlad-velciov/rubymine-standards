@@ -446,7 +446,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1783</Count>
+          <Count>1785</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -743,6 +743,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'CreateQuizService: server'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Curriculet#create_copy! should set correct order for checkpoints: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Curriculet#create_copy! should set correct order for checkpoints: server'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CurriculetInfoController preview as a vistor book has no preview should show unlicensed template for PAID products: server'">
@@ -1310,7 +1318,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1409</Count>
+          <Count>1422</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -3094,7 +3102,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>46</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
     </option>
