@@ -750,7 +750,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Curriculet#create_copy! should set correct order for checkpoints: server'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CurriculetInfoController preview as a vistor book has no preview should show unlicensed template for PAID products: server'">
@@ -1318,7 +1318,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1422</Count>
+          <Count>1425</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
