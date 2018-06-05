@@ -446,7 +446,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1809</Count>
+          <Count>1815</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -566,7 +566,7 @@
           <IdeaActionID>XDebugger.NewWatch</IdeaActionID>
           <ShortCut>'⌘='</ShortCut>
           <Description>New Watch...</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Console">
@@ -750,7 +750,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Curriculet#create_copy! should set correct order for checkpoints: server'</Description>
-          <Count>19</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CurriculetInfoController preview as a vistor book has no preview should show unlicensed template for PAID products: server'">
@@ -1318,7 +1318,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1686</Count>
+          <Count>1690</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2526,7 +2526,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Curriculet#create_copy! should set correct order for checkpoints: server'</Description>
-          <Count>6</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CurriculetInfoController preview as a vistor book has no preview should show unlicensed template for PAID products: server'">
