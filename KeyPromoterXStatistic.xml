@@ -1529,6 +1529,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'ContentAnnotation fi...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'ContentAnnotation fi...'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'CreateQuizService: s...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -2495,6 +2503,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Checkpoints::UpdateQuestionService updating between subtypes of the multiple choice question updates to multiple choice if question was fill-in blank: server'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ContentAnnotation filtering out embeddings can filter out videos: server'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ContentAnnotation filtering out embeddings can filter out videos: server'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CountInversions returns 4 for 1,3,5,2,4: generate_b_string'">
