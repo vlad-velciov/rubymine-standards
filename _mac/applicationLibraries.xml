@@ -17104,6 +17104,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/flipper-redis-0.15.0/lib" />
       </SOURCES>
     </library>
+    <library name="flipper-ui (v0.15.0, RVM: ruby-2.5.1 [server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/flipper-ui-0.15.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/flipper-ui-0.15.0/lib" />
+      </SOURCES>
+    </library>
     <library name="fog (v1.34.0, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/fog-1.34.0/bin" />
