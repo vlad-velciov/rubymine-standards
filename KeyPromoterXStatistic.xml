@@ -753,6 +753,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ClassroomService.findById.should return expected classrooms (HttpClient called once)'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ClassroomService.findById.should return expected classrooms (HttpClient called once)'</Description>
+          <Count>20</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ContentAnnotation filtering out embeddings does not filter out annotations without embeddings when some filtering is done: server'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -2399,6 +2407,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'run_before_system_te...'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'should return expected classrooms (HttpC...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'should return expected classrooms (HttpC...'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'spreadsheet'">
