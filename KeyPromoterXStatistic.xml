@@ -425,6 +425,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'should return expected classrooms (HttpC...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'should return expected classrooms (HttpC...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'spreadsheet'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -454,7 +462,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1833</Count>
+          <Count>1835</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -921,6 +929,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Karma All'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Karma All'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Lic::Policy::BookRentalCreateLicense#try_update_batch_and_create_license! has no other batch types with valid book bank for one of the beneficiary\'s teachers asdlkasjd: server'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1182,7 +1198,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'TeacherLibraryComponent'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Teachers::CsvProcessor: server'">
@@ -1391,6 +1407,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'All specs in server:...'</Description>
           <Count>39</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'All tests in test: s...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'All tests in test: s...'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'As Teacher when sele...'">
@@ -1750,6 +1774,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'IntegerToRoman: gene...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Karma All'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10' or '⇧⌘X' or '⌥⇧X'</ShortCut>
+          <Description>Run 'Karma All'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -2414,7 +2446,7 @@
           <IdeaActionID>ChooseRunConfiguration</IdeaActionID>
           <ShortCut>'⌥⇧F10'</ShortCut>
           <Description>Run...</Description>
-          <Count>67</Count>
+          <Count>68</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show All Affected Files">
