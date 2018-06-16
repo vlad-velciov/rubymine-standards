@@ -758,7 +758,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'ClassroomService.findById.should return expected classrooms (HttpClient called once)'</Description>
-          <Count>35</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ContentAnnotation filtering out embeddings does not filter out annotations without embeddings when some filtering is done: server'">
