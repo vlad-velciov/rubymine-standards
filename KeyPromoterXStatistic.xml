@@ -534,7 +534,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>38</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Inline...">
@@ -974,7 +974,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Karma All'</Description>
-          <Count>22</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Lic::Policy::BookRentalCreateLicense#try_update_batch_and_create_license! has no other batch types with valid book bank for one of the beneficiary\'s teachers asdlkasjd: server'">
@@ -1199,6 +1199,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Students::UpdateReadingLevel should update a students reading level if lexile changes and student doesnt have a reading level: server'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'StudentsCardComponent'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'StudentsCardComponent'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Teacher Login can not login if the email was not confirmed: server'">
@@ -2217,6 +2225,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'StudentsCardComponent'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'StudentsCardComponent'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Teacher Login can no...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -2526,7 +2542,7 @@
           <IdeaActionID>ChooseRunConfiguration</IdeaActionID>
           <ShortCut>'⌥⇧F10'</ShortCut>
           <Description>Run...</Description>
-          <Count>72</Count>
+          <Count>73</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show All Affected Files">
