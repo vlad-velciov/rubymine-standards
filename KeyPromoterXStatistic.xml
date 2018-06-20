@@ -462,7 +462,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1877</Count>
+          <Count>1879</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -966,7 +966,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Karma All'</Description>
-          <Count>19</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Lic::Policy::BookRentalCreateLicense#try_update_batch_and_create_license! has no other batch types with valid book bank for one of the beneficiary\'s teachers asdlkasjd: server'">
@@ -1758,6 +1758,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10' or '⇧⌘X' or '⌥⇧X'</ShortCut>
           <Description>Run 'GithubEventsController debugs: kombat_gi...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'GoalsListComponent'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'GoalsListComponent'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
