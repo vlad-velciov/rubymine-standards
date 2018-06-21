@@ -681,6 +681,14 @@
           <Count>13</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Api::BooksController#fetch_teacher_books the book from the curriculet has been deleted returns an empty array: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Api::BooksController#fetch_teacher_books the book from the curriculet has been deleted returns an empty array: server'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'As Teacher when selecting a free book added as ereader, book can be removed from Library: server-acceptance-tests'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1414,7 +1422,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1707</Count>
+          <Count>1711</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1478,7 +1486,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Api::BooksController...'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'As Teacher when sele...'">
