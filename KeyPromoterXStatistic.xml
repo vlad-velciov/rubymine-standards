@@ -686,7 +686,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Api::BooksController#fetch_teacher_books the book from the curriculet has been deleted returns an empty array: server'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'As Teacher when selecting a free book added as ereader, book can be removed from Library: server-acceptance-tests'">
@@ -1486,7 +1486,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Api::BooksController...'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'As Teacher when sele...'">
