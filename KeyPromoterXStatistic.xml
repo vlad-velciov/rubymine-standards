@@ -89,6 +89,14 @@
           <Count>13</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Api::BooksController...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'Api::BooksController...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'BinarySearch finds a...'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -462,7 +470,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1883</Count>
+          <Count>1888</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -1422,7 +1430,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1711</Count>
+          <Count>1714</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1486,7 +1494,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Api::BooksController...'</Description>
-          <Count>3</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'As Teacher when sele...'">
