@@ -166,7 +166,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Debug 'Data::GetReadingMetr...'</Description>
-          <Count>2</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Development: kombat_github_app'">
@@ -478,7 +478,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1931</Count>
+          <Count>1934</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -823,6 +823,30 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'CurriculetInfoController: server'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Data::GetReadingMetrics#call in student time zone does not find a metric at the end of the interval even though it is in the interval for the student s time zone: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Data::GetReadingMetrics#call in student time zone does not find a metric at the end of the interval even though it is in the interval for the student s time zone: server'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Data::GetReadingMetrics#call in student time zone finds the metric that in the student s time zone is in the given interval: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Data::GetReadingMetrics#call in student time zone finds the metric that in the student s time zone is in the given interval: server'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Data::GetReadingMetrics#call in student time zone: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Data::GetReadingMetrics#call in student time zone: server'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Data::RecalcDailyMetrics in eastern time when a student reads in the early morning should update the existing daily metric: server'">
@@ -1438,7 +1462,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1715</Count>
+          <Count>1733</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1726,7 +1750,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Data::GetReadingMetr...'</Description>
-          <Count>4</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Data::RecalcDailyMet...'">
@@ -2801,6 +2825,22 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Data::GetReadingMetrics#call in student time zone does not find a metric at the end of the interval even though it is in the interval for the student s time zone: server'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Data::GetReadingMetrics#call in student time zone does not find a metric at the end of the interval even though it is in the interval for the student s time zone: server'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Data::GetReadingMetrics#call in student time zone: server'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Data::GetReadingMetrics#call in student time zone: server'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Development: hacktm'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -3382,7 +3422,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>50</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
     </option>
