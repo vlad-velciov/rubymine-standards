@@ -478,7 +478,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1937</Count>
+          <Count>1939</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -1527,6 +1527,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Api::BooksController...'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Api::ReadingMetricsC...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Api::ReadingMetricsC...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'As Teacher when sele...'">
