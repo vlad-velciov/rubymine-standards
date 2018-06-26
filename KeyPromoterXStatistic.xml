@@ -297,6 +297,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Service::Data::I3Con...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'Service::Data::I3Con...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Service::LicensedCon...'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -478,7 +486,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1954</Count>
+          <Count>1966</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -670,7 +678,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6' or '⇧⌘R'</ShortCut>
           <Description>Rename...</Description>
-          <Count>38</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ActivityBlock#DB: server'">
@@ -1121,6 +1129,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Service::Data::I3Controller: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Service::Data::I3Controller: server'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Service::LicensedContentController#rent_page: server'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1470,7 +1486,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1734</Count>
+          <Count>1735</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2182,7 +2198,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Service::Data::I3Con...'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Service::LicensedCon...'">
@@ -3454,7 +3470,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>53</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
     </option>
