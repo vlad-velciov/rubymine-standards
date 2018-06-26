@@ -478,7 +478,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1952</Count>
+          <Count>1954</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -2175,6 +2175,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Service::BookBanksCo...'</Description>
           <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Service::Data::I3Con...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Service::Data::I3Con...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Service::LicensedCon...'">
