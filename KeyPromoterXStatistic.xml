@@ -1718,7 +1718,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Data::GetReadingMetr...'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Data::RecalcDailyMet...'">
