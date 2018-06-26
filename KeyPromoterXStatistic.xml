@@ -478,7 +478,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1941</Count>
+          <Count>1952</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -703,6 +703,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Api::BooksController#fetch_teacher_books the book from the curriculet has been deleted returns an empty array: server'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Api::ReadingMetricsController: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Api::ReadingMetricsController: server'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'As Teacher when selecting a free book added as ereader, book can be removed from Library: server-acceptance-tests'">
@@ -1462,7 +1470,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1733</Count>
+          <Count>1734</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1534,7 +1542,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Api::ReadingMetricsC...'</Description>
-          <Count>2</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'As Teacher when sele...'">
@@ -2713,6 +2721,14 @@
           <Count>25</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Api::ReadingMetricsController: server'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Api::ReadingMetricsController: server'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Assignments::AssignCurriculetToClassroom: server'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -3430,7 +3446,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>51</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
     </option>
