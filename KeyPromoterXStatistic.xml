@@ -486,7 +486,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1987</Count>
+          <Count>1988</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -863,6 +863,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Data::GetReadingMetrics#call in student time zone: server'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Data::GetReadingMetrics: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Data::GetReadingMetrics: server'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Data::RecalcDailyMetrics in eastern time when a student reads in the early morning should update the existing daily metric: server'">
@@ -1790,7 +1798,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Data::GetReadingMetr...'</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Data::RecalcDailyMet...'">
