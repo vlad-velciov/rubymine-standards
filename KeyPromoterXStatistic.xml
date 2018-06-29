@@ -1166,7 +1166,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Service::Data::I3Controller: server'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Service::LicensedContentController#rent_page: server'">
@@ -2230,7 +2230,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Service::Data::I3Con...'</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Service::LicensedCon...'">
@@ -3135,6 +3135,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Service::Data::I3Controller#reading_metrics with valid student id, start date and end_date responds with reading metrics data: server'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Service::Data::I3Controller: server'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Service::Data::I3Controller: server'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SessionsController should login back the original user if 'pre_impersonate_user_id_N' is present in session on logout: server'">
