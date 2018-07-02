@@ -494,7 +494,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2045</Count>
+          <Count>2046</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -1726,6 +1726,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'BookMetadataDecorato...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'BooksController: ser...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'BooksController: ser...'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
