@@ -1518,7 +1518,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1748</Count>
+          <Count>1750</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2407,6 +2407,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Teacher Login: server'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Teacher Registration...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Teacher Registration...'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Teacher#send_teacher...'">
