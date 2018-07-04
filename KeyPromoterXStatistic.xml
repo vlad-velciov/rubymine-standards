@@ -494,7 +494,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2081</Count>
+          <Count>2083</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -1329,6 +1329,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Teacher Registration confirmation token is accepted loads the homepage after the details form is filled in correctly: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Teacher Registration confirmation token is accepted loads the homepage after the details form is filled in correctly: server'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'TeacherChangesSettings Should show settings page: server'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1518,7 +1526,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1752</Count>
+          <Count>1754</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2414,7 +2422,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Teacher Registration...'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Teacher#send_teacher...'">
