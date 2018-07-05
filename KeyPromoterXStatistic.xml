@@ -494,7 +494,7 @@
           <IdeaActionID>ChooseDebugConfiguration</IdeaActionID>
           <ShortCut>'⌥⇧F9'</ShortCut>
           <Description>Debug...</Description>
-          <Count>54</Count>
+          <Count>55</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -942,7 +942,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Development: server'</Description>
-          <Count>153</Count>
+          <Count>157</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Development: trackmycash'">
@@ -1582,7 +1582,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'All specs in server:...'</Description>
-          <Count>39</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All tests in test: s...'">
@@ -2974,7 +2974,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Development: server'</Description>
-          <Count>90</Count>
+          <Count>91</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Enroll in Class  when student has account Can sign in with email/password: server'">
