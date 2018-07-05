@@ -73,6 +73,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug '/ada redirects a ada...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug '/ada redirects a ada...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'ActivityBlock: server'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -502,7 +510,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2087</Count>
+          <Count>2097</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -1534,7 +1542,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1757</Count>
+          <Count>1760</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1574,7 +1582,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run '/ada: server'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ActivityBlock#DB: se...'">
