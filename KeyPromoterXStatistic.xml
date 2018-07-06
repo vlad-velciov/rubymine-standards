@@ -582,7 +582,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>48</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
       <Statistic Action="Inline...">
@@ -1470,7 +1470,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'nginx:start: server'</Description>
-          <Count>1</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'resque:work: ada'">
@@ -1542,7 +1542,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -1550,7 +1550,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1760</Count>
+          <Count>1761</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2774,7 +2774,7 @@
           <IdeaActionID>VcsHistory.ShowAllAffected</IdeaActionID>
           <ShortCut>'⌥⇧A'</ShortCut>
           <Description>Show All Affected Files</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
