@@ -473,6 +473,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'redesign-curriculet-details'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9' or '⇧⌘D'</ShortCut>
+          <Description>Debug 'redesign-curriculet-details'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'should return expected classrooms (HttpC...'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -1550,7 +1558,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1761</Count>
+          <Count>1762</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
