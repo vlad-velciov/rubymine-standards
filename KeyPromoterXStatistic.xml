@@ -3598,7 +3598,7 @@
           <IdeaActionID>railways.UpdateRoutesList</IdeaActionID>
           <ShortCut>'⇧⌘\'</ShortCut>
           <Description>Update route list</Description>
-          <Count>20</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Variable...">
