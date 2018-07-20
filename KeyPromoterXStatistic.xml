@@ -190,7 +190,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9' or '⇧⌘D'</ShortCut>
           <Description>Debug 'Development: server'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Enroll in Class  whe...'">
@@ -2694,6 +2694,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'master_of_self'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'resque:work: server'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10' or '⇧⌘X' or '⌥⇧X'</ShortCut>
+          <Description>Run 'resque:work: server'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
