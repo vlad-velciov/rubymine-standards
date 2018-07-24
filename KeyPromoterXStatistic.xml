@@ -526,7 +526,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2342</Count>
+          <Count>2350</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -975,6 +975,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Development: trackmycash'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'DialogMetadata'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'DialogMetadata'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'DialogMetadata.gives the option to read externally if the book is not in the library'">
@@ -1934,6 +1942,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Data::UpdateGobstopp...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DialogMetadata'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'DialogMetadata'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
