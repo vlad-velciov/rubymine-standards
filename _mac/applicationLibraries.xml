@@ -33282,6 +33282,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/bundler/gems/pages-263fa994531f/.idea" />
       </SOURCES>
     </library>
+    <library name="pages (v1.0.0@54380d, RVM: ruby-2.5.1 [server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/bundler/gems/pages-54380de03ff6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/bundler/gems/pages-54380de03ff6/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/bundler/gems/pages-54380de03ff6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/bundler/gems/pages-54380de03ff6/bin" />
+      </SOURCES>
+    </library>
     <library name="pages (v1.0.0@936f51, RVM: ruby-2.5.1 [server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/bundler/gems/pages-936f5151ce86/bin" />
