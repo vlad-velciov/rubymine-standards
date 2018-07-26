@@ -526,7 +526,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2379</Count>
+          <Count>2381</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -759,6 +759,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Api::BooksController#fetch_teacher_books the book from the curriculet has been deleted returns an empty array: server'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Api::Checkpoints::CollectionDecorator: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Api::Checkpoints::CollectionDecorator: server'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Api::ReadingMetricsController: server'">
@@ -1695,6 +1703,22 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Api::CheckpointDecor...'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Api::Checkpoints::Co...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Api::Checkpoints::Co...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Api::CurriculetsCont...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Api::CurriculetsCont...'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Api::LicensesControl...'">
