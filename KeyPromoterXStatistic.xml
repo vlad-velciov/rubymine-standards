@@ -1737,6 +1737,14 @@
           <Count>14</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Api::SettingsControl...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Api::SettingsControl...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'As Teacher when sele...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
