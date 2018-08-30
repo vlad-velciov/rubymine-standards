@@ -153,6 +153,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Content::CalculateBo...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'Content::CalculateBo...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'CountInversions retu...'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -534,7 +542,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2412</Count>
+          <Count>2419</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -895,6 +903,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'ClassroomService.findById.should return expected classrooms (HttpClient called once)'</Description>
           <Count>36</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Content::CalculateBookCRL should work with fountas: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Content::CalculateBookCRL should work with fountas: server'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ContentAnnotation filtering out embeddings does not filter out annotations without embeddings when some filtering is done: server'">
@@ -1969,6 +1985,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Content::CalculateBo...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Content::CalculateBo...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ContentAnnotation fi...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1983,6 +2007,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'CreateQuizService: s...'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'CrlSystems::FountasP...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'CrlSystems::FountasP...'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Curriculet#create_co...'">
@@ -3110,6 +3142,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ClassroomService.findById.should return expected classrooms (HttpClient called once)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Content::CalculateBookCRL should work with fountas: server'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Content::CalculateBookCRL should work with fountas: server'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
