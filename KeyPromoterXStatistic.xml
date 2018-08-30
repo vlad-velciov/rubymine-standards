@@ -534,7 +534,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2398</Count>
+          <Count>2404</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -1703,6 +1703,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'ActivityBlock#DB: se...'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ActivityBlock: server'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'ActivityBlock: server'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All specs in infra: ...'">
@@ -2999,6 +3007,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ActivityBlock#DB: server'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ActivityBlock: server'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ActivityBlock: server'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All specs in app: server'">
