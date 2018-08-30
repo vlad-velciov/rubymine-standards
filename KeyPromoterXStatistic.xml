@@ -1121,6 +1121,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ExternalReader::TrackedTimeUpdater finds activity blocks does a ceil estimate of the time if the result is fractional: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ExternalReader::TrackedTimeUpdater finds activity blocks does a ceil estimate of the time if the result is fractional: server'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'GoalsComponent'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1646,7 +1654,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1788</Count>
+          <Count>1792</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2102,7 +2110,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'ExternalReader::Trac...'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Form Model Spec: ser...'">
@@ -3206,6 +3214,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Enroll in Class  when user is logged in student is enrolled immediately: server'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ExternalReader::TrackedTimeUpdater finds activity blocks does a ceil estimate of the time if the result is fractional: server'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ExternalReader::TrackedTimeUpdater finds activity blocks does a ceil estimate of the time if the result is fractional: server'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
