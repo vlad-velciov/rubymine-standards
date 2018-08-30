@@ -534,7 +534,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2394</Count>
+          <Count>2398</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -705,6 +705,14 @@
           <Count>19</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Properties">
+        <Item>
+          <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
+          <ShortCut>'⇧⏎'</ShortCut>
+          <Description>Properties</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Recent Find Usages">
         <Item>
           <IdeaActionID>UsageView.ShowRecentFindUsages</IdeaActionID>
@@ -726,7 +734,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>67</Count>
+          <Count>78</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -1102,6 +1110,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'External Reader doesn't display chapter's items from the beginning: server-acceptance-tests'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ExternalReader::TrackedTimeUpdater checks if there is a activity block in the first place before moving forward: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ExternalReader::TrackedTimeUpdater checks if there is a activity block in the first place before moving forward: server'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1630,7 +1646,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1787</Count>
+          <Count>1788</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2078,6 +2094,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'ExternalReader::Curr...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ExternalReader::Trac...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'ExternalReader::Trac...'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -3694,7 +3718,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'⌥⌘Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>50</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
