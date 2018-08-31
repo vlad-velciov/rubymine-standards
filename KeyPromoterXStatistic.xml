@@ -3689,6 +3689,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'dev:pg_restore:staging: server'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'dev:pg_restore:staging: server'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'exceptions'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
