@@ -190,7 +190,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Debug 'CurriculetOps::Updat...'</Description>
-          <Count>1</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Data::GetReadingMetr...'">
@@ -686,7 +686,7 @@
           <IdeaActionID>XDebugger.NewWatch</IdeaActionID>
           <ShortCut>'⌘='</ShortCut>
           <Description>New Watch...</Description>
-          <Count>9</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Next Page">
@@ -969,12 +969,20 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'CurriculetOps::UpdateHomeworkWordCountService finding in the database finds the chapter and updates the homework: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'CurriculetOps::UpdateHomeworkWordCountService finding in the database finds the chapter and updates the homework: server'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'CurriculetOps::UpdateHomeworkWordCountService finding in the databbase finds the chapter and updates the homework: server'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'CurriculetOps::UpdateHomeworkWordCountService finding in the databbase finds the chapter and updates the homework: server'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Data::GetReadingMetrics#call in student time zone does not find a metric at the end of the interval even though it is in the interval for the student s time zone: server'">
@@ -1694,7 +1702,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1801</Count>
+          <Count>1805</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2078,7 +2086,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'CurriculetOps::Updat...'</Description>
-          <Count>6</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Data::ActivityStreak...'">
