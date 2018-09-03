@@ -542,7 +542,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2431</Count>
+          <Count>2432</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -1678,7 +1678,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1792</Count>
+          <Count>1794</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2054,6 +2054,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'CurriculetOps::Impor...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'CurriculetOps::Updat...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'CurriculetOps::Updat...'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
