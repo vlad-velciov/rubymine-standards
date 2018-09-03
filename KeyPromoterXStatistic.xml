@@ -185,6 +185,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'CurriculetOps::Updat...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'CurriculetOps::Updat...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Data::GetReadingMetr...'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -542,7 +550,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2432</Count>
+          <Count>2433</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -959,6 +967,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'CurriculetInfoController: server'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CurriculetOps::UpdateHomeworkWordCountService finding in the databbase finds the chapter and updates the homework: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'CurriculetOps::UpdateHomeworkWordCountService finding in the databbase finds the chapter and updates the homework: server'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Data::GetReadingMetrics#call in student time zone does not find a metric at the end of the interval even though it is in the interval for the student s time zone: server'">
@@ -1678,7 +1694,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1794</Count>
+          <Count>1801</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2062,7 +2078,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'CurriculetOps::Updat...'</Description>
-          <Count>1</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Data::ActivityStreak...'">
