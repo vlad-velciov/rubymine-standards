@@ -646,7 +646,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'⇧⌘F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -3047,6 +3047,14 @@
           <ShortCut>'⌥F10'</ShortCut>
           <Description>Show Execution Point</Description>
           <Count>25</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Reformat File Dialog">
+        <Item>
+          <IdeaActionID>ShowReformatFileDialog</IdeaActionID>
+          <ShortCut>'⌥⇧⌘L'</ShortCut>
+          <Description>Show Reformat File Dialog</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Visualisation Popup...">
