@@ -550,7 +550,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2448</Count>
+          <Count>2450</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -2262,6 +2262,22 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'HereMaps::RoutesRepo...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'HomeworkDecorator de...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'HomeworkDecorator de...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'HomeworkDecorator decodes the selected_t...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10' or '⇧⌘X' or '⌥⇧X'</ShortCut>
+          <Description>Run 'HomeworkDecorator decodes the selected_t...'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
