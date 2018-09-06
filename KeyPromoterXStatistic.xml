@@ -550,7 +550,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2467</Count>
+          <Count>2474</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -742,7 +742,7 @@
           <IdeaActionID>UsageView.ShowRecentFindUsages</IdeaActionID>
           <ShortCut>'⌘E'</ShortCut>
           <Description>Recent Find Usages</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refactor This...">
