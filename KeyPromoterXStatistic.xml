@@ -393,6 +393,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'StudentHomeworkAssig...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'StudentHomeworkAssig...'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Students::ReaderCont...'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -550,7 +558,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2478</Count>
+          <Count>2481</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -1702,7 +1710,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1819</Count>
+          <Count>1822</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2655,6 +2663,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'StudentDecorator: se...'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'StudentHomeworkAssig...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'StudentHomeworkAssig...'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'StudentImporter proc...'">
@@ -3615,6 +3631,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'StudentCurriculetAssignmentDecorator#as_json should return correct values in json fields : server'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'StudentHomeworkAssignment#update_completion_status! assignment is of type eexternal_reader all checkpoints have been answered updates the external tracked time if it was not completed before: server'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'StudentHomeworkAssignment#update_completion_status! assignment is of type eexternal_reader all checkpoints have been answered updates the external tracked time if it was not completed before: server'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Subscriptions: server'">
