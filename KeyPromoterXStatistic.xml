@@ -742,7 +742,7 @@
           <IdeaActionID>UsageView.ShowRecentFindUsages</IdeaActionID>
           <ShortCut>'⌘E'</ShortCut>
           <Description>Recent Find Usages</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refactor This...">
@@ -2958,7 +2958,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10' or '⇧⌘X' or '⌥⇧X'</ShortCut>
           <Description>Run 'resque:work: server'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'run_before_system_te...'">
