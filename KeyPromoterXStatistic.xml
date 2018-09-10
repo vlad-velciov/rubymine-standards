@@ -558,7 +558,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2493</Count>
+          <Count>2502</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -782,7 +782,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6' or '⇧⌘R'</ShortCut>
           <Description>Rename...</Description>
-          <Count>48</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ActivityBlock#DB: server'">
