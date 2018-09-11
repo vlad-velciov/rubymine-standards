@@ -558,7 +558,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2503</Count>
+          <Count>2504</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -2262,6 +2262,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'HelpVideo: server'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'HelpVideoController#...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'HelpVideoController#...'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
