@@ -558,7 +558,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2505</Count>
+          <Count>2516</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -830,7 +830,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Api::HelpVideosController: server'</Description>
-          <Count>2</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Api::ReadingMetricsController: server'">
@@ -1718,7 +1718,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1822</Count>
+          <Count>1829</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1838,7 +1838,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Api::HelpVideosContr...'</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Api::LicensesControl...'">
