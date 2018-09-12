@@ -9312,6 +9312,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/capybara-3.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="capybara (v3.7.1, RVM: ruby-2.5.1 [server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/capybara-3.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/capybara-3.7.1/lib" />
+      </SOURCES>
+    </library>
     <library name="capybara-screenshot (v1.0.14, RVM: ruby-2.4.1 [server-acceptance-tests]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@server-acceptance-tests/gems/capybara-screenshot-1.0.14/lib" />
@@ -33480,6 +33488,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/bundler/gems/pages-d3cbc6637314/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/bundler/gems/pages-d3cbc6637314/bin" />
+      </SOURCES>
+    </library>
+    <library name="pages (v1.0.0@e0979c, RVM: ruby-2.5.1 [server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/bundler/gems/pages-e0979c81b888/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/bundler/gems/pages-e0979c81b888/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/bundler/gems/pages-e0979c81b888/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/bundler/gems/pages-e0979c81b888/bin" />
       </SOURCES>
     </library>
     <library name="paint (v2.0.0, RVM: ruby-2.4.1) [gem]">
