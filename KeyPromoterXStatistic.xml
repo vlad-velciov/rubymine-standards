@@ -113,6 +113,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Api::UserSettingsCon...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'Api::UserSettingsCon...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'BinarySearch finds a...'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -558,7 +566,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2537</Count>
+          <Count>2540</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -638,7 +646,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>61</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
       <Statistic Action="Inline...">
@@ -694,7 +702,7 @@
           <IdeaActionID>XDebugger.NewWatch</IdeaActionID>
           <ShortCut>'⌘='</ShortCut>
           <Description>New Watch...</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Next Page">
@@ -777,6 +785,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Remove Watch">
+        <Item>
+          <IdeaActionID>XDebugger.RemoveWatch</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Remove Watch</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rename...">
         <Item>
           <IdeaActionID>RenameElement</IdeaActionID>
@@ -839,6 +855,22 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Api::ReadingMetricsController: server'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Api::UserSettingsController is authorized #update updates the settings for a user: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Api::UserSettingsController is authorized #update updates the settings for a user: server'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Api::UserSettingsController: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Api::UserSettingsController: server'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'As Teacher when selecting a free book added as ereader, book can be removed from Library: server-acceptance-tests'">
@@ -1078,7 +1110,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Development: server'</Description>
-          <Count>171</Count>
+          <Count>172</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Development: trackmycash'">
@@ -1710,7 +1742,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>26</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -1718,7 +1750,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1829</Count>
+          <Count>1830</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1862,6 +1894,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Api::SettingsControl...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Api::UserSettingsCon...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Api::UserSettingsCon...'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -3958,7 +3998,7 @@
           <IdeaActionID>railways.UpdateRoutesList</IdeaActionID>
           <ShortCut>'⇧⌘\'</ShortCut>
           <Description>Update route list</Description>
-          <Count>30</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Variable...">
