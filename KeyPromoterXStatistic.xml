@@ -1249,6 +1249,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'HelpVideo student sees video only once on student library: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'HelpVideo student sees video only once on student library: server'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'HelpVideo: server'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1766,7 +1774,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1834</Count>
+          <Count>1836</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2326,6 +2334,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'HelpVideo Teacher se...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'HelpVideo student se...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'HelpVideo student se...'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
