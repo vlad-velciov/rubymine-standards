@@ -566,7 +566,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2615</Count>
+          <Count>2620</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -991,6 +991,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'CreateQuizService: server'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CrlSystems::Lexile: server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'CrlSystems::Lexile: server'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Curriculet#create_copy! should set correct order for checkpoints: server'">
@@ -2135,6 +2143,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'CrlSystems::FountasP...'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'CrlSystems::Lexile: ...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'CrlSystems::Lexile: ...'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Curriculet#create_co...'">
