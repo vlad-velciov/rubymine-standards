@@ -566,7 +566,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2612</Count>
+          <Count>2614</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -1254,7 +1254,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'HelpVideo student sees video only once on student library: server'</Description>
-          <Count>1</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'HelpVideo: server'">
@@ -1774,7 +1774,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1836</Count>
+          <Count>1848</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -3470,6 +3470,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ExternalReader::TrackedTimeUpdater finds activity blocks does a ceil estimate of the time if the result is fractional: server'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'HelpVideo student sees video only once on student library: server'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'HelpVideo student sees video only once on student library: server'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
