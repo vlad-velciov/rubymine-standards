@@ -48,7 +48,9 @@
   </action>
   <action id="NextSplitter" />
   <action id="PrevSplitter" />
-  <action id="ReformatCode" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="shift meta r" />
@@ -81,6 +83,7 @@
     <keyboard-shortcut first-keystroke="shift alt tab" />
   </action>
   <action id="Uml.ShowDiff" />
+  <action id="Vcs.Log.FocusTextFilter" />
   <action id="XDebugger.CopyWatch" />
   <action id="XDebugger.NewWatch">
     <keyboard-shortcut first-keystroke="meta equals" />
