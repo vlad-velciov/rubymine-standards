@@ -7357,6 +7357,13 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/bigdecimal" />
       </SOURCES>
     </library>
+    <library name="bigdecimal (v1.3.4, RVM: ruby-2.5.1 [oauth-auth]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="bigdecimal (v1.3.4, RVM: ruby-2.5.1 [roady]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -10693,6 +10700,13 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="cmath (v1.0.0, RVM: ruby-2.5.1 [oauth-auth]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="cmath (v1.0.0, RVM: ruby-2.5.1 [roady]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -12254,6 +12268,13 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="csv (v1.0.0, RVM: ruby-2.5.1 [oauth-auth]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="csv (v1.0.0, RVM: ruby-2.5.1 [roady]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -12414,6 +12435,13 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="date (v1.0.0, RVM: ruby-2.5.1 [oauth-auth]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="date (v1.0.0, RVM: ruby-2.5.1 [roady]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -12443,6 +12471,13 @@
       <SOURCES />
     </library>
     <library name="dbm (v1.0.0, RVM: ruby-2.5.1 [global]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="dbm (v1.0.0, RVM: ruby-2.5.1 [oauth-auth]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
       </properties>
@@ -13664,6 +13699,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/benchmark" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/lib" />
       </SOURCES>
+    </library>
+    <library name="did_you_mean (v1.2.0, RVM: ruby-2.5.1 [oauth-auth]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/benchmark" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/evaluation" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/benchmark" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/evaluation" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/benchmark" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/evaluation" />
+      </excluded>
     </library>
     <library name="did_you_mean (v1.2.0, RVM: ruby-2.5.1 [roady]) [gem]" type="rubylib">
       <properties>
@@ -16062,6 +16122,13 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="etc (v1.0.0, RVM: ruby-2.5.1 [oauth-auth]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="etc (v1.0.0, RVM: ruby-2.5.1 [roady]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -17328,6 +17395,13 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="fcntl (v1.0.0, RVM: ruby-2.5.1 [oauth-auth]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="fcntl (v1.0.0, RVM: ruby-2.5.1 [roady]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -17715,6 +17789,13 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/fiddle" />
       </SOURCES>
     </library>
+    <library name="fiddle (v1.0.0, RVM: ruby-2.5.1 [oauth-auth]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="fiddle (v1.0.0, RVM: ruby-2.5.1 [roady]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -17792,6 +17873,13 @@
       </SOURCES>
     </library>
     <library name="fileutils (v1.0.2, RVM: ruby-2.5.1 [global]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="fileutils (v1.0.2, RVM: ruby-2.5.1 [oauth-auth]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
       </properties>
@@ -20242,6 +20330,13 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="gdbm (v2.0.0, RVM: ruby-2.5.1 [oauth-auth]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="gdbm (v2.0.0, RVM: ruby-2.5.1 [roady]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -20431,6 +20526,25 @@
       </SOURCES>
     </library>
     <library name="gem-wrappers (v1.4.0, RVM: ruby-2.5.1 [global]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/gem-wrappers-1.4.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/gem-wrappers-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/gem-wrappers-1.4.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/gem-wrappers-1.4.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/gem-wrappers-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/gem-wrappers-1.4.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/gem-wrappers-1.4.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/gem-wrappers-1.4.0/test" />
+      </excluded>
+    </library>
+    <library name="gem-wrappers (v1.4.0, RVM: ruby-2.5.1 [oauth-auth]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
       </properties>
@@ -25671,6 +25785,13 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="io-console (v0.4.6, RVM: ruby-2.5.1 [oauth-auth]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="io-console (v0.4.6, RVM: ruby-2.5.1 [roady]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -25727,6 +25848,13 @@
       </SOURCES>
     </library>
     <library name="ipaddr (v1.2.0, RVM: ruby-2.5.1 [global]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="ipaddr (v1.2.0, RVM: ruby-2.5.1 [oauth-auth]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
       </properties>
@@ -26627,6 +26755,20 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/json/add" />
       </SOURCES>
+    </library>
+    <library name="json (v2.1.0, RVM: ruby-2.5.1 [oauth-auth]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/json/add" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/json/add" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/json/add" />
+      </excluded>
     </library>
     <library name="json (v2.1.0, RVM: ruby-2.5.1 [roady]) [gem]" type="rubylib">
       <properties>
@@ -30890,6 +31032,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/minitest-5.10.3/lib" />
       </SOURCES>
     </library>
+    <library name="minitest (v5.10.3, RVM: ruby-2.5.1 [oauth-auth]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/minitest-5.10.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/minitest-5.10.3/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/minitest-5.10.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/minitest-5.10.3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/minitest-5.10.3/test" />
+      </excluded>
+    </library>
     <library name="minitest (v5.10.3, RVM: ruby-2.5.1 [roady]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -32496,6 +32654,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/net-telnet-0.1.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/net-telnet-0.1.1/bin" />
       </SOURCES>
+    </library>
+    <library name="net-telnet (v0.1.1, RVM: ruby-2.5.1 [oauth-auth]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/net-telnet-0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/net-telnet-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/net-telnet-0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/net-telnet-0.1.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/net-telnet-0.1.1/bin" />
+      </excluded>
     </library>
     <library name="net-telnet (v0.1.1, RVM: ruby-2.5.1 [roady]) [gem]" type="rubylib">
       <properties>
@@ -34347,6 +34521,13 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/openssl" />
       </SOURCES>
     </library>
+    <library name="openssl (v2.1.0, RVM: ruby-2.5.1 [oauth-auth]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="openssl (v2.1.0, RVM: ruby-2.5.1 [roady]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -35774,6 +35955,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/power_assert-1.1.1/bin" />
       </SOURCES>
     </library>
+    <library name="power_assert (v1.1.1, RVM: ruby-2.5.1 [oauth-auth]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/power_assert-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/power_assert-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/power_assert-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/power_assert-1.1.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/power_assert-1.1.1/bin" />
+      </excluded>
+    </library>
     <library name="power_assert (v1.1.1, RVM: ruby-2.5.1 [roady]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -36297,6 +36494,29 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/psych/nodes" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/psych/visitors" />
       </SOURCES>
+    </library>
+    <library name="psych (v3.0.2, RVM: ruby-2.5.1 [oauth-auth]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/psych/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/psych/visitors" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/psych/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/psych/visitors" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/psych/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/psych/visitors" />
+      </excluded>
     </library>
     <library name="psych (v3.0.2, RVM: ruby-2.5.1 [roady]) [gem]" type="rubylib">
       <properties>
@@ -40373,6 +40593,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-12.3.0/bin" />
       </SOURCES>
     </library>
+    <library name="rake (v12.3.0, RVM: ruby-2.5.1 [oauth-auth]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-12.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-12.3.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-12.3.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-12.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-12.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-12.3.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-12.3.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-12.3.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-12.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-12.3.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-12.3.0/exe" />
+      </excluded>
+    </library>
     <library name="rake (v12.3.0, RVM: ruby-2.5.1 [roady]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -41498,6 +41740,44 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/i18n" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/markdown" />
       </SOURCES>
+    </library>
+    <library name="rdoc (v6.0.1, RVM: ruby-2.5.1 [oauth-auth]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/generator" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/generator" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/generator" />
+      </excluded>
     </library>
     <library name="rdoc (v6.0.1, RVM: ruby-2.5.1 [roady]) [gem]" type="rubylib">
       <properties>
@@ -46325,6 +46605,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rvm-1.11.3.9/lib" />
       </SOURCES>
     </library>
+    <library name="rvm (v1.11.3.9, RVM: ruby-2.5.1 [oauth-auth]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rvm-1.11.3.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rvm-1.11.3.9/lib" />
+      </SOURCES>
+    </library>
     <library name="rvm (v1.11.3.9, RVM: ruby-2.5.1 [server]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -47098,6 +47389,13 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="scanf (v1.0.0, RVM: ruby-2.5.1 [oauth-auth]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="scanf (v1.0.0, RVM: ruby-2.5.1 [roady]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -47162,6 +47460,13 @@
       </SOURCES>
     </library>
     <library name="sdbm (v1.0.0, RVM: ruby-2.5.1 [global]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="sdbm (v1.0.0, RVM: ruby-2.5.1 [oauth-auth]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
       </properties>
@@ -49622,6 +49927,13 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="stringio (v0.0.1, RVM: ruby-2.5.1 [oauth-auth]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="stringio (v0.0.1, RVM: ruby-2.5.1 [roady]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -49651,6 +49963,13 @@
       <SOURCES />
     </library>
     <library name="strscan (v1.0.0, RVM: ruby-2.5.1 [global]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="strscan (v1.0.0, RVM: ruby-2.5.1 [oauth-auth]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
       </properties>
@@ -50523,6 +50842,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/test-unit-3.2.7/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/test-unit-3.2.7/sample" />
       </SOURCES>
+    </library>
+    <library name="test-unit (v3.2.7, RVM: ruby-2.5.1 [oauth-auth]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/test-unit-3.2.7/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/test-unit-3.2.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/test-unit-3.2.7/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/test-unit-3.2.7/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/test-unit-3.2.7/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/test-unit-3.2.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/test-unit-3.2.7/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/test-unit-3.2.7/sample" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/test-unit-3.2.7/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/test-unit-3.2.7/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/test-unit-3.2.7/sample" />
+      </excluded>
     </library>
     <library name="test-unit (v3.2.7, RVM: ruby-2.5.1 [roady]) [gem]" type="rubylib">
       <properties>
@@ -53658,6 +53999,23 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/webrick/httpauth" />
       </SOURCES>
     </library>
+    <library name="webrick (v1.4.2, RVM: ruby-2.5.1 [oauth-auth]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/webrick/httpauth" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/webrick/httpservlet" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/webrick/httpauth" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/webrick/httpservlet" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/webrick/httpauth" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/webrick/httpservlet" />
+      </excluded>
+    </library>
     <library name="webrick (v1.4.2, RVM: ruby-2.5.1 [roady]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -54334,6 +54692,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/xmlrpc-0.3.0/bin" />
       </SOURCES>
     </library>
+    <library name="xmlrpc (v0.3.0, RVM: ruby-2.5.1 [oauth-auth]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/xmlrpc-0.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/xmlrpc-0.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/xmlrpc-0.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/xmlrpc-0.3.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/xmlrpc-0.3.0/bin" />
+      </excluded>
+    </library>
     <library name="xmlrpc (v0.3.0, RVM: ruby-2.5.1 [roady]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -54585,6 +54959,13 @@
       </SOURCES>
     </library>
     <library name="zlib (v1.0.0, RVM: ruby-2.5.1 [global]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="zlib (v1.0.0, RVM: ruby-2.5.1 [oauth-auth]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
       </properties>
