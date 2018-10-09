@@ -10097,6 +10097,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/capybara-3.8.0/spec" />
       </excluded>
     </library>
+    <library name="capybara (v3.8.2, RVM: ruby-2.5.1 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/capybara-3.8.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/capybara-3.8.2/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/capybara-3.8.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/capybara-3.8.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/capybara-3.8.2/spec" />
+      </excluded>
+    </library>
     <library name="capybara-screenshot (v1.0.14, RVM: ruby-2.4.1 [server-acceptance-tests]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@server-acceptance-tests/gems/capybara-screenshot-1.0.14/lib" />
@@ -36559,6 +36575,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/os-1.0.0/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/os-1.0.0/autotest" />
+      </excluded>
+    </library>
+    <library name="pages (v1.0.0@045c23, RVM: ruby-2.5.1 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/bundler/gems/pages-045c2327ad45/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/bundler/gems/pages-045c2327ad45/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/bundler/gems/pages-045c2327ad45/.git" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/bundler/gems/pages-045c2327ad45/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/bundler/gems/pages-045c2327ad45/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/bundler/gems/pages-045c2327ad45/.git" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/bundler/gems/pages-045c2327ad45/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/bundler/gems/pages-045c2327ad45/.git" />
       </excluded>
     </library>
     <library name="pages (v1.0.0@0507a7, RVM: ruby-2.5.1 [server]) [gem]" type="rubylib">
