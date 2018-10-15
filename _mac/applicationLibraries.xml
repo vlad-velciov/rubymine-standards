@@ -4950,6 +4950,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/arel-9.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="assert_difference (v1.0.0@56490e, RVM: ruby-2.5.1 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/bundler/gems/assert_difference-56490e7157dd/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/bundler/gems/assert_difference-56490e7157dd/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/bundler/gems/assert_difference-56490e7157dd/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/bundler/gems/assert_difference-56490e7157dd/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/bundler/gems/assert_difference-56490e7157dd/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/bundler/gems/assert_difference-56490e7157dd/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/bundler/gems/assert_difference-56490e7157dd/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/bundler/gems/assert_difference-56490e7157dd/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/bundler/gems/assert_difference-56490e7157dd/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/bundler/gems/assert_difference-56490e7157dd/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/bundler/gems/assert_difference-56490e7157dd/gemfiles" />
+      </excluded>
+    </library>
     <library name="assert_difference (v1.0.0@a4f98f, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/bundler/gems/assert_difference-a4f98f5ee234/lib" />
@@ -10938,6 +10960,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@reader/gems/bundler-1.16.6/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@reader/gems/bundler-1.16.6/man" />
+      </excluded>
+    </library>
+    <library name="bundler (v1.16.6, RVM: ruby-2.5.1 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/bundler-1.16.6/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/bundler-1.16.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/bundler-1.16.6/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/bundler-1.16.6/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/bundler-1.16.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/bundler-1.16.6/man" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/bundler-1.16.6/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/bundler-1.16.6/man" />
       </excluded>
     </library>
     <library name="bundler-unload (v1.0.2, RVM: ruby-2.2.1 [ada]) [gem]">
@@ -53535,6 +53576,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/rubocop-0.59.2/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/rubocop-0.59.2/assets" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/rubocop-0.59.2/config" />
+      </excluded>
+    </library>
+    <library name="rubocop-rspec (v1.30.0, RVM: ruby-2.5.1 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/rubocop-rspec-1.30.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/rubocop-rspec-1.30.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/rubocop-rspec-1.30.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/rubocop-rspec-1.30.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/rubocop-rspec-1.30.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/rubocop-rspec-1.30.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/rubocop-rspec-1.30.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/rubocop-rspec-1.30.0/config" />
       </excluded>
     </library>
     <library name="ruby-debug-ide (v0.6.1, RVM: ruby-2.4.1 [ada]) [gem]" type="rubylib">
