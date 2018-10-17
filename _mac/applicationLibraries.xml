@@ -17411,6 +17411,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kombat_github_app/gems/diff-lcs-1.3/autotest" />
       </SOURCES>
     </library>
+    <library name="diff-lcs (v1.3, RVM: ruby-2.5.1 [lmdb]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@lmdb/gems/diff-lcs-1.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@lmdb/gems/diff-lcs-1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@lmdb/gems/diff-lcs-1.3/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@lmdb/gems/diff-lcs-1.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@lmdb/gems/diff-lcs-1.3/autotest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@lmdb/gems/diff-lcs-1.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@lmdb/gems/diff-lcs-1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@lmdb/gems/diff-lcs-1.3/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@lmdb/gems/diff-lcs-1.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@lmdb/gems/diff-lcs-1.3/autotest" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@lmdb/gems/diff-lcs-1.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@lmdb/gems/diff-lcs-1.3/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@lmdb/gems/diff-lcs-1.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@lmdb/gems/diff-lcs-1.3/autotest" />
+      </excluded>
+    </library>
     <library name="diff-lcs (v1.3, RVM: ruby-2.5.1 [roady]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -53616,6 +53641,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/rspec-core-3.7.1/exe" />
       </SOURCES>
     </library>
+    <library name="rspec-core (v3.8.0, RVM: ruby-2.5.1 [lmdb]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@lmdb/gems/rspec-core-3.8.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@lmdb/gems/rspec-core-3.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@lmdb/gems/rspec-core-3.8.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@lmdb/gems/rspec-core-3.8.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@lmdb/gems/rspec-core-3.8.0/exe" />
+      </excluded>
+    </library>
     <library name="rspec-core (v3.8.0, RVM: ruby-2.5.1 [server]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -53887,6 +53928,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/rspec-expectations-3.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-expectations (v3.8.2, RVM: ruby-2.5.1 [lmdb]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@lmdb/gems/rspec-expectations-3.8.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@lmdb/gems/rspec-expectations-3.8.2/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-expectations (v3.8.2, RVM: ruby-2.5.1 [server]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -54153,6 +54205,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/rspec-mocks-3.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-mocks (v3.8.0, RVM: ruby-2.5.1 [lmdb]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@lmdb/gems/rspec-mocks-3.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@lmdb/gems/rspec-mocks-3.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-mocks (v3.8.0, RVM: ruby-2.5.1 [server]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -54366,6 +54429,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/rspec-rails-3.7.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-rails (v3.8.0, RVM: ruby-2.5.1 [lmdb]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@lmdb/gems/rspec-rails-3.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@lmdb/gems/rspec-rails-3.8.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-rails (v3.8.0, RVM: ruby-2.5.1 [server]) [gem]" type="rubylib">
@@ -54687,6 +54761,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/rspec-support-3.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-support (v3.8.0, RVM: ruby-2.5.1 [lmdb]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@lmdb/gems/rspec-support-3.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@lmdb/gems/rspec-support-3.8.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-support (v3.8.0, RVM: ruby-2.5.1 [server]) [gem]" type="rubylib">
