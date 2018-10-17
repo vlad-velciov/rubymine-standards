@@ -19,6 +19,7 @@
       <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="eco" type="RHTML" />
       <mapping pattern="Rakekfile" type="Ruby" />
+      <mapping ext="rale" type="Ruby" />
       <mapping pattern="nginx.conf" type="nginx file type" />
       <mapping pattern="nginx.conf.erb" type="nginx file type" />
       <mapping pattern="nginx_dev.conf.erb" type="nginx file type" />
