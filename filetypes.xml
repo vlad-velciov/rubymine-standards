@@ -16,7 +16,6 @@
       <mapping ext="etb" type="PLAIN_TEXT" />
       <mapping ext="sqlite3" type="PLAIN_TEXT" />
       <mapping ext="epub" type="PLAIN_TEXT" />
-      <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="eco" type="RHTML" />
       <mapping pattern="Rakekfile" type="Ruby" />
       <mapping ext="rale" type="Ruby" />
