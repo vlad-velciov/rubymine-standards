@@ -12022,6 +12022,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/capybara-3.10.0/spec" />
       </excluded>
     </library>
+    <library name="capybara (v3.10.1, RVM: ruby-2.5.1 [server-acceptance-tests]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/capybara-3.10.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/capybara-3.10.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/capybara-3.10.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/capybara-3.10.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/capybara-3.10.1/spec" />
+      </excluded>
+    </library>
     <library name="capybara (v3.10.1, RVM: ruby-2.5.1 [server]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -22244,11 +22260,13 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/ffi-1.9.25/samples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/ffi-1.9.25/samples" />
@@ -41505,6 +41523,7 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/nokogiri-1.8.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/nokogiri-1.8.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/nokogiri-1.8.5/lib" />
@@ -41514,6 +41533,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/nokogiri-1.8.5/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/nokogiri-1.8.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/nokogiri-1.8.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/nokogiri-1.8.5/lib" />
@@ -42752,6 +42772,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/bundler/gems/pages-0bb4b2d8bff4/.git" />
       </excluded>
     </library>
+    <library name="pages (v1.0.0@1aa314, RVM: ruby-2.5.1 [server-acceptance-tests]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/bundler/gems/pages-1aa314e2f930/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/bundler/gems/pages-1aa314e2f930/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/bundler/gems/pages-1aa314e2f930/.git" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/bundler/gems/pages-1aa314e2f930/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/bundler/gems/pages-1aa314e2f930/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/bundler/gems/pages-1aa314e2f930/.git" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/bundler/gems/pages-1aa314e2f930/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/bundler/gems/pages-1aa314e2f930/.git" />
+      </excluded>
+    </library>
     <library name="pages (v1.0.0@263fa9, RVM: ruby-2.4.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@wri_server/bundler/gems/pages-263fa994531f/bin" />
@@ -42775,6 +42814,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/bundler/gems/pages-263fa994531f/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@server/bundler/gems/pages-263fa994531f/.idea" />
       </SOURCES>
+    </library>
+    <library name="pages (v1.0.0@4a1fdf, RVM: ruby-2.5.1 [server-acceptance-tests]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/bundler/gems/pages-4a1fdf6f435e/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/bundler/gems/pages-4a1fdf6f435e/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/bundler/gems/pages-4a1fdf6f435e/.git" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/bundler/gems/pages-4a1fdf6f435e/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/bundler/gems/pages-4a1fdf6f435e/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/bundler/gems/pages-4a1fdf6f435e/.git" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/bundler/gems/pages-4a1fdf6f435e/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/bundler/gems/pages-4a1fdf6f435e/.git" />
+      </excluded>
     </library>
     <library name="pages (v1.0.0@54380d, RVM: ruby-2.5.1 [server]) [gem]" type="rubylib">
       <properties>
@@ -43082,6 +43140,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/bundler/gems/pages-e0979c81b888/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/bundler/gems/pages-e0979c81b888/.git" />
+      </excluded>
+    </library>
+    <library name="pages (v1.0.0@fcd709, RVM: ruby-2.5.1 [server-acceptance-tests]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/bundler/gems/pages-fcd7096e01ef/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/bundler/gems/pages-fcd7096e01ef/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/bundler/gems/pages-fcd7096e01ef/.git" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/bundler/gems/pages-fcd7096e01ef/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/bundler/gems/pages-fcd7096e01ef/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/bundler/gems/pages-fcd7096e01ef/.git" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/bundler/gems/pages-fcd7096e01ef/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/bundler/gems/pages-fcd7096e01ef/.git" />
       </excluded>
     </library>
     <library name="pages (v1.0.0@fcd709, RVM: ruby-2.5.1 [server]) [gem]" type="rubylib">
@@ -47014,6 +47091,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rack-2.0.5/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rack-2.0.5/contrib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rack-2.0.5/example" />
+      </excluded>
+    </library>
+    <library name="rack (v2.0.6, RVM: ruby-2.5.1 [server-acceptance-tests]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/rack-2.0.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/rack-2.0.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/rack-2.0.6/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/rack-2.0.6/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/rack-2.0.6/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/rack-2.0.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/rack-2.0.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/rack-2.0.6/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/rack-2.0.6/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/rack-2.0.6/example" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/rack-2.0.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/rack-2.0.6/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/rack-2.0.6/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/rack-2.0.6/example" />
       </excluded>
     </library>
     <library name="rack (v2.0.6, RVM: ruby-2.5.1 [server]) [gem]" type="rubylib">
@@ -52873,6 +52975,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/redis-session-store-0.9.2/spec" />
+      </excluded>
+    </library>
+    <library name="regexp_parser (v1.2.0, RVM: ruby-2.5.1 [server-acceptance-tests]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/regexp_parser-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/regexp_parser-1.2.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/regexp_parser-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/regexp_parser-1.2.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/regexp_parser-1.2.0/test" />
       </excluded>
     </library>
     <library name="regexp_parser (v1.2.0, RVM: ruby-2.5.1 [server]) [gem]" type="rubylib">
@@ -69124,6 +69242,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/xpath-3.1.0/spec" />
+      </excluded>
+    </library>
+    <library name="xpath (v3.2.0, RVM: ruby-2.5.1 [server-acceptance-tests]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/xpath-3.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/xpath-3.2.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/xpath-3.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/xpath-3.2.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server-acceptance-tests/gems/xpath-3.2.0/spec" />
       </excluded>
     </library>
     <library name="xpath (v3.2.0, RVM: ruby-2.5.1 [server]) [gem]" type="rubylib">
