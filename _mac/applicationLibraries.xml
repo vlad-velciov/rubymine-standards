@@ -5407,6 +5407,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ast-2.4.0/test" />
       </excluded>
     </library>
+    <library name="attr_encrypted (v3.1.0, RVM: ruby-2.5.1 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/attr_encrypted-3.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/attr_encrypted-3.1.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/attr_encrypted-3.1.0/certs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/attr_encrypted-3.1.0/checksum" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/attr_encrypted-3.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/attr_encrypted-3.1.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/attr_encrypted-3.1.0/certs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/attr_encrypted-3.1.0/checksum" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/attr_encrypted-3.1.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/attr_encrypted-3.1.0/certs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/attr_encrypted-3.1.0/checksum" />
+      </excluded>
+    </library>
     <library name="autoparse (v0.3.3, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/autoparse-0.3.3/lib" />
@@ -19594,6 +19616,28 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/embedly-1.9.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/embedly-1.9.1/spec" />
+      </excluded>
+    </library>
+    <library name="encryptor (v3.0.0, RVM: ruby-2.5.1 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/encryptor-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/encryptor-3.0.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/encryptor-3.0.0/certs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/encryptor-3.0.0/checksum" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/encryptor-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/encryptor-3.0.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/encryptor-3.0.0/certs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/encryptor-3.0.0/checksum" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/encryptor-3.0.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/encryptor-3.0.0/certs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/encryptor-3.0.0/checksum" />
       </excluded>
     </library>
     <library name="equalizer (v0.0.11, RVM: ruby-2.4.1 [wri_server]) [gem]">
