@@ -3747,6 +3747,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/addressable-2.5.2/tasks" />
       </excluded>
     </library>
+    <library name="aes_key_wrap (v1.0.1, RVM: ruby-2.5.1 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/aes_key_wrap-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/aes_key_wrap-1.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/aes_key_wrap-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/aes_key_wrap-1.0.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/aes_key_wrap-1.0.1/bin" />
+      </excluded>
+    </library>
     <library name="airbrake (v4.1.0, RVM: ruby-2.2.1 [ada]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@ada/gems/airbrake-4.1.0/bin" />
@@ -9264,6 +9280,25 @@
       </properties>
       <CLASSES />
       <SOURCES />
+    </library>
+    <library name="bindata (v2.4.4, RVM: ruby-2.5.1 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/bindata-2.4.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/bindata-2.4.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/bindata-2.4.4/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/bindata-2.4.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/bindata-2.4.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/bindata-2.4.4/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/bindata-2.4.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/bindata-2.4.4/examples" />
+      </excluded>
     </library>
     <library name="bindex (v0.5.0, RVM: ruby-2.4.1 [ada]) [gem]" type="rubylib">
       <properties>
@@ -28846,6 +28881,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/ice_nine-0.11.2/benchmarks" />
       </excluded>
     </library>
+    <library name="ims-lti (v2.2.3, RVM: ruby-2.5.1 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/ims-lti-2.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/ims-lti-2.2.3/lib" />
+      </SOURCES>
+    </library>
     <library name="inflecto (v0.0.2, RVM: ruby-2.2.1 [wri_server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@wri_server/gems/inflecto-0.0.2/lib" />
@@ -32844,6 +32890,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/json/add" />
+      </excluded>
+    </library>
+    <library name="json-jwt (v1.9.4, RVM: ruby-2.5.1 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/json-jwt-1.9.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/json-jwt-1.9.4/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/json-jwt-1.9.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/json-jwt-1.9.4/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/json-jwt-1.9.4/spec" />
       </excluded>
     </library>
     <library name="jwt (v0.1.13, RVM: ruby-2.2.6 [wri_server]) [gem]">
@@ -60534,6 +60596,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/signet-0.8.1/website" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/signet-0.8.1/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trackmycash/gems/signet-0.8.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="simple_oauth (v0.3.1, RVM: ruby-2.5.1 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/simple_oauth-0.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/simple_oauth-0.3.1/lib" />
       </SOURCES>
     </library>
     <library name="simplecov (v0.10.0, RVM: ruby-2.2.1 [ada]) [gem]">
