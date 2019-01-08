@@ -62496,6 +62496,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@unbounce/gems/ruby-debug-ide-0.7.0.beta6/ext" />
       </excluded>
     </library>
+    <library name="ruby-debug-ide (v0.7.0.beta7, RVM: ruby-2.5.1 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/ruby-debug-ide-0.7.0.beta7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/ruby-debug-ide-0.7.0.beta7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/ruby-debug-ide-0.7.0.beta7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/ruby-debug-ide-0.7.0.beta7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/ruby-debug-ide-0.7.0.beta7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/ruby-debug-ide-0.7.0.beta7/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/ruby-debug-ide-0.7.0.beta7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/ruby-debug-ide-0.7.0.beta7/ext" />
+      </excluded>
+    </library>
     <library name="ruby-prof (v0.17.0, RVM: ruby-2.5.1 [server]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
