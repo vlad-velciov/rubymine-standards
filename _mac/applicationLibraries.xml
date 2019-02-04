@@ -1,5 +1,9 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/jasmine" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/joi" type="javaScript">
       <CLASSES />
       <SOURCES />
