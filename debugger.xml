@@ -1,18 +1,11 @@
 <application>
   <component name="XDebuggerSettings">
     <data-views />
-    <general>
-      <option name="hideDebuggerOnProcessTermination" value="true" />
-    </general>
+    <general />
     <debuggers>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
-        </configuration>
-      </debugger>
-      <debugger id="ruby">
-        <configuration>
-          <option name="verboseOutput" value="true" />
         </configuration>
       </debugger>
     </debuggers>
