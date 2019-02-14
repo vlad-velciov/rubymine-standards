@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="Default" />
     <option name="defaultScopeName" value="Default" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Default" />
+    <option name="FILE_MASK" value="*.rb" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -14,7 +17,7 @@
     <mask>*.erb</mask>
     <mask>*.html</mask>
     <mask>*_spec.*</mask>
-    <mask>*.rb</mask>
     <mask>*.ts</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
