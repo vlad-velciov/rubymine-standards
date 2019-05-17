@@ -15,6 +15,7 @@
       <mapping pattern="lexile" type="PLAIN_TEXT" />
       <mapping pattern="book_bank" type="PLAIN_TEXT" />
       <mapping ext="spec" type="PLAIN_TEXT" />
+      <mapping ext="rbb" type="PLAIN_TEXT" />
       <mapping ext="etb" type="PLAIN_TEXT" />
       <mapping ext="groovy" type="PLAIN_TEXT" />
       <mapping ext="sqlite3" type="PLAIN_TEXT" />
