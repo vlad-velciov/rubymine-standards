@@ -11888,6 +11888,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/factory_bot-4.8.2/gemfiles" />
       </excluded>
     </library>
+    <library name="factory_bot (v5.0.2, RVM: ruby-2.6.2 [products-api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2@products-api/gems/factory_bot-5.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2@products-api/gems/factory_bot-5.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="factory_bot_rails (v4.11.1, RVM: ruby-2.5.1 [server]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -11944,6 +11955,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/factory_bot_rails-4.8.2/tmp" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/factory_bot_rails-4.8.2/gemfiles" />
       </excluded>
+    </library>
+    <library name="factory_bot_rails (v5.0.2, RVM: ruby-2.6.2 [products-api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2@products-api/gems/factory_bot_rails-5.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2@products-api/gems/factory_bot_rails-5.0.2/lib" />
+      </SOURCES>
     </library>
     <library name="faker (v1.8.4, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
