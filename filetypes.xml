@@ -2,12 +2,12 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".nycrc" type="JSON" />
-      <mapping pattern="api" type="PLAIN_TEXT" />
       <mapping pattern="lti/credentials_controller" type="PLAIN_TEXT" />
       <mapping pattern="geckodriver" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="SourceDecorator" type="PLAIN_TEXT" />
       <mapping pattern=".gemset" type="PLAIN_TEXT" />
+      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="book_bank" type="PLAIN_TEXT" />
@@ -15,6 +15,7 @@
       <mapping pattern=".sample_env" type="PLAIN_TEXT" />
       <mapping pattern="Bowerfile" type="PLAIN_TEXT" />
       <mapping pattern="lexile" type="PLAIN_TEXT" />
+      <mapping pattern="api" type="PLAIN_TEXT" />
       <mapping ext="spec" type="PLAIN_TEXT" />
       <mapping ext="rbb" type="PLAIN_TEXT" />
       <mapping ext="etb" type="PLAIN_TEXT" />
