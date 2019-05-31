@@ -10325,6 +10325,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dalli-2.7.8/lib" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.2, Remote: ruby-2.6.3-p62 (2)) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/debase-0.2.2/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/debase-0.2.2/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/debase-0.2.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/debase-0.2.2/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/debase-0.2.2/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/debase-0.2.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/debase-0.2.2/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/debase-0.2.2/test" />
+      </excluded>
+    </library>
     <library name="debase (v0.2.2, RVM: ruby-2.5.1 [server]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -10505,6 +10524,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@server/gems/debase-ruby_core_source-0.10.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.4, Remote: ruby-2.6.3-p62 (2)) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/debase-ruby_core_source-0.10.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/debase-ruby_core_source-0.10.4/lib" />
       </SOURCES>
     </library>
     <library name="debase-ruby_core_source (v0.10.4, RVM: ruby-2.6.2 [products-api]) [gem]" type="rubylib">
@@ -19916,15 +19946,15 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/minitest-5.11.3/lib" />
-        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/minitest-5.11.3/test" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/lib/ruby/gems/2.6.0/gems/minitest-5.11.3/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/lib/ruby/gems/2.6.0/gems/minitest-5.11.3/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/minitest-5.11.3/lib" />
-        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/minitest-5.11.3/test" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/lib/ruby/gems/2.6.0/gems/minitest-5.11.3/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/lib/ruby/gems/2.6.0/gems/minitest-5.11.3/test" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/minitest-5.11.3/test" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/lib/ruby/gems/2.6.0/gems/minitest-5.11.3/test" />
       </excluded>
     </library>
     <library name="minitest (v5.11.3, RVM: ruby-2.5.1 [server]) [gem]" type="rubylib">
@@ -25744,21 +25774,21 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/rake-12.3.2/bin" />
-        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/rake-12.3.2/doc" />
-        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/rake-12.3.2/exe" />
-        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/rake-12.3.2/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/lib/ruby/gems/2.6.0/gems/rake-12.3.2/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/lib/ruby/gems/2.6.0/gems/rake-12.3.2/doc" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/lib/ruby/gems/2.6.0/gems/rake-12.3.2/exe" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/rake-12.3.2/bin" />
-        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/rake-12.3.2/doc" />
-        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/rake-12.3.2/exe" />
-        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/rake-12.3.2/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/lib/ruby/gems/2.6.0/gems/rake-12.3.2/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/lib/ruby/gems/2.6.0/gems/rake-12.3.2/doc" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/lib/ruby/gems/2.6.0/gems/rake-12.3.2/exe" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/rake-12.3.2/bin" />
-        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/rake-12.3.2/doc" />
-        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/rake-12.3.2/exe" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/lib/ruby/gems/2.6.0/gems/rake-12.3.2/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/lib/ruby/gems/2.6.0/gems/rake-12.3.2/doc" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/lib/ruby/gems/2.6.0/gems/rake-12.3.2/exe" />
       </excluded>
     </library>
     <library name="rake (v12.3.2, RVM: ruby-2.6.2 [global]) [gem]" type="rubylib">
@@ -29127,6 +29157,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2@server/gems/rubocop-rspec-1.30.0/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2@server/gems/rubocop-rspec-1.30.0/config" />
+      </excluded>
+    </library>
+    <library name="ruby-debug-ide (v0.6.1, Remote: ruby-2.6.3-p62 (2)) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/ruby-debug-ide-0.6.1/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/ruby-debug-ide-0.6.1/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/ruby-debug-ide-0.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/ruby-debug-ide-0.6.1/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/ruby-debug-ide-0.6.1/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/ruby-debug-ide-0.6.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/ruby-debug-ide-0.6.1/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/ruby-debug-ide-0.6.1/ext" />
       </excluded>
     </library>
     <library name="ruby-debug-ide (v0.6.1, RVM: ruby-2.5.1 [server]) [gem]" type="rubylib">
