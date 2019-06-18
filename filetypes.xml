@@ -8,6 +8,7 @@
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="SourceDecorator" type="PLAIN_TEXT" />
       <mapping pattern=".gemset" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="audit_concern" type="PLAIN_TEXT" />
