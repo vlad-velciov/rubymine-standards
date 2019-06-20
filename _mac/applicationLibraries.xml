@@ -2056,6 +2056,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/nio4r-2.3.1/spec" />
@@ -2063,6 +2064,7 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/nio4r-2.3.1/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/nio4r-2.3.1/spec" />
@@ -2081,12 +2083,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nokogiri/1.10.3" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/nokogiri-1.10.3/bin" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/nokogiri-1.10.3/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/nokogiri-1.10.3/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/nokogiri-1.10.3/patches" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nokogiri/1.10.3" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/nokogiri-1.10.3/bin" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/nokogiri-1.10.3/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/nokogiri-1.10.3/lib" />
@@ -2696,11 +2700,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/rb-fsevent-0.10.3/lib" />
@@ -4318,10 +4324,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/websocket-driver/0.7.0" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/websocket-driver-0.7.0/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/websocket-driver-0.7.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/websocket-driver/0.7.0" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/websocket-driver-0.7.0/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1881949023/usr/local/bundle/gems/websocket-driver-0.7.0/lib" />
       </SOURCES>
