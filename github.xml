@@ -3,6 +3,9 @@
     <account id="678d9383-ca90-4c9d-ae90-1c72ad145c37" name="vladvelciov">
       <server host="github.com" />
     </account>
+    <account id="120aff88-2154-4759-87ae-099147aae61f" name="vlad-velciov">
+      <server host="github.com" />
+    </account>
   </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="vladvelciov" />
