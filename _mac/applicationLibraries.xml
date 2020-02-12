@@ -6718,6 +6718,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/rails-controller-testing-1.0.2/test" />
       </excluded>
     </library>
+    <library name="rails-controller-testing (v1.0.4, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/rails-controller-testing-1.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/rails-controller-testing-1.0.4/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/rails-controller-testing-1.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/rails-controller-testing-1.0.4/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/rails-controller-testing-1.0.4/test" />
+      </excluded>
+    </library>
     <library name="rails-dom-testing (v2.0.3, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7332,6 +7348,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/redis-session-store-0.11.0/spec" />
+      </excluded>
+    </library>
+    <library name="redis-session-store (v0.11.1, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/redis-session-store-0.11.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/redis-session-store-0.11.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/redis-session-store-0.11.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/redis-session-store-0.11.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/redis-session-store-0.11.1/spec" />
       </excluded>
     </library>
     <library name="redlock (v1.0.0, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
@@ -8920,6 +8952,45 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/teaspoon-1.1.5/bin" />
       </excluded>
     </library>
+    <library name="teaspoon (v1.1.5@e2637c, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/screenshots" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/teaspoon-mocha" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/teaspoon-qunit" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/teaspoon-jasmine" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/screenshots" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/teaspoon-mocha" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/teaspoon-qunit" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/teaspoon-jasmine" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/screenshots" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/teaspoon-mocha" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/teaspoon-qunit" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/teaspoon-jasmine" />
+      </excluded>
+    </library>
     <library name="teaspoon-jasmine (v2.3.4, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -8930,6 +9001,57 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/teaspoon-jasmine-2.3.4/lib" />
       </SOURCES>
+    </library>
+    <library name="teaspoon-jasmine (v2.9.1@e2637c, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/teaspoon-jasmine/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/teaspoon-jasmine/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/teaspoon-jasmine/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/teaspoon-jasmine/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/teaspoon-jasmine/spec" />
+      </excluded>
+    </library>
+    <library name="teaspoon-mocha (v2.3.3@e2637c, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/teaspoon-mocha/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/teaspoon-mocha/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/teaspoon-mocha/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/teaspoon-mocha/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/teaspoon-mocha/spec" />
+      </excluded>
+    </library>
+    <library name="teaspoon-qunit (v1.20.0@e2637c, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/teaspoon-qunit/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/teaspoon-qunit/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/teaspoon-qunit/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/teaspoon-qunit/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/teaspoon-qunit/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/teaspoon-qunit/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/teaspoon-qunit/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/bundler/gems/teaspoon-e2637c3118b1/teaspoon-qunit/test" />
+      </excluded>
     </library>
     <library name="temple (v0.8.0, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
       <properties>
