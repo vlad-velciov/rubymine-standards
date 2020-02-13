@@ -4075,6 +4075,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/haml-5.0.4/yard" />
       </excluded>
     </library>
+    <library name="haml (v5.1.2, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/haml-5.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/haml-5.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/haml-5.1.2/yard" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/haml-5.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/haml-5.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/haml-5.1.2/yard" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/haml-5.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/haml-5.1.2/yard" />
+      </excluded>
+    </library>
     <library name="handlebars_assets (v0.23.2, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4680,6 +4699,24 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/jaro_winkler-1.5.1/ext" />
+      </excluded>
+    </library>
+    <library name="jaro_winkler (v1.5.4, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/jaro_winkler/1.5.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/jaro_winkler-1.5.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/jaro_winkler-1.5.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/jaro_winkler/1.5.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/jaro_winkler-1.5.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/jaro_winkler-1.5.4/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/jaro_winkler-1.5.4/ext" />
       </excluded>
     </library>
     <library name="jbuilder (v2.7.0, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
@@ -6454,6 +6491,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/parallel-1.12.1/lib" />
       </SOURCES>
     </library>
+    <library name="parallel (v1.19.1, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/parallel-1.19.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/parallel-1.19.1/lib" />
+      </SOURCES>
+    </library>
     <library name="paranoia (v2.4.1, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6506,6 +6554,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/parser-2.5.1.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/parser-2.5.1.2/doc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/parser-2.5.1.2/test" />
+      </excluded>
+    </library>
+    <library name="parser (v2.7.0.2, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/parser-2.7.0.2/ci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/parser-2.7.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/parser-2.7.0.2/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/parser-2.7.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/parser-2.7.0.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/parser-2.7.0.2/ci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/parser-2.7.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/parser-2.7.0.2/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/parser-2.7.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/parser-2.7.0.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/parser-2.7.0.2/ci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/parser-2.7.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/parser-2.7.0.2/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/parser-2.7.0.2/test" />
       </excluded>
     </library>
     <library name="peregrin (v1.2.3@4de275, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
@@ -8497,6 +8570,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/rubocop-0.59.2/config" />
       </excluded>
     </library>
+    <library name="rubocop (v0.79.0, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/rubocop-0.79.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/rubocop-0.79.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/rubocop-0.79.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/rubocop-0.79.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/rubocop-0.79.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/rubocop-0.79.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/rubocop-0.79.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/rubocop-0.79.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/rubocop-0.79.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/rubocop-0.79.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/rubocop-0.79.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/rubocop-0.79.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/rubocop-0.79.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/rubocop-0.79.0/config" />
+      </excluded>
+    </library>
     <library name="rubocop-rspec (v1.30.0, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -8514,6 +8612,22 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/rubocop-rspec-1.30.0/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/rubocop-rspec-1.30.0/config" />
+      </excluded>
+    </library>
+    <library name="rubocop-rspec (v1.38.0, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/rubocop-rspec-1.38.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/rubocop-rspec-1.38.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/rubocop-rspec-1.38.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/rubocop-rspec-1.38.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/rubocop-rspec-1.38.0/config" />
       </excluded>
     </library>
     <library name="ruby-debug-ide (v0.8.0.beta19, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
@@ -8574,6 +8688,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/ruby-progressbar-1.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-progressbar (v1.10.1, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/ruby-progressbar-1.10.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/ruby-progressbar-1.10.1/lib" />
       </SOURCES>
     </library>
     <library name="ruby-rc4 (v0.1.5, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
@@ -9190,6 +9315,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/spring-2.0.2/bin" />
       </excluded>
     </library>
+    <library name="spring (v2.1.0, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/spring-2.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/spring-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/spring-2.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/spring-2.1.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/spring-2.1.0/bin" />
+      </excluded>
+    </library>
     <library name="spring-commands-rspec (v1.0.4, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9463,6 +9604,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/temple-0.8.0/test" />
+      </excluded>
+    </library>
+    <library name="temple (v0.8.2, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/temple-0.8.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/temple-0.8.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/temple-0.8.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/temple-0.8.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/temple-0.8.2/test" />
       </excluded>
     </library>
     <library name="terminal-notifier (v2.0.0, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
@@ -9923,6 +10080,22 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/unicode-display_width-1.4.0/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/unicode-display_width-1.4.0/spec" />
+      </excluded>
+    </library>
+    <library name="unicode-display_width (v1.6.1, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/unicode-display_width-1.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/unicode-display_width-1.6.1/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/unicode-display_width-1.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/unicode-display_width-1.6.1/data" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/unicode-display_width-1.6.1/data" />
       </excluded>
     </library>
     <library name="unicode_utils (v1.4.0, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
