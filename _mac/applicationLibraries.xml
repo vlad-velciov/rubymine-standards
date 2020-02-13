@@ -10025,6 +10025,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/shoulda-matchers-3.1.2/doc_config" />
       </excluded>
     </library>
+    <library name="shoulda-matchers (v4.2.0, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/shoulda-matchers-4.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/shoulda-matchers-4.2.0/docs" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/shoulda-matchers-4.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/shoulda-matchers-4.2.0/docs" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/shoulda-matchers-4.2.0/docs" />
+      </excluded>
+    </library>
     <library name="signet (v0.11.0, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
