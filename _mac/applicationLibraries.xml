@@ -5442,6 +5442,27 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/merit-3.0.0/config" />
       </excluded>
     </library>
+    <library name="merit (v3.0.3, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/merit-3.0.3/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/merit-3.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/merit-3.0.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/merit-3.0.3/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/merit-3.0.3/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/merit-3.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/merit-3.0.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/merit-3.0.3/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/merit-3.0.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/merit-3.0.3/config" />
+      </excluded>
+    </library>
     <library name="metamagic (v3.1.7, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
