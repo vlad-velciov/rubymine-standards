@@ -480,6 +480,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/acts-as-taggable-on-6.0.0/gemfiles" />
       </excluded>
     </library>
+    <library name="acts-as-taggable-on (v6.5.0, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/acts-as-taggable-on-6.5.0/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/acts-as-taggable-on-6.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/acts-as-taggable-on-6.5.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/acts-as-taggable-on-6.5.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/acts-as-taggable-on-6.5.0/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/acts-as-taggable-on-6.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/acts-as-taggable-on-6.5.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/acts-as-taggable-on-6.5.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/acts-as-taggable-on-6.5.0/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/acts-as-taggable-on-6.5.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/acts-as-taggable-on-6.5.0/gemfiles" />
+      </excluded>
+    </library>
     <library name="addressable (v2.5.2, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6187,6 +6209,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/paranoia-2.4.1/test" />
+      </excluded>
+    </library>
+    <library name="paranoia (v2.4.2, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/paranoia-2.4.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/paranoia-2.4.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/paranoia-2.4.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/paranoia-2.4.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/paranoia-2.4.2/test" />
       </excluded>
     </library>
     <library name="parser (v2.5.1.2, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
