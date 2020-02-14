@@ -7422,6 +7422,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/puma-3.12.0/tools" />
       </excluded>
     </library>
+    <library name="puma (v4.3.1, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/puma-4.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/puma-4.3.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/puma-4.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/puma-4.3.1/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/puma-4.3.1/tools" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/puma-4.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/puma-4.3.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/puma-4.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/puma-4.3.1/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/puma-4.3.1/tools" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/puma-4.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/puma-4.3.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/puma-4.3.1/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/puma-4.3.1/tools" />
+      </excluded>
+    </library>
     <library name="querystring (v0.1.0, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
