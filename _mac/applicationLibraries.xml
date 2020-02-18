@@ -2152,6 +2152,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/cancancan-2.1.2/lib" />
       </SOURCES>
     </library>
+    <library name="cancancan (v3.0.2, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/cancancan-3.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/cancancan-3.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="capybara (v3.19.0, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -10066,6 +10077,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/shoulda-matchers-4.2.0/docs" />
+      </excluded>
+    </library>
+    <library name="shoulda-matchers (v4.3.0, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/shoulda-matchers-4.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/shoulda-matchers-4.3.0/docs" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/shoulda-matchers-4.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/shoulda-matchers-4.3.0/docs" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@server/gems/shoulda-matchers-4.3.0/docs" />
       </excluded>
     </library>
     <library name="signet (v0.11.0, RVM: ruby-2.6.3 [server]) [gem]" type="rubylib">
