@@ -15,6 +15,7 @@
       <mapping pattern=".env_sample" type="PLAIN_TEXT" />
       <mapping pattern="geckodriver" type="PLAIN_TEXT" />
       <mapping pattern=".sample_env" type="PLAIN_TEXT" />
+      <mapping pattern=".rspec" type="PLAIN_TEXT" />
       <mapping pattern=".mocharc" type="PLAIN_TEXT" />
       <mapping pattern="Bowerfile" type="PLAIN_TEXT" />
       <mapping pattern="lexile" type="PLAIN_TEXT" />
