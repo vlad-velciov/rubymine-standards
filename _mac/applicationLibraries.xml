@@ -1461,6 +1461,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/combine_pdf-0.2.36/test" />
       </excluded>
     </library>
+    <library name="commander (v4.4.7, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/commander-4.4.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/commander-4.4.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/commander-4.4.7/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/commander-4.4.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/commander-4.4.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/commander-4.4.7/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/commander-4.4.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/commander-4.4.7/spec" />
+      </excluded>
+    </library>
     <library name="community_cmis_ruby (v0.5.35, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1475,6 +1494,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_cmis_ruby-0.5.35/spec" />
+      </excluded>
+    </library>
+    <library name="community_cmis_ruby (v0.5.37, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_cmis_ruby-0.5.37/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_cmis_ruby-0.5.37/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_cmis_ruby-0.5.37/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_cmis_ruby-0.5.37/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_cmis_ruby-0.5.37/spec" />
       </excluded>
     </library>
     <library name="community_docgen (v0.1.3, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
@@ -1555,6 +1590,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_models-0.1.42/bin" />
+      </excluded>
+    </library>
+    <library name="community_models (v0.1.44, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_models-0.1.44/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_models-0.1.44/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_models-0.1.44/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_models-0.1.44/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_models-0.1.44/bin" />
       </excluded>
     </library>
     <library name="community_resiliency (v0.1.2, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
@@ -3039,6 +3090,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/hashie-1.2.0/spec" />
       </excluded>
     </library>
+    <library name="highline (v2.0.3, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/highline-2.0.3/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/highline-2.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/highline-2.0.3/site" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/highline-2.0.3/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/highline-2.0.3/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/highline-2.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/highline-2.0.3/site" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/highline-2.0.3/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/highline-2.0.3/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/highline-2.0.3/site" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/highline-2.0.3/examples" />
+      </excluded>
+    </library>
     <library name="hitimes (v1.2.6, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3555,6 +3628,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/json-2.3.0/references" />
       </excluded>
     </library>
+    <library name="json_api_client (v1.16.1, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/json_api_client-1.16.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/json_api_client-1.16.1/lib" />
+      </SOURCES>
+    </library>
     <library name="json_api_client (v1.5.3, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3688,10 +3772,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/libxml-ruby/3.1.0" />
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/gems/2.6.0/gems/libxml-ruby-3.1.0/ext" />
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/gems/2.6.0/gems/libxml-ruby-3.1.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/libxml-ruby/3.1.0" />
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/gems/2.6.0/gems/libxml-ruby-3.1.0/ext" />
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/gems/2.6.0/gems/libxml-ruby-3.1.0/lib" />
       </SOURCES>
@@ -4761,6 +4847,44 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/parlour-0.8.1/plugin_examples" />
       </excluded>
     </library>
+    <library name="parlour (v1.0.0, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/parlour-1.0.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/parlour-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/parlour-1.0.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/parlour-1.0.0/plugin_examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/parlour-1.0.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/parlour-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/parlour-1.0.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/parlour-1.0.0/plugin_examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/parlour-1.0.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/parlour-1.0.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/parlour-1.0.0/plugin_examples" />
+      </excluded>
+    </library>
+    <library name="parse-cron (v0.1.4, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/parse-cron-0.1.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/parse-cron-0.1.4/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/parse-cron-0.1.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/parse-cron-0.1.4/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/parse-cron-0.1.4/spec" />
+      </excluded>
+    </library>
     <library name="parser (v2.6.5.0, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4959,6 +5083,25 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/pry-byebug-3.7.0/lib" />
       </SOURCES>
+    </library>
+    <library name="pry-stack_explorer (v0.4.9.3, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/pry-stack_explorer-0.4.9.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/pry-stack_explorer-0.4.9.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/pry-stack_explorer-0.4.9.3/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/pry-stack_explorer-0.4.9.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/pry-stack_explorer-0.4.9.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/pry-stack_explorer-0.4.9.3/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/pry-stack_explorer-0.4.9.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/pry-stack_explorer-0.4.9.3/examples" />
+      </excluded>
     </library>
     <library name="psych (v3.0.2, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
@@ -6928,6 +7071,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/sorbet-0.4.5051/bin" />
       </excluded>
     </library>
+    <library name="sorbet (v0.5.5368, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/sorbet-0.5.5368/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/sorbet-0.5.5368/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/sorbet-0.5.5368/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/sorbet-0.5.5368/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/sorbet-0.5.5368/bin" />
+      </excluded>
+    </library>
     <library name="sorbet-rails (v0.5.8.1, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6947,6 +7106,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/sorbet-rails-0.5.8.1/.github" />
       </excluded>
     </library>
+    <library name="sorbet-rails (v0.5.9.1, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/sorbet-rails-0.5.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/sorbet-rails-0.5.9.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/sorbet-rails-0.5.9.1/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/sorbet-rails-0.5.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/sorbet-rails-0.5.9.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/sorbet-rails-0.5.9.1/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/sorbet-rails-0.5.9.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/sorbet-rails-0.5.9.1/.github" />
+      </excluded>
+    </library>
     <library name="sorbet-runtime (v0.4.5051, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6956,6 +7134,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/sorbet-runtime-0.4.5051/lib" />
+      </SOURCES>
+    </library>
+    <library name="sorbet-runtime (v0.5.5368, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/sorbet-runtime-0.5.5368/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/sorbet-runtime-0.5.5368/lib" />
       </SOURCES>
     </library>
     <library name="sorbet-static-0.4.5051-universal-darwin (v0.4.5051, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
@@ -6970,6 +7159,20 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/sorbet-static-0.4.5051-universal-darwin-19/libexec" />
+      </excluded>
+    </library>
+    <library name="sorbet-static-0.5.5368-universal-darwin (v0.5.5368, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/sorbet-static-0.5.5368-universal-darwin-19/libexec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/sorbet-static-0.5.5368-universal-darwin-19/libexec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/sorbet-static-0.5.5368-universal-darwin-19/libexec" />
       </excluded>
     </library>
     <library name="sort_alphabetical (v1.1.0, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
@@ -7559,6 +7762,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/upnxt_community_lib_common-1.9.71/lib" />
+      </SOURCES>
+    </library>
+    <library name="upnxt_community_lib_common (v1.9.79, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/upnxt_community_lib_common-1.9.79/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/upnxt_community_lib_common-1.9.79/lib" />
       </SOURCES>
     </library>
     <library name="upnxt_frontend_aaa_cookie (v2.2.0, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
