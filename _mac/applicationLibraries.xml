@@ -3943,6 +3943,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ffi/1.9.14" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/ffi-1.9.14/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/ffi-1.9.14/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/ffi-1.9.14/lib" />
@@ -3950,6 +3951,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/ffi-1.9.14/libtest" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ffi/1.9.14" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/ffi-1.9.14/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/ffi-1.9.14/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/ffi-1.9.14/lib" />
@@ -6346,6 +6348,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/msgpack/1.2.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/msgpack-1.2.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/msgpack-1.2.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/msgpack-1.2.6/spec" />
@@ -6353,6 +6356,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/msgpack-1.2.6/doclib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/msgpack/1.2.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/msgpack-1.2.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/msgpack-1.2.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/msgpack-1.2.6/spec" />
@@ -6767,6 +6771,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.10.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/nokogiri-1.10.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/nokogiri-1.10.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/nokogiri-1.10.5/lib" />
@@ -6774,6 +6779,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/nokogiri-1.10.5/patches" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.10.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/nokogiri-1.10.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/nokogiri-1.10.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/nokogiri-1.10.5/lib" />
@@ -7344,12 +7350,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/posix-spawn/0.3.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/posix-spawn-0.3.11/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/posix-spawn-0.3.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/posix-spawn-0.3.11/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/posix-spawn-0.3.11/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/posix-spawn/0.3.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/posix-spawn-0.3.11/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/posix-spawn-0.3.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/posix-spawn-0.3.11/lib" />
@@ -7517,6 +7525,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/PriorityQueue/0.1.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/PriorityQueue-0.1.2/doc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/PriorityQueue-0.1.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/PriorityQueue-0.1.2/lib" />
@@ -7524,6 +7533,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/PriorityQueue-0.1.2/benchmark" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/PriorityQueue/0.1.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/PriorityQueue-0.1.2/doc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/PriorityQueue-0.1.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/PriorityQueue-0.1.2/lib" />
@@ -8429,11 +8439,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/rb-fsevent-0.10.3/lib" />
