@@ -2542,6 +2542,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/childprocess-0.9.0/spec" />
       </excluded>
     </library>
+    <library name="childprocess (v3.0.0, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/childprocess-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/childprocess-3.0.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/childprocess-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/childprocess-3.0.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/childprocess-3.0.0/spec" />
+      </excluded>
+    </library>
     <library name="childprocess (v3.0.0, RVM: ruby-2.6.3 [rails]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2950,6 +2966,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/community_cmis_ruby-0.5.41/spec" />
       </excluded>
     </library>
+    <library name="community_dev_tools (v0.3.0@2f488f, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/bundler/gems/community_dev_tools-2f488fec8c67/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/bundler/gems/community_dev_tools-2f488fec8c67/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/bundler/gems/community_dev_tools-2f488fec8c67/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/bundler/gems/community_dev_tools-2f488fec8c67/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/bundler/gems/community_dev_tools-2f488fec8c67/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/bundler/gems/community_dev_tools-2f488fec8c67/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/bundler/gems/community_dev_tools-2f488fec8c67/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/bundler/gems/community_dev_tools-2f488fec8c67/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/bundler/gems/community_dev_tools-2f488fec8c67/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/bundler/gems/community_dev_tools-2f488fec8c67/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/bundler/gems/community_dev_tools-2f488fec8c67/spec" />
+      </excluded>
+    </library>
     <library name="community_dev_tools (v0.3.1@413ee1, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3274,6 +3312,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_validators-1.1.2/bin" />
+      </excluded>
+    </library>
+    <library name="community_validators (v1.1.2, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/community_validators-1.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/community_validators-1.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/community_validators-1.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/community_validators-1.1.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/community_validators-1.1.2/bin" />
       </excluded>
     </library>
     <library name="community_wti_client (v0.1.0, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
@@ -7188,6 +7242,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/iniparse-1.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="iniparse (v1.5.0, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/iniparse-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/iniparse-1.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="io-console (v0.4.6, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -10070,6 +10135,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/overcommit-0.52.1/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/overcommit-0.52.1/libexec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/overcommit-0.52.1/template-dir" />
+      </excluded>
+    </library>
+    <library name="overcommit (v0.52.1, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/overcommit-0.52.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/overcommit-0.52.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/overcommit-0.52.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/overcommit-0.52.1/libexec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/overcommit-0.52.1/template-dir" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/overcommit-0.52.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/overcommit-0.52.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/overcommit-0.52.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/overcommit-0.52.1/libexec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/overcommit-0.52.1/template-dir" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/overcommit-0.52.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/overcommit-0.52.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/overcommit-0.52.1/libexec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/overcommit-0.52.1/template-dir" />
       </excluded>
     </library>
     <library name="paper_trail (v10.1.0, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
@@ -15783,6 +15873,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/upnxt_community_lib_common-1.10.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="upnxt_community_lib_common (v1.10.4, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/upnxt_community_lib_common-1.10.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/upnxt_community_lib_common-1.10.4/lib" />
       </SOURCES>
     </library>
     <library name="upnxt_community_lib_common (v1.9.71, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
