@@ -4546,6 +4546,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_models-0.1.46/bin" />
       </excluded>
     </library>
+    <library name="community_models (v0.1.47, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/community_models-0.1.47/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/community_models-0.1.47/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/community_models-0.1.47/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/community_models-0.1.47/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/community_models-0.1.47/bin" />
+      </excluded>
+    </library>
     <library name="community_models (v0.1.48, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -10764,6 +10780,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/jaeger-client-1.0.0/script" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/jaeger-client-1.0.0/thrift" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/jaeger-client-1.0.0/crossdock" />
+      </excluded>
+    </library>
+    <library name="jaeger-client (v1.0.0, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/jaeger-client-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/jaeger-client-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/jaeger-client-1.0.0/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/jaeger-client-1.0.0/thrift" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/jaeger-client-1.0.0/crossdock" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/jaeger-client-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/jaeger-client-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/jaeger-client-1.0.0/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/jaeger-client-1.0.0/thrift" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/jaeger-client-1.0.0/crossdock" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/jaeger-client-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/jaeger-client-1.0.0/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/jaeger-client-1.0.0/thrift" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/jaeger-client-1.0.0/crossdock" />
       </excluded>
     </library>
     <library name="jaro_winkler (v1.5.2, RVM: ruby-2.3.1 [directory_frontend]) [gem]" type="rubylib">
