@@ -11026,7 +11026,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/json/1.8.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/json-1.8.6/data" />
@@ -11036,7 +11035,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/json-1.8.6/diagrams" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/json/1.8.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/json-1.8.6/data" />
@@ -17531,24 +17529,24 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-13.0.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-13.0.1/doc" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-13.0.1/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-13.0.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-13.0.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-13.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-13.0.1/doc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-13.0.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-13.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-13.0.1/.github" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-13.0.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-13.0.1/doc" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-13.0.1/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-13.0.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-13.0.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-13.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-13.0.1/doc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-13.0.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-13.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-13.0.1/.github" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-13.0.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-13.0.1/doc" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-13.0.1/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-13.0.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-13.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-13.0.1/doc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-13.0.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-13.0.1/.github" />
       </excluded>
     </library>
     <library name="rake (v13.0.1, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
@@ -23911,6 +23909,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/upnxt_community_lib_common-1.10.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="upnxt_community_lib_common (v1.11.0, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/upnxt_community_lib_common-1.11.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/upnxt_community_lib_common-1.11.0/lib" />
       </SOURCES>
     </library>
     <library name="upnxt_community_lib_common (v1.7.49, RVM: ruby-2.3.1 [directory_frontend]) [gem]" type="rubylib">
