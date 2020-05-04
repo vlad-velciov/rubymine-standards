@@ -6,6 +6,7 @@
       <mapping pattern="book_bank" type="PLAIN_TEXT" />
       <mapping pattern=".env_sample" type="PLAIN_TEXT" />
       <mapping pattern="DockerFile" type="PLAIN_TEXT" />
+      <mapping pattern=".simplecov" type="PLAIN_TEXT" />
       <mapping pattern="lexile" type="PLAIN_TEXT" />
       <mapping pattern="geckodriver" type="PLAIN_TEXT" />
       <mapping pattern="audit_concern" type="PLAIN_TEXT" />
