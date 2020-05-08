@@ -4604,6 +4604,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@community_directory_processing/bundler/gems/community_dev_tools-2f488fec8c67/spec" />
       </excluded>
     </library>
+    <library name="community_dev_tools (v0.3.0@2f488f, RVM: ruby-2.3.1 [community_metrics]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@community_metrics/bundler/gems/community_dev_tools-2f488fec8c67/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@community_metrics/bundler/gems/community_dev_tools-2f488fec8c67/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@community_metrics/bundler/gems/community_dev_tools-2f488fec8c67/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@community_metrics/bundler/gems/community_dev_tools-2f488fec8c67/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@community_metrics/bundler/gems/community_dev_tools-2f488fec8c67/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@community_metrics/bundler/gems/community_dev_tools-2f488fec8c67/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@community_metrics/bundler/gems/community_dev_tools-2f488fec8c67/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@community_metrics/bundler/gems/community_dev_tools-2f488fec8c67/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@community_metrics/bundler/gems/community_dev_tools-2f488fec8c67/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@community_metrics/bundler/gems/community_dev_tools-2f488fec8c67/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@community_metrics/bundler/gems/community_dev_tools-2f488fec8c67/spec" />
+      </excluded>
+    </library>
     <library name="community_dev_tools (v0.3.0@2f488f, RVM: ruby-2.3.1 [directory_frontend]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -22167,6 +22189,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@directory_frontend/gems/rubocop-performance-1.1.0/config" />
       </excluded>
     </library>
+    <library name="rubocop-performance (v1.5.1, RVM: ruby-2.3.1 [community_metrics]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@community_metrics/gems/rubocop-performance-1.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@community_metrics/gems/rubocop-performance-1.5.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@community_metrics/gems/rubocop-performance-1.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@community_metrics/gems/rubocop-performance-1.5.1/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@community_metrics/gems/rubocop-performance-1.5.1/config" />
+      </excluded>
+    </library>
     <library name="rubocop-performance (v1.5.1, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -22275,6 +22313,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/rubocop-rails-2.5.2/config" />
       </excluded>
     </library>
+    <library name="rubocop-rspec (v1.38.1, RVM: ruby-2.3.1 [community_metrics]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@community_metrics/gems/rubocop-rspec-1.38.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@community_metrics/gems/rubocop-rspec-1.38.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@community_metrics/gems/rubocop-rspec-1.38.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@community_metrics/gems/rubocop-rspec-1.38.1/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@community_metrics/gems/rubocop-rspec-1.38.1/config" />
+      </excluded>
+    </library>
     <library name="rubocop-rspec (v1.38.1, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -22321,6 +22375,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@community_directory_processing/gems/rubocop-thread_safety-0.3.4/bin" />
+      </excluded>
+    </library>
+    <library name="rubocop-thread_safety (v0.3.4, RVM: ruby-2.3.1 [community_metrics]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@community_metrics/gems/rubocop-thread_safety-0.3.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@community_metrics/gems/rubocop-thread_safety-0.3.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@community_metrics/gems/rubocop-thread_safety-0.3.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@community_metrics/gems/rubocop-thread_safety-0.3.4/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@community_metrics/gems/rubocop-thread_safety-0.3.4/bin" />
       </excluded>
     </library>
     <library name="rubocop-thread_safety (v0.3.4, RVM: ruby-2.3.1 [directory_frontend]) [gem]" type="rubylib">
