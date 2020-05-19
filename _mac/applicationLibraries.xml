@@ -663,6 +663,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@community_metrics/gems/activesupport-6.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="activesupport (v6.0.3.1, RVM: ruby-2.5.3 [community_metrics]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@community_metrics/gems/activesupport-6.0.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@community_metrics/gems/activesupport-6.0.3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="acts_as_paranoid (v0.6.3, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -15356,6 +15367,38 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@rails/gems/minitest-5.14.0/test" />
       </excluded>
     </library>
+    <library name="minitest (v5.14.1, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/minitest-5.14.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/minitest-5.14.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/minitest-5.14.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/minitest-5.14.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/minitest-5.14.1/test" />
+      </excluded>
+    </library>
+    <library name="minitest (v5.14.1, RVM: ruby-2.5.3 [community_metrics]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@community_metrics/gems/minitest-5.14.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@community_metrics/gems/minitest-5.14.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@community_metrics/gems/minitest-5.14.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@community_metrics/gems/minitest-5.14.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@community_metrics/gems/minitest-5.14.1/test" />
+      </excluded>
+    </library>
     <library name="minitest (v5.8.3, RVM: ruby-2.3.1 [community_directory_processing]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -24146,6 +24189,54 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/ruby-ole-1.2.12.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/ruby-ole-1.2.12.1/test" />
+      </excluded>
+    </library>
+    <library name="ruby-prof (v1.4.1, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ruby-prof/1.4.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/ruby-prof-1.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/ruby-prof-1.4.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/ruby-prof-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/ruby-prof-1.4.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ruby-prof/1.4.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/ruby-prof-1.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/ruby-prof-1.4.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/ruby-prof-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/ruby-prof-1.4.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/ruby-prof-1.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/ruby-prof-1.4.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/ruby-prof-1.4.1/test" />
+      </excluded>
+    </library>
+    <library name="ruby-prof (v1.4.1, RVM: ruby-2.5.3 [community_metrics]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ruby-prof/1.4.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@community_metrics/gems/ruby-prof-1.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@community_metrics/gems/ruby-prof-1.4.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@community_metrics/gems/ruby-prof-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@community_metrics/gems/ruby-prof-1.4.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ruby-prof/1.4.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@community_metrics/gems/ruby-prof-1.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@community_metrics/gems/ruby-prof-1.4.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@community_metrics/gems/ruby-prof-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@community_metrics/gems/ruby-prof-1.4.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@community_metrics/gems/ruby-prof-1.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@community_metrics/gems/ruby-prof-1.4.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@community_metrics/gems/ruby-prof-1.4.1/test" />
       </excluded>
     </library>
     <library name="ruby-progressbar (v1.10.0, RVM: ruby-2.3.1 [directory_frontend]) [gem]" type="rubylib">
