@@ -18896,6 +18896,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/optimist-3.0.0/test" />
       </excluded>
     </library>
+    <library name="optimist (v3.0.1, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/optimist-3.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/optimist-3.0.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/optimist-3.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/optimist-3.0.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/optimist-3.0.1/test" />
+      </excluded>
+    </library>
     <library name="orm_adapter (v0.5.0, RVM: ruby-2.3.1 [directory_frontend]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -31871,6 +31887,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/upnxt_community_lib_common-1.11.13/lib" />
       </SOURCES>
     </library>
+    <library name="upnxt_community_lib_common (v1.11.14, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/upnxt_community_lib_common-1.11.14/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/upnxt_community_lib_common-1.11.14/lib" />
+      </SOURCES>
+    </library>
     <library name="upnxt_community_lib_common (v1.11.2, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -34182,6 +34209,37 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@directory_frontend/gems/web_translate_it-2.4.1/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@directory_frontend/gems/web_translate_it-2.4.1/examples" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@directory_frontend/gems/web_translate_it-2.4.1/generators" />
+      </excluded>
+    </library>
+    <library name="web_translate_it (v2.4.11@ffddce, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/bundler/gems/webtranslateit-ffddcee82938/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/bundler/gems/webtranslateit-ffddcee82938/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/bundler/gems/webtranslateit-ffddcee82938/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/bundler/gems/webtranslateit-ffddcee82938/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/bundler/gems/webtranslateit-ffddcee82938/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/bundler/gems/webtranslateit-ffddcee82938/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/bundler/gems/webtranslateit-ffddcee82938/generators" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/bundler/gems/webtranslateit-ffddcee82938/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/bundler/gems/webtranslateit-ffddcee82938/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/bundler/gems/webtranslateit-ffddcee82938/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/bundler/gems/webtranslateit-ffddcee82938/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/bundler/gems/webtranslateit-ffddcee82938/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/bundler/gems/webtranslateit-ffddcee82938/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/bundler/gems/webtranslateit-ffddcee82938/generators" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/bundler/gems/webtranslateit-ffddcee82938/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/bundler/gems/webtranslateit-ffddcee82938/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/bundler/gems/webtranslateit-ffddcee82938/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/bundler/gems/webtranslateit-ffddcee82938/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/bundler/gems/webtranslateit-ffddcee82938/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/bundler/gems/webtranslateit-ffddcee82938/generators" />
       </excluded>
     </library>
     <library name="web_translate_it (v2.4.8, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
