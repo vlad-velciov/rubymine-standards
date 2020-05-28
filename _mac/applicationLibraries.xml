@@ -5125,6 +5125,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/combine_pdf-1.0.16/test" />
       </excluded>
     </library>
+    <library name="commander (v4.4.6, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/commander-4.4.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/commander-4.4.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/commander-4.4.6/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/commander-4.4.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/commander-4.4.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/commander-4.4.6/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/commander-4.4.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/commander-4.4.6/spec" />
+      </excluded>
+    </library>
     <library name="commander (v4.4.7, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6013,6 +6032,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_models-0.1.55/bin" />
+      </excluded>
+    </library>
+    <library name="community_models (v0.1.55, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/community_models-0.1.55/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/community_models-0.1.55/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/community_models-0.1.55/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/community_models-0.1.55/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/community_models-0.1.55/bin" />
       </excluded>
     </library>
     <library name="community_models (v0.1.56, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
@@ -19434,6 +19469,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/parlour-1.0.0/plugin_examples" />
       </excluded>
     </library>
+    <library name="parlour (v1.0.0, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/parlour-1.0.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/parlour-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/parlour-1.0.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/parlour-1.0.0/plugin_examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/parlour-1.0.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/parlour-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/parlour-1.0.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/parlour-1.0.0/plugin_examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/parlour-1.0.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/parlour-1.0.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/parlour-1.0.0/plugin_examples" />
+      </excluded>
+    </library>
     <library name="parlour (v2.1.0, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -29090,6 +29147,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/sorbet-0.5.5368/bin" />
       </excluded>
     </library>
+    <library name="sorbet (v0.5.5669, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/sorbet-0.5.5669/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/sorbet-0.5.5669/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/sorbet-0.5.5669/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/sorbet-0.5.5669/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/sorbet-0.5.5669/bin" />
+      </excluded>
+    </library>
     <library name="sorbet-coerce (v0.2.5, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -29144,6 +29217,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/sorbet-rails-0.5.9.1/.github" />
       </excluded>
     </library>
+    <library name="sorbet-rails (v0.5.9.1, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/sorbet-rails-0.5.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/sorbet-rails-0.5.9.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/sorbet-rails-0.5.9.1/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/sorbet-rails-0.5.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/sorbet-rails-0.5.9.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/sorbet-rails-0.5.9.1/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/sorbet-rails-0.5.9.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/sorbet-rails-0.5.9.1/.github" />
+      </excluded>
+    </library>
     <library name="sorbet-rails (v0.6.0, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -29196,6 +29288,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/sorbet-runtime-0.5.5560/lib" />
       </SOURCES>
     </library>
+    <library name="sorbet-runtime (v0.5.5669, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/sorbet-runtime-0.5.5669/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/sorbet-runtime-0.5.5669/lib" />
+      </SOURCES>
+    </library>
     <library name="sorbet-static-0.4.5051-universal-darwin (v0.4.5051, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -29222,6 +29325,20 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/sorbet-static-0.5.5368-universal-darwin-19/libexec" />
+      </excluded>
+    </library>
+    <library name="sorbet-static-0.5.5669-universal-darwin (v0.5.5669, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/sorbet-static-0.5.5669-universal-darwin-19/libexec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/sorbet-static-0.5.5669-universal-darwin-19/libexec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/sorbet-static-0.5.5669-universal-darwin-19/libexec" />
       </excluded>
     </library>
     <library name="sort_alphabetical (v1.0.2, RVM: ruby-2.3.1 [directory_frontend]) [gem]" type="rubylib">
@@ -31993,6 +32110,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/upnxt_community_lib_common-1.11.15/lib" />
+      </SOURCES>
+    </library>
+    <library name="upnxt_community_lib_common (v1.11.15, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/upnxt_community_lib_common-1.11.15/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/upnxt_community_lib_common-1.11.15/lib" />
       </SOURCES>
     </library>
     <library name="upnxt_community_lib_common (v1.11.16, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
