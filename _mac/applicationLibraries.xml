@@ -7496,6 +7496,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/debase-0.2.3.beta5/test" />
       </excluded>
     </library>
+    <library name="debase (v0.2.3.beta5, RVM: ruby-2.5.1 [metrics-gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@metrics-gem/gems/debase-0.2.3.beta5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@metrics-gem/gems/debase-0.2.3.beta5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@metrics-gem/gems/debase-0.2.3.beta5/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@metrics-gem/gems/debase-0.2.3.beta5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@metrics-gem/gems/debase-0.2.3.beta5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@metrics-gem/gems/debase-0.2.3.beta5/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@metrics-gem/gems/debase-0.2.3.beta5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@metrics-gem/gems/debase-0.2.3.beta5/test" />
+      </excluded>
+    </library>
     <library name="debase (v0.2.3.beta5, RVM: ruby-2.5.3 [community_metrics]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7591,6 +7610,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/debase-0.2.4.1/test" />
       </excluded>
     </library>
+    <library name="debase (v0.2.4.1, RVM: ruby-2.5.1 [metrics-gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@metrics-gem/gems/debase-0.2.4.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@metrics-gem/gems/debase-0.2.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@metrics-gem/gems/debase-0.2.4.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@metrics-gem/gems/debase-0.2.4.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@metrics-gem/gems/debase-0.2.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@metrics-gem/gems/debase-0.2.4.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@metrics-gem/gems/debase-0.2.4.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@metrics-gem/gems/debase-0.2.4.1/test" />
+      </excluded>
+    </library>
     <library name="debase (v0.2.4.1, RVM: ruby-2.5.3 [community_metrics]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7652,6 +7690,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/debase-ruby_core_source-0.10.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.9, RVM: ruby-2.5.1 [metrics-gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@metrics-gem/gems/debase-ruby_core_source-0.10.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@metrics-gem/gems/debase-ruby_core_source-0.10.9/lib" />
       </SOURCES>
     </library>
     <library name="debase-ruby_core_source (v0.10.9, RVM: ruby-2.5.3 [community_metrics]) [gem]" type="rubylib">
@@ -27393,6 +27442,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/ruby-debug-ide-0.7.0.beta7/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/ruby-debug-ide-0.7.0.beta7/ext" />
+      </excluded>
+    </library>
+    <library name="ruby-debug-ide (v0.7.0.beta7, RVM: ruby-2.5.1 [metrics-gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@metrics-gem/gems/ruby-debug-ide-0.7.0.beta7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@metrics-gem/gems/ruby-debug-ide-0.7.0.beta7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@metrics-gem/gems/ruby-debug-ide-0.7.0.beta7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@metrics-gem/gems/ruby-debug-ide-0.7.0.beta7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@metrics-gem/gems/ruby-debug-ide-0.7.0.beta7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@metrics-gem/gems/ruby-debug-ide-0.7.0.beta7/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@metrics-gem/gems/ruby-debug-ide-0.7.0.beta7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@metrics-gem/gems/ruby-debug-ide-0.7.0.beta7/ext" />
       </excluded>
     </library>
     <library name="ruby-debug-ide (v0.7.0.beta7, RVM: ruby-2.5.3 [community_metrics]) [gem]" type="rubylib">
