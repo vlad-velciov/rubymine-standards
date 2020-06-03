@@ -5654,6 +5654,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/bundler/gems/community_dev_tools-634b3b85fbfc/spec" />
       </excluded>
     </library>
+    <library name="community_dev_tools (v0.4.3@104354, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/community_dev_tools-10435419e17f/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/community_dev_tools-10435419e17f/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/community_dev_tools-10435419e17f/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/community_dev_tools-10435419e17f/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/community_dev_tools-10435419e17f/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/community_dev_tools-10435419e17f/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/community_dev_tools-10435419e17f/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/community_dev_tools-10435419e17f/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/community_dev_tools-10435419e17f/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/community_dev_tools-10435419e17f/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/community_dev_tools-10435419e17f/spec" />
+      </excluded>
+    </library>
     <library name="community_dev_tools (v0.4.3@104354, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
