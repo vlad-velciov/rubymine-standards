@@ -1,15 +1,8 @@
 <application>
   <component name="Vcs.Log.App.Settings">
-    <option name="COLUMN_ORDER">
-      <list>
-        <option value="0" />
-        <option value="1" />
-        <option value="2" />
-        <option value="3" />
-      </list>
-    </option>
+    <option name="SHOW_TAG_NAMES" value="true" />
   </component>
   <component name="VcsApplicationSettings">
-    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
+    <option name="SHOW_WHITESPACES_IN_LST" value="false" />
   </component>
 </application>
