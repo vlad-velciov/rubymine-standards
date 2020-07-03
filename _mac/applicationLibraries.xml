@@ -1696,6 +1696,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/aws-sdk-2.11.519/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk (v2.11.537, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/aws-sdk-2.11.537/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/aws-sdk-2.11.537/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v2.9.12, RVM: ruby-2.3.1 [community_directory_processing]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1821,6 +1832,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/aws-sdk-core-2.11.519/apis" />
       </excluded>
     </library>
+    <library name="aws-sdk-core (v2.11.537, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/aws-sdk-core-2.11.537/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/aws-sdk-core-2.11.537/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/aws-sdk-core-2.11.537/apis" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/aws-sdk-core-2.11.537/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/aws-sdk-core-2.11.537/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/aws-sdk-core-2.11.537/apis" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/aws-sdk-core-2.11.537/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/aws-sdk-core-2.11.537/apis" />
+      </excluded>
+    </library>
     <library name="aws-sdk-core (v2.9.12, RVM: ruby-2.3.1 [community_directory_processing]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1926,6 +1956,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/aws-sdk-resources-2.11.519/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-resources (v2.11.537, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/aws-sdk-resources-2.11.537/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/aws-sdk-resources-2.11.537/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-resources (v2.9.12, RVM: ruby-2.3.1 [community_directory_processing]) [gem]" type="rubylib">
@@ -2047,6 +2088,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/aws-sigv4-1.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sigv4 (v1.2.1, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/aws-sigv4-1.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/aws-sigv4-1.2.1/lib" />
       </SOURCES>
     </library>
     <library name="axiom-types (v0.1.1, RVM: ruby-2.3.1 [community_directory_processing]) [gem]" type="rubylib">
@@ -5601,6 +5653,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_cmis_ruby-0.5.42/spec" />
       </excluded>
     </library>
+    <library name="community_cmis_ruby (v0.5.43, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/community_cmis_ruby-0.5.43/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/community_cmis_ruby-0.5.43/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/community_cmis_ruby-0.5.43/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/community_cmis_ruby-0.5.43/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/community_cmis_ruby-0.5.43/spec" />
+      </excluded>
+    </library>
     <library name="community_dev_tools (v0.3.0@2f488f, RVM: ruby-2.3.1 [community_directory_processing]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5823,6 +5891,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/community_docgen-0.1.3/bin" />
+      </excluded>
+    </library>
+    <library name="community_docgen (v0.1.4, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/community_docgen-0.1.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/community_docgen-0.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/community_docgen-0.1.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/community_docgen-0.1.4/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/community_docgen-0.1.4/bin" />
       </excluded>
     </library>
     <library name="community_enterprise_porter_engine (v1.0.0.0, RVM: ruby-2.3.1 [directory_frontend]) [gem]" type="rubylib">
@@ -33612,6 +33696,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/upnxt_community_lib_common-1.11.21/lib" />
       </SOURCES>
     </library>
+    <library name="upnxt_community_lib_common (v1.11.27, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/upnxt_community_lib_common-1.11.27/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/upnxt_community_lib_common-1.11.27/lib" />
+      </SOURCES>
+    </library>
     <library name="upnxt_community_lib_common (v1.11.3, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -34351,6 +34446,17 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/upnxt_processing_lib_configuration-0.0.35/spec" />
       </excluded>
+    </library>
+    <library name="upnxt_processing_lib_document (v1.2.5.10.s3, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/upnxt_processing_lib_document-1.2.5.10.s3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/upnxt_processing_lib_document-1.2.5.10.s3/lib" />
+      </SOURCES>
     </library>
     <library name="upnxt_processing_lib_document (v1.2.5.6.s3, RVM: ruby-2.3.1 [community_directory_processing]) [gem]" type="rubylib">
       <properties>
