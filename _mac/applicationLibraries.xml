@@ -6550,6 +6550,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_models-0.1.59/bin" />
       </excluded>
     </library>
+    <library name="community_models (v0.1.60, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_models-0.1.60/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_models-0.1.60/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_models-0.1.60/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_models-0.1.60/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_models-0.1.60/bin" />
+      </excluded>
+    </library>
     <library name="community_resiliency (v0.1.2, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -14722,6 +14738,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/iso8601-0.12.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="iso8601 (v0.12.2, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/iso8601-0.12.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/iso8601-0.12.2/lib" />
       </SOURCES>
     </library>
     <library name="iso8601 (v0.9.1, RVM: ruby-2.3.1 [community_directory_processing]) [gem]" type="rubylib">
@@ -30551,6 +30578,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/sorbet-0.5.5713/bin" />
       </excluded>
     </library>
+    <library name="sorbet (v0.5.5790, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/sorbet-0.5.5790/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/sorbet-0.5.5790/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/sorbet-0.5.5790/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/sorbet-0.5.5790/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/sorbet-0.5.5790/bin" />
+      </excluded>
+    </library>
     <library name="sorbet-coerce (v0.2.5, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -30741,6 +30784,20 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/sorbet-static-0.5.5713-universal-darwin-19/libexec" />
+      </excluded>
+    </library>
+    <library name="sorbet-static-0.5.5790-universal-darwin (v0.5.5790, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/sorbet-static-0.5.5790-universal-darwin-19/libexec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/sorbet-static-0.5.5790-universal-darwin-19/libexec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/sorbet-static-0.5.5790-universal-darwin-19/libexec" />
       </excluded>
     </library>
     <library name="sort_alphabetical (v1.0.2, RVM: ruby-2.3.1 [directory_frontend]) [gem]" type="rubylib">
@@ -33694,6 +33751,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/upnxt_community_lib_common-1.11.21/lib" />
+      </SOURCES>
+    </library>
+    <library name="upnxt_community_lib_common (v1.11.25, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/upnxt_community_lib_common-1.11.25/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/upnxt_community_lib_common-1.11.25/lib" />
       </SOURCES>
     </library>
     <library name="upnxt_community_lib_common (v1.11.27, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
