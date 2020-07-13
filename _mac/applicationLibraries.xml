@@ -5669,6 +5669,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/community_cmis_ruby-0.5.43/spec" />
       </excluded>
     </library>
+    <library name="community_cmis_ruby (v0.5.44, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/community_cmis_ruby-0.5.44/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/community_cmis_ruby-0.5.44/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/community_cmis_ruby-0.5.44/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/community_cmis_ruby-0.5.44/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/community_cmis_ruby-0.5.44/spec" />
+      </excluded>
+    </library>
     <library name="community_dev_tools (v0.3.0@2f488f, RVM: ruby-2.3.1 [community_directory_processing]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
