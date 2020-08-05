@@ -6360,6 +6360,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/cityhash-0.9.0/test" />
       </excluded>
     </library>
+    <library name="climate_control (v0.2.0, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/climate_control-0.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/climate_control-0.2.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/climate_control-0.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/climate_control-0.2.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/climate_control-0.2.0/spec" />
+      </excluded>
+    </library>
     <library name="cmis-ruby (v0.5.26, RVM: ruby-2.3.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -41569,6 +41585,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/upnxt_community_lib_common-1.11.41/lib" />
+      </SOURCES>
+    </library>
+    <library name="upnxt_community_lib_common (v1.11.44, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/upnxt_community_lib_common-1.11.44/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/upnxt_community_lib_common-1.11.44/lib" />
       </SOURCES>
     </library>
     <library name="upnxt_community_lib_common (v1.11.5, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
