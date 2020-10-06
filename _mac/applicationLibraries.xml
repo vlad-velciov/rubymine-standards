@@ -41581,6 +41581,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_admin/gems/upnxt_aaa_login_consumer-0.0.26/config" />
       </excluded>
     </library>
+    <library name="upnxt_channel_email (v2.1.10, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/upnxt_channel_email-2.1.10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/upnxt_channel_email-2.1.10/lib" />
+      </SOURCES>
+    </library>
     <library name="upnxt_channel_email (v2.1.8, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -42140,6 +42151,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/upnxt_community_lib_common-1.11.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="upnxt_community_lib_common (v1.11.71, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/upnxt_community_lib_common-1.11.71/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/upnxt_community_lib_common-1.11.71/lib" />
       </SOURCES>
     </library>
     <library name="upnxt_community_lib_common (v1.11.8, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
