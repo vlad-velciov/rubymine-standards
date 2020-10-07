@@ -8663,6 +8663,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/community_xribe_client-1.0.0.2/sorbet" />
       </excluded>
     </library>
+    <library name="community_xribe_client (v1.0.0.3, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_xribe_client-1.0.0.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_xribe_client-1.0.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_xribe_client-1.0.0.3/sorbet" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_xribe_client-1.0.0.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_xribe_client-1.0.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_xribe_client-1.0.0.3/sorbet" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_xribe_client-1.0.0.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_xribe_client-1.0.0.3/sorbet" />
+      </excluded>
+    </library>
     <library name="concurrent-ruby (v1.0.2, RVM: ruby-2.3.1 [community_directory_processing]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -22414,6 +22433,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@community_metrics/gems/minitest-5.14.1/test" />
       </excluded>
     </library>
+    <library name="minitest (v5.14.2, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/minitest-5.14.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/minitest-5.14.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/minitest-5.14.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/minitest-5.14.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/minitest-5.14.2/test" />
+      </excluded>
+    </library>
     <library name="minitest (v5.8.3, RVM: ruby-2.3.1 [community_directory_processing]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -26161,6 +26196,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/pg-0.20.0/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/pg-0.20.0/sample" />
       </excluded>
+    </library>
+    <library name="pg_party (v1.4.0, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/pg_party-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/pg_party-1.4.0/lib" />
+      </SOURCES>
     </library>
     <library name="polyamorous (v1.3.1, RVM: ruby-2.3.1 [directory_frontend]) [gem]" type="rubylib">
       <properties>
@@ -34871,6 +34917,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@rails/gems/ruby-vips-2.0.17/example" />
       </excluded>
     </library>
+    <library name="ruby2_keywords (v0.0.2, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/ruby2_keywords-0.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/ruby2_keywords-0.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby2_keywords (v0.0.2, RVM: ruby-2.5.1 [community_admin]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -42246,6 +42303,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/upnxt_community_lib_common-1.11.71/lib" />
       </SOURCES>
     </library>
+    <library name="upnxt_community_lib_common (v1.11.74, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/upnxt_community_lib_common-1.11.74/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/upnxt_community_lib_common-1.11.74/lib" />
+      </SOURCES>
+    </library>
     <library name="upnxt_community_lib_common (v1.11.8, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -44181,6 +44249,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/upnxt_service_event_bus_client-0.0.8.community/lib" />
+      </SOURCES>
+    </library>
+    <library name="upnxt_service_event_bus_client (v0.0.9.community, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/upnxt_service_event_bus_client-0.0.9.community/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/upnxt_service_event_bus_client-0.0.9.community/lib" />
       </SOURCES>
     </library>
     <library name="upnxt_service_tasks_client (v1.6.11, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
