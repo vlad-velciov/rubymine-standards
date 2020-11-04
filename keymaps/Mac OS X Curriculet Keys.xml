@@ -1,4 +1,7 @@
 <keymap version="1" name="Mac OS X Curriculet Keys" parent="Mac OS X">
+  <action id="ActivateDBBrowserToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
@@ -7,6 +10,7 @@
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="DBNavigator.Actions.Navigation.GotoDatabaseObject" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift f9" />
     <keyboard-shortcut first-keystroke="shift meta d" />
