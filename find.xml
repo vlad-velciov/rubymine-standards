@@ -17,5 +17,6 @@
     <mask>*.unit.test.js</mask>
     <mask>*.ts</mask>
     <mask>*.js</mask>
+    <mask>*.rake</mask>
   </component>
 </application>
