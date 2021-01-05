@@ -3372,6 +3372,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@rails/gems/benchmark-ips-2.7.2/test" />
       </excluded>
     </library>
+    <library name="benchmark-ips (v2.8.3, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/benchmark-ips-2.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/benchmark-ips-2.8.3/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/benchmark-ips-2.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/benchmark-ips-2.8.3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/benchmark-ips-2.8.3/test" />
+      </excluded>
+    </library>
     <library name="bigdecimal (v1.2.8, RVM: ruby-2.3.1 [community_directory_processing]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3725,13 +3741,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bootsnap/1.3.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/bootsnap-1.3.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/bootsnap-1.3.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/bootsnap-1.3.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bootsnap/1.3.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/bootsnap-1.3.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/bootsnap-1.3.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/bootsnap-1.3.2/lib" />
@@ -5855,13 +5869,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/byebug/11.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/byebug-11.0.1/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/byebug-11.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/byebug-11.0.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/byebug/11.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/byebug-11.0.1/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/byebug-11.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/byebug-11.0.1/lib" />
@@ -8144,6 +8156,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/community_metrics-0.3.2/lib" />
       </SOURCES>
     </library>
+    <library name="community_metrics (v0.4.0, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_metrics-0.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_metrics-0.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="community_metrics (v0.4.0, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -8977,6 +9000,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_xribe_client-1.0.0.13/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_xribe_client-1.0.0.13/sorbet" />
+      </excluded>
+    </library>
+    <library name="community_xribe_client (v1.0.0.14, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_xribe_client-1.0.0.14/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_xribe_client-1.0.0.14/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_xribe_client-1.0.0.14/sorbet" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_xribe_client-1.0.0.14/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_xribe_client-1.0.0.14/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_xribe_client-1.0.0.14/sorbet" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_xribe_client-1.0.0.14/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/community_xribe_client-1.0.0.14/sorbet" />
       </excluded>
     </library>
     <library name="community_xribe_client (v1.0.0.2, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
@@ -10613,6 +10655,31 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@rails/gems/delayed_job_active_record-4.1.4/lib" />
       </SOURCES>
+    </library>
+    <library name="derailed_benchmarks (v1.8.1, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/derailed_benchmarks-1.8.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/derailed_benchmarks-1.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/derailed_benchmarks-1.8.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/derailed_benchmarks-1.8.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/derailed_benchmarks-1.8.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/derailed_benchmarks-1.8.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/derailed_benchmarks-1.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/derailed_benchmarks-1.8.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/derailed_benchmarks-1.8.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/derailed_benchmarks-1.8.1/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/derailed_benchmarks-1.8.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/derailed_benchmarks-1.8.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/derailed_benchmarks-1.8.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/derailed_benchmarks-1.8.1/gemfiles" />
+      </excluded>
     </library>
     <library name="descendants_tracker (v0.0.4, RVM: ruby-2.3.1 [community_directory_processing]) [gem]" type="rubylib">
       <properties>
@@ -15209,7 +15276,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ffi/1.9.14" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/ffi-1.9.14/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/ffi-1.9.14/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/ffi-1.9.14/lib" />
@@ -15217,7 +15283,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/ffi-1.9.14/libtest" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ffi/1.9.14" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/ffi-1.9.14/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/ffi-1.9.14/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/ffi-1.9.14/lib" />
@@ -17153,6 +17218,25 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/hashie-1.2.0/spec" />
+      </excluded>
+    </library>
+    <library name="heapy (v0.2.0, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/heapy-0.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/heapy-0.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/heapy-0.2.0/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/heapy-0.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/heapy-0.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/heapy-0.2.0/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/heapy-0.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/heapy-0.2.0/.github" />
       </excluded>
     </library>
     <library name="her (v1.0.2, RVM: ruby-2.5.1 [community_admin]) [gem]" type="rubylib">
@@ -19231,12 +19315,10 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/jaro_winkler/1.5.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/jaro_winkler-1.5.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/jaro_winkler-1.5.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/jaro_winkler/1.5.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/jaro_winkler-1.5.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/jaro_winkler-1.5.4/lib" />
       </SOURCES>
@@ -20776,14 +20858,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/libxml-ruby/3.2.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/libxml-ruby-3.2.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/libxml-ruby-3.2.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/libxml-ruby-3.2.0/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/libxml-ruby-3.2.0/script" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/libxml-ruby/3.2.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/libxml-ruby-3.2.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/libxml-ruby-3.2.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/libxml-ruby-3.2.0/test" />
@@ -21571,6 +21651,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@rails/gems/memoist-0.16.2/script" />
       </excluded>
     </library>
+    <library name="memory_profiler (v0.9.14, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/memory_profiler-0.9.14/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/memory_profiler-0.9.14/lib" />
+      </SOURCES>
+    </library>
     <library name="metaclass (v0.0.4, RVM: ruby-2.3.1 [directory_frontend]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -22024,6 +22115,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/mimemagic-0.3.5/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/mimemagic-0.3.5/script" />
+      </excluded>
+    </library>
+    <library name="mini_histogram (v0.3.1, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/mini_histogram-0.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/mini_histogram-0.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/mini_histogram-0.3.1/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/mini_histogram-0.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/mini_histogram-0.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/mini_histogram-0.3.1/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/mini_histogram-0.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/mini_histogram-0.3.1/.github" />
       </excluded>
     </library>
     <library name="mini_magick (v4.10.1, RVM: ruby-2.5.1 [community_admin]) [gem]" type="rubylib">
@@ -23265,7 +23375,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/msgpack/1.2.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/msgpack-1.2.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/msgpack-1.2.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/msgpack-1.2.6/spec" />
@@ -23273,7 +23382,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/msgpack-1.2.6/doclib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/msgpack/1.2.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/msgpack-1.2.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/msgpack-1.2.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/msgpack-1.2.6/spec" />
@@ -24826,7 +24934,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.10.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/nokogiri-1.10.8/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/nokogiri-1.10.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/nokogiri-1.10.8/lib" />
@@ -24834,7 +24941,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/nokogiri-1.10.8/patches" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.10.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/nokogiri-1.10.8/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/nokogiri-1.10.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/nokogiri-1.10.8/lib" />
@@ -26690,14 +26796,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg/0.20.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/pg-0.20.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/pg-0.20.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/pg-0.20.0/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/pg-0.20.0/sample" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg/0.20.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/pg-0.20.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/pg-0.20.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/pg-0.20.0/spec" />
@@ -26847,14 +26951,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/posix-spawn/0.3.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/posix-spawn-0.3.11/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/posix-spawn-0.3.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/posix-spawn-0.3.11/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/posix-spawn-0.3.11/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/posix-spawn/0.3.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/posix-spawn-0.3.11/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/posix-spawn-0.3.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/posix-spawn-0.3.11/lib" />
@@ -27423,7 +27525,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/PriorityQueue/0.1.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/PriorityQueue-0.1.2/doc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/PriorityQueue-0.1.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/PriorityQueue-0.1.2/lib" />
@@ -27431,7 +27532,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/PriorityQueue-0.1.2/benchmark" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/PriorityQueue/0.1.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/PriorityQueue-0.1.2/doc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/PriorityQueue-0.1.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/PriorityQueue-0.1.2/lib" />
@@ -29812,6 +29912,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/rails_param-4a134b75b9be/.gemfiles" />
       </excluded>
     </library>
+    <library name="rails_param (v0.11.0, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/rails_param-0.11.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/rails_param-0.11.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rails_serve_static_assets (v0.0.4, RVM: ruby-2.3.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -31181,13 +31292,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/rb-fsevent-0.10.3/lib" />
@@ -35537,6 +35646,25 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/ruby-rc4-0.1.5/spec" />
+      </excluded>
+    </library>
+    <library name="ruby-statistics (v2.1.2, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/ruby-statistics-2.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/ruby-statistics-2.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/ruby-statistics-2.1.2/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/ruby-statistics-2.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/ruby-statistics-2.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/ruby-statistics-2.1.2/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/ruby-statistics-2.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/ruby-statistics-2.1.2/.github" />
       </excluded>
     </library>
     <library name="ruby-vips (v2.0.17, RVM: ruby-2.6.3 [rails]) [gem]" type="rubylib">
@@ -40714,7 +40842,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/thrift/0.11.0.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/thrift-0.11.0.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/thrift-0.11.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/thrift-0.11.0.0/spec" />
@@ -40722,7 +40849,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/thrift-0.11.0.0/benchmark" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/thrift/0.11.0.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/thrift-0.11.0.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/thrift-0.11.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/thrift-0.11.0.0/spec" />
@@ -41691,6 +41817,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@community_metrics/gems/tzinfo-1.2.7/test" />
+      </excluded>
+    </library>
+    <library name="tzinfo (v1.2.9, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/tzinfo-1.2.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/tzinfo-1.2.9/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/tzinfo-1.2.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/tzinfo-1.2.9/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/tzinfo-1.2.9/test" />
       </excluded>
     </library>
     <library name="uber (v0.1.0, RVM: ruby-2.6.3 [rails]) [gem]" type="rubylib">
@@ -43049,6 +43191,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/upnxt_community_lib_common-1.11.93.rc/lib" />
+      </SOURCES>
+    </library>
+    <library name="upnxt_community_lib_common (v1.11.98, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/upnxt_community_lib_common-1.11.98/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/upnxt_community_lib_common-1.11.98/lib" />
       </SOURCES>
     </library>
     <library name="upnxt_community_lib_common (v1.7.49, RVM: ruby-2.3.1 [directory_frontend]) [gem]" type="rubylib">
@@ -47415,7 +47568,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/yajl-ruby/1.4.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/yajl-ruby-1.4.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/yajl-ruby-1.4.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/yajl-ruby-1.4.1/spec" />
@@ -47425,7 +47577,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/yajl-ruby-1.4.1/benchmark" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/yajl-ruby/1.4.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/yajl-ruby-1.4.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/yajl-ruby-1.4.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/yajl-ruby-1.4.1/spec" />
