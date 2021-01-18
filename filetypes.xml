@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern=".nycrc" type="JSON" />
       <mapping pattern=".mocharc" type="PLAIN_TEXT" />
@@ -13,8 +13,8 @@
       <mapping pattern="factories" type="PLAIN_TEXT" />
       <mapping pattern="Bowerfile" type="PLAIN_TEXT" />
       <mapping pattern="book_bank" type="PLAIN_TEXT" />
-      <mapping pattern=".gemset" type="PLAIN_TEXT" />
       <mapping pattern=".simplecov" type="PLAIN_TEXT" />
+      <mapping pattern=".gemset" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
@@ -28,17 +28,14 @@
       <mapping ext="spec" type="PLAIN_TEXT" />
       <mapping ext="sqlite3" type="PLAIN_TEXT" />
       <mapping ext="rbb" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="groovy" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <mapping ext="" type="TypeScript" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="groovy" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <mapping ext="eco" type="RHTML" />
       <mapping ext="rale" type="Ruby" />
       <mapping ext="rbi" type="Ruby" />
