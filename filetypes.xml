@@ -9,6 +9,7 @@
       <mapping pattern="factories" type="PLAIN_TEXT" />
       <mapping pattern="geckodriver" type="PLAIN_TEXT" />
       <mapping pattern="Bowerfile" type="PLAIN_TEXT" />
+      <mapping pattern=".env.sample" type="PLAIN_TEXT" />
       <mapping pattern=".env_sample" type="PLAIN_TEXT" />
       <mapping pattern="book_bank" type="PLAIN_TEXT" />
       <mapping pattern=".simplecov" type="PLAIN_TEXT" />
