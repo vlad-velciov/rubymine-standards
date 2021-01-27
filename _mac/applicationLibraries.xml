@@ -1317,6 +1317,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.8@community_admin/gems/activeresource-5.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="activeresource (v5.1.1@dedecf, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/activeresource-dedecf909966/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/activeresource-dedecf909966/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/activeresource-dedecf909966/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/activeresource-dedecf909966/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/activeresource-dedecf909966/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/activeresource-dedecf909966/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/activeresource-dedecf909966/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/activeresource-dedecf909966/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/activeresource-dedecf909966/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/activeresource-dedecf909966/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/activeresource-dedecf909966/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/activeresource-dedecf909966/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/activeresource-dedecf909966/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/activeresource-dedecf909966/examples" />
+      </excluded>
+    </library>
     <library name="activestorage (v5.2.1, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -14915,6 +14940,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.8@community_admin/gems/dry-types-1.3.1/lib" />
       </SOURCES>
+    </library>
+    <library name="e2mmap (v0.1.0, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/e2mmap-0.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/e2mmap-0.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/e2mmap-0.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/e2mmap-0.1.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/e2mmap-0.1.0/bin" />
+      </excluded>
     </library>
     <library name="e2mmap (v0.1.0, RVM: ruby-2.5.1 [community_admin]) [gem]" type="rubylib">
       <properties>
@@ -30963,6 +31004,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.8@community_admin/gems/preflight-0.3.0/bin" />
       </excluded>
     </library>
+    <library name="preflight (v0.3.0@29f67e, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/pdf-preflight-29f67ed8dc85/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/pdf-preflight-29f67ed8dc85/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/pdf-preflight-29f67ed8dc85/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/pdf-preflight-29f67ed8dc85/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/pdf-preflight-29f67ed8dc85/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/pdf-preflight-29f67ed8dc85/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/pdf-preflight-29f67ed8dc85/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/pdf-preflight-29f67ed8dc85/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/pdf-preflight-29f67ed8dc85/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/pdf-preflight-29f67ed8dc85/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/bundler/gems/pdf-preflight-29f67ed8dc85/spec" />
+      </excluded>
+    </library>
     <library name="princely (v1.4.1, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -45874,6 +45937,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/thrift-0.11.0.0/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/thrift-0.11.0.0/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/thrift-0.11.0.0/benchmark" />
+      </excluded>
+    </library>
+    <library name="thwait (v0.1.0, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/thwait-0.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/thwait-0.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/thwait-0.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/thwait-0.1.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/thwait-0.1.0/bin" />
       </excluded>
     </library>
     <library name="thwait (v0.1.0, RVM: ruby-2.5.1 [community_admin]) [gem]" type="rubylib">
