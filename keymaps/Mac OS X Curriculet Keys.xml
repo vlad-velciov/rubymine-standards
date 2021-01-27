@@ -10,6 +10,10 @@
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="meta f9" />
+    <keyboard-shortcut first-keystroke="meta m" />
+  </action>
   <action id="DBNavigator.Actions.Navigation.GotoDatabaseObject" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift f9" />
@@ -50,6 +54,7 @@
   <action id="Macro.Tabs to Right">
     <keyboard-shortcut first-keystroke="shift meta f2" />
   </action>
+  <action id="MinimizeCurrentWindow" />
   <action id="NextSplitter" />
   <action id="PrevSplitter" />
   <action id="ReformatCode">
