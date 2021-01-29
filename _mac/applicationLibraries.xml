@@ -27980,6 +27980,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@rails/gems/loofah-2.4.0/benchmark" />
       </excluded>
     </library>
+    <library name="lru_redux (v1.1.0, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/lru_redux-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/lru_redux-1.1.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/lru_redux-1.1.0/bench" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/lru_redux-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/lru_redux-1.1.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/lru_redux-1.1.0/bench" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/lru_redux-1.1.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/lru_redux-1.1.0/bench" />
+      </excluded>
+    </library>
     <library name="lrucache (v0.1.4, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -33425,6 +33444,28 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/optimist-3.0.1/test" />
+      </excluded>
+    </library>
+    <library name="origami (v2.1.0, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/origami-2.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/origami-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/origami-2.1.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/origami-2.1.0/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/origami-2.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/origami-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/origami-2.1.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/origami-2.1.0/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/origami-2.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/origami-2.1.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/origami-2.1.0/examples" />
       </excluded>
     </library>
     <library name="orm_adapter (v0.5.0, RVM: ruby-2.3.1 [directory_frontend]) [gem]" type="rubylib">
@@ -55605,6 +55646,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/upnxt_channel_email-2.1.10/lib" />
       </SOURCES>
     </library>
+    <library name="upnxt_channel_email (v2.1.11, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/upnxt_channel_email-2.1.11/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/upnxt_channel_email-2.1.11/lib" />
+      </SOURCES>
+    </library>
     <library name="upnxt_channel_email (v2.1.8, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -56351,6 +56403,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/upnxt_community_lib_common-1.12.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="upnxt_community_lib_common (v1.12.0, RVM: ruby-2.5.1 [community_processing]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/upnxt_community_lib_common-1.12.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/upnxt_community_lib_common-1.12.0/lib" />
       </SOURCES>
     </library>
     <library name="upnxt_community_lib_common (v1.12.0, RVM: ruby-2.7.2 [com_frontend]) [gem]" type="rubylib">
