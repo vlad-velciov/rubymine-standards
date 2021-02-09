@@ -3130,6 +3130,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/ast-2.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="ast (v2.4.1, RVM: ruby-2.7.2 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/ast-2.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/ast-2.4.1/lib" />
+      </SOURCES>
+    </library>
     <library name="attr_encrypted (v3.1.0, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -30423,6 +30434,38 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/money-6.13.8/config" />
       </excluded>
     </library>
+    <library name="money (v6.14.0, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/money-6.14.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/money-6.14.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/money-6.14.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/money-6.14.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/money-6.14.0/config" />
+      </excluded>
+    </library>
+    <library name="money (v6.14.0, RVM: ruby-2.7.2 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/money-6.14.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/money-6.14.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/money-6.14.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/money-6.14.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/money-6.14.0/config" />
+      </excluded>
+    </library>
     <library name="money (v6.8.1, RVM: ruby-2.3.1 [community_directory_processing]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -34200,6 +34243,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/parallel-1.20.1/lib" />
       </SOURCES>
     </library>
+    <library name="parallel (v1.20.1, RVM: ruby-2.7.2 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/parallel-1.20.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/parallel-1.20.1/lib" />
+      </SOURCES>
+    </library>
     <library name="parallel_tests (v2.31.0, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -34701,6 +34755,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/parser-3.0.0.0/bin" />
+      </excluded>
+    </library>
+    <library name="parser (v3.0.0.0, RVM: ruby-2.7.2 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/parser-3.0.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/parser-3.0.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/parser-3.0.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/parser-3.0.0.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/parser-3.0.0.0/bin" />
       </excluded>
     </library>
     <library name="parslet (v1.8.2, RVM: ruby-2.5.1 [community_admin]) [gem]" type="rubylib">
@@ -38292,6 +38362,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/rack-2.2.3/example" />
       </excluded>
     </library>
+    <library name="rack (v2.2.3, RVM: ruby-2.7.2 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rack-2.2.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rack-2.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rack-2.2.3/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rack-2.2.3/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rack-2.2.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rack-2.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rack-2.2.3/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rack-2.2.3/example" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rack-2.2.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rack-2.2.3/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rack-2.2.3/example" />
+      </excluded>
+    </library>
     <library name="rack-cors (v0.4.1, RVM: ruby-2.3.1 [directory_frontend]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -40334,6 +40426,28 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.8/lib/ruby/gems/2.5.0/gems/rake-12.3.3/bin" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.8/lib/ruby/gems/2.5.0/gems/rake-12.3.3/doc" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.8/lib/ruby/gems/2.5.0/gems/rake-12.3.3/exe" />
+      </excluded>
+    </library>
+    <library name="rake (v12.3.3, RVM: ruby-2.7.2 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rake-12.3.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rake-12.3.3/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rake-12.3.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rake-12.3.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rake-12.3.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rake-12.3.3/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rake-12.3.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rake-12.3.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rake-12.3.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rake-12.3.3/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rake-12.3.3/exe" />
       </excluded>
     </library>
     <library name="rake (v13.0.1, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -42981,6 +43095,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/regexp_parser-2.0.3/spec" />
+      </excluded>
+    </library>
+    <library name="regexp_parser (v2.0.3, RVM: ruby-2.7.2 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/regexp_parser-2.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/regexp_parser-2.0.3/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/regexp_parser-2.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/regexp_parser-2.0.3/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/regexp_parser-2.0.3/spec" />
       </excluded>
     </library>
     <library name="reline (v0.1.5, RVM: ruby-2.7.2 [com_frontend]) [gem]" type="rubylib">
@@ -45669,6 +45799,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/rubocop-1.0.0/config" />
       </excluded>
     </library>
+    <library name="rubocop (v1.0.0, RVM: ruby-2.7.2 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rubocop-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rubocop-1.0.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rubocop-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rubocop-1.0.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rubocop-1.0.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rubocop-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rubocop-1.0.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rubocop-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rubocop-1.0.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rubocop-1.0.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rubocop-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rubocop-1.0.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rubocop-1.0.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rubocop-1.0.0/config" />
+      </excluded>
+    </library>
     <library name="rubocop-ast (v1.4.0, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -45678,6 +45833,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/rubocop-ast-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rubocop-ast (v1.4.0, RVM: ruby-2.7.2 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rubocop-ast-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/rubocop-ast-1.4.0/lib" />
       </SOURCES>
     </library>
     <library name="rubocop-performance (v1.1.0, RVM: ruby-2.3.1 [community_directory_processing]) [gem]" type="rubylib">
@@ -46487,6 +46653,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/ruby-progressbar-1.11.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-progressbar (v1.11.0, RVM: ruby-2.7.2 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/ruby-progressbar-1.11.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/ruby-progressbar-1.11.0/lib" />
       </SOURCES>
     </library>
     <library name="ruby-rc4 (v0.1.5, RVM: ruby-2.3.1 [community_directory_processing]) [gem]" type="rubylib">
@@ -56458,6 +56635,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@com_frontend/gems/upnxt_community_lib_common-1.12.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="upnxt_community_lib_common (v1.13.2, RVM: ruby-2.7.2 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/upnxt_community_lib_common-1.13.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/upnxt_community_lib_common-1.13.2/lib" />
       </SOURCES>
     </library>
     <library name="upnxt_community_lib_common (v1.7.49, RVM: ruby-2.3.1 [directory_frontend]) [gem]" type="rubylib">
