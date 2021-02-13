@@ -32918,6 +32918,36 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@rails/gems/nio4r-2.5.2/examples" />
       </excluded>
     </library>
+    <library name="nio4r (v2.5.5, RVM: ruby-2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nio4r/2.5.5" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/nio4r-2.5.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/nio4r-2.5.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/nio4r-2.5.5/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/nio4r-2.5.5/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/nio4r-2.5.5/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/nio4r-2.5.5/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nio4r/2.5.5" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/nio4r-2.5.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/nio4r-2.5.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/nio4r-2.5.5/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/nio4r-2.5.5/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/nio4r-2.5.5/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/nio4r-2.5.5/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/nio4r-2.5.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/nio4r-2.5.5/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/nio4r-2.5.5/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/nio4r-2.5.5/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/nio4r-2.5.5/examples" />
+      </excluded>
+    </library>
     <library name="nokogiri (v1.10.1, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -38157,6 +38187,33 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.8@community_admin/gems/puma-4.3.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.8@community_admin/gems/puma-4.3.3/docs" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.8@community_admin/gems/puma-4.3.3/tools" />
+      </excluded>
+    </library>
+    <library name="puma (v5.2.1, RVM: ruby-2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/puma/5.2.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/puma-5.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/puma-5.2.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/puma-5.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/puma-5.2.1/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/puma-5.2.1/tools" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/puma/5.2.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/puma-5.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/puma-5.2.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/puma-5.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/puma-5.2.1/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/puma-5.2.1/tools" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/puma-5.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/puma-5.2.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/puma-5.2.1/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/puma-5.2.1/tools" />
       </excluded>
     </library>
     <library name="puma_worker_killer (v0.1.0, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
