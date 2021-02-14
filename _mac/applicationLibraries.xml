@@ -4563,6 +4563,27 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@rails/gems/bcrypt-3.1.13/spec" />
       </excluded>
     </library>
+    <library name="bcrypt (v3.1.16, RVM: ruby-2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/bcrypt/3.1.16" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/bcrypt-3.1.16/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/bcrypt-3.1.16/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/bcrypt-3.1.16/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/bcrypt/3.1.16" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/bcrypt-3.1.16/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/bcrypt-3.1.16/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/bcrypt-3.1.16/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/bcrypt-3.1.16/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/bcrypt-3.1.16/spec" />
+      </excluded>
+    </library>
     <library name="bcrypt (v3.1.7, RVM: ruby-2.5.1 [community_admin]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -27178,6 +27199,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@rails/gems/jwt-2.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="jwt (v2.2.2, RVM: ruby-2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/jwt-2.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/jwt-2.2.2/lib" />
       </SOURCES>
     </library>
     <library name="kaminari (v0.17.0, RVM: ruby-2.3.1 [directory_frontend]) [gem]" type="rubylib">
