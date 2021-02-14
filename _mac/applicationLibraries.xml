@@ -35898,6 +35898,27 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/pg-1.1.4/spec" />
       </excluded>
     </library>
+    <library name="pg (v1.2.3, RVM: ruby-2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/pg/1.2.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/pg-1.2.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/pg-1.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/pg-1.2.3/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/pg/1.2.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/pg-1.2.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/pg-1.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/pg-1.2.3/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/pg-1.2.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/pg-1.2.3/spec" />
+      </excluded>
+    </library>
     <library name="pg_party (v1.4.0, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
