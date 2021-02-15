@@ -55080,6 +55080,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@community_processing/gems/timecop-0.9.1/test" />
       </excluded>
     </library>
+    <library name="timecop (v0.9.4, RVM: ruby-2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/timecop-0.9.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/timecop-0.9.4/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/timecop-0.9.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/timecop-0.9.4/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/timecop-0.9.4/test" />
+      </excluded>
+    </library>
     <library name="timeliness (v0.3.8, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
