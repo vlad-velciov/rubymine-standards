@@ -16331,6 +16331,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.8@community_admin/gems/dotenv-2.7.5/bin" />
       </excluded>
     </library>
+    <library name="dotenv (v2.7.6, RVM: ruby-2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/dotenv-2.7.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/dotenv-2.7.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/dotenv-2.7.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/dotenv-2.7.6/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/dotenv-2.7.6/bin" />
+      </excluded>
+    </library>
     <library name="down (v2.5.1, RVM: ruby-2.3.1 [directory_frontend]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
