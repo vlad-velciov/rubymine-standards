@@ -4568,13 +4568,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/bcrypt/3.1.16" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/bcrypt-3.1.16/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/bcrypt-3.1.16/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/bcrypt-3.1.16/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/bcrypt/3.1.16" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/bcrypt-3.1.16/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/bcrypt-3.1.16/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/bcrypt-3.1.16/spec" />
@@ -33143,7 +33141,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nio4r/2.5.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/nio4r-2.5.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/nio4r-2.5.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/nio4r-2.5.5/spec" />
@@ -33152,7 +33149,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/nio4r-2.5.5/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nio4r/2.5.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/nio4r-2.5.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/nio4r-2.5.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/nio4r-2.5.5/spec" />
@@ -36047,13 +36043,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/pg/1.2.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/pg-1.2.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/pg-1.2.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/pg-1.2.3/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/pg/1.2.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/pg-1.2.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/pg-1.2.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/pg-1.2.3/spec" />
@@ -38446,7 +38440,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/puma/5.2.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/puma-5.2.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/puma-5.2.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/puma-5.2.1/lib" />
@@ -38454,7 +38447,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/puma-5.2.1/tools" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/puma/5.2.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/puma-5.2.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/puma-5.2.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/puma-5.2.1/lib" />
@@ -54176,14 +54168,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/thin/1.8.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/thin-1.8.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/thin-1.8.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/thin-1.8.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/thin-1.8.0/example" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/thin/1.8.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/thin-1.8.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/thin-1.8.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/thin-1.8.0/lib" />
