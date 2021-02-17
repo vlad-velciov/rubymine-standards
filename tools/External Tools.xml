@@ -1,23 +1,30 @@
 <toolSet name="External Tools">
-  <tool name="ElasticSearch" description="Start elastic search service" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="ElasticSearch" description="Start elastic search service" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="elasticsearch" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
     </exec>
   </tool>
-  <tool name="Rake resque parallel" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="Rake resque parallel" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/Applications/Utilities/Terminal.app" />
       <option name="PARAMETERS" value="cdse; rake resque:work" />
       <option name="WORKING_DIRECTORY" value="/Applications/Utilities" />
     </exec>
   </tool>
-  <tool name="killspring" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+  <tool name="killspring" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="true" disabled="true" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
     <exec>
       <option name="COMMAND" value="bash" />
       <option name="PARAMETERS" value="-l -c &quot;ps -ef | grep spring | grep -v grep | awk '{print $2}' | xargs kill -9&quot;" />
       <option name="WORKING_DIRECTORY" value="/bin" />
+    </exec>
+  </tool>
+  <tool name="convert_envs" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="convert_envs" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
 </toolSet>
