@@ -28605,6 +28605,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@directory_frontend/gems/less-rails-2.7.1/gemfiles" />
       </excluded>
     </library>
+    <library name="libv8 (v3.16.14.0, RVM: ruby-2.3.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/libv8-3.16.14.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/libv8-3.16.14.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/libv8-3.16.14.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/libv8-3.16.14.0/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/libv8-3.16.14.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/libv8-3.16.14.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/libv8-3.16.14.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/libv8-3.16.14.0/vendor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/libv8-3.16.14.0/spec" />
+      </excluded>
+    </library>
     <library name="libv8 (v3.16.14.15, RVM: ruby-2.3.1 [directory_frontend]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -28629,6 +28649,32 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@directory_frontend/gems/libv8-3.16.14.15/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@directory_frontend/gems/libv8-3.16.14.15/patches" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@directory_frontend/gems/libv8-3.16.14.15/release" />
+      </excluded>
+    </library>
+    <library name="libv8 (v3.16.14.19, RVM: ruby-2.3.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/libv8-3.16.14.19/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/libv8-3.16.14.19/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/libv8-3.16.14.19/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/libv8-3.16.14.19/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/libv8-3.16.14.19/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/libv8-3.16.14.19/release" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/libv8-3.16.14.19/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/libv8-3.16.14.19/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/libv8-3.16.14.19/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/libv8-3.16.14.19/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/libv8-3.16.14.19/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/libv8-3.16.14.19/release" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/libv8-3.16.14.19/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/libv8-3.16.14.19/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/libv8-3.16.14.19/release" />
       </excluded>
     </library>
     <library name="libv8 (v3.16.14.3, RVM: ruby-2.3.1) [gem]" type="rubylib">
