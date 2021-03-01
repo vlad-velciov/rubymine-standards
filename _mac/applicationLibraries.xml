@@ -11782,6 +11782,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/community_models-0.1.64/bin" />
       </excluded>
     </library>
+    <library name="community_models (v0.1.65, RVM: ruby-2.7.2 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/community_models-0.1.65/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/community_models-0.1.65/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/community_models-0.1.65/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/community_models-0.1.65/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/community_models-0.1.65/bin" />
+      </excluded>
+    </library>
     <library name="community_resiliency (v0.1.2, RVM: ruby-2.5.1 [com_frontend]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -60061,6 +60077,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/upnxt_community_lib_common-1.13.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="upnxt_community_lib_common (v1.13.3, RVM: ruby-2.7.2 [com_frontend]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/upnxt_community_lib_common-1.13.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@com_frontend/gems/upnxt_community_lib_common-1.13.3/lib" />
       </SOURCES>
     </library>
     <library name="upnxt_community_lib_common (v1.7.49, RVM: ruby-2.3.1 [directory_frontend]) [gem]" type="rubylib">
