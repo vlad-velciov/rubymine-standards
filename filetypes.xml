@@ -18,11 +18,11 @@
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-gemspec" type="PLAIN_TEXT" />
       <mapping pattern="factories" type="PLAIN_TEXT" />
+      <mapping pattern=".sample_env" type="PLAIN_TEXT" />
       <mapping pattern="api" type="PLAIN_TEXT" />
       <mapping pattern="lti/credentials_controller" type="PLAIN_TEXT" />
-      <mapping pattern=".rspec" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern=".sample_env" type="PLAIN_TEXT" />
+      <mapping pattern=".rspec" type="PLAIN_TEXT" />
       <mapping pattern="Bowerfile" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
@@ -40,12 +40,12 @@
       <mapping ext="rbi" type="Ruby" />
       <mapping ext="rale" type="Ruby" />
       <mapping ext="" type="TypeScript" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="groovy" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
