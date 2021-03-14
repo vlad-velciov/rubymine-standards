@@ -14,6 +14,7 @@
     <keyboard-shortcut first-keystroke="meta f9" />
     <keyboard-shortcut first-keystroke="meta m" />
   </action>
+  <action id="ContextHelp" />
   <action id="DBNavigator.Actions.Navigation.GotoDatabaseObject" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift f9" />
