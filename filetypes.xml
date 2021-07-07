@@ -27,7 +27,9 @@
       <mapping ext="epub" type="PLAIN_TEXT" />
       <mapping ext="etb" type="PLAIN_TEXT" />
       <mapping ext="spec" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="sqlite3" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="rv" type="PLAIN_TEXT" />
       <mapping ext="rbb" type="PLAIN_TEXT" />
       <mapping ext="" type="TypeScript" />
