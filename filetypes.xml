@@ -13,14 +13,14 @@
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
       <mapping pattern=".env_sample" type="PLAIN_TEXT" />
       <mapping pattern="book_bank" type="PLAIN_TEXT" />
-      <mapping pattern=".gemset" type="PLAIN_TEXT" />
       <mapping pattern=".simplecov" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".gemset" type="PLAIN_TEXT" />
+      <mapping pattern="lexile" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="lexile" type="PLAIN_TEXT" />
-      <mapping pattern="api" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
+      <mapping pattern="api" type="PLAIN_TEXT" />
       <mapping pattern=".sample_env" type="PLAIN_TEXT" />
       <mapping pattern="audit_concern" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-gemspec" type="PLAIN_TEXT" />
