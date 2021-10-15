@@ -33,6 +33,7 @@
       <mapping ext="etb" type="PLAIN_TEXT" />
       <mapping ext="spec" type="PLAIN_TEXT" />
       <mapping ext="sqlite3" type="PLAIN_TEXT" />
+      <mapping ext="commandfactory" type="PLAIN_TEXT" />
       <mapping ext="rv" type="PLAIN_TEXT" />
       <mapping ext="rbb" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
