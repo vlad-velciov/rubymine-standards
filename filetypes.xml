@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="DockerfileLiquibase" type="Dockerfile" />
       <mapping pattern=".nycrc" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
@@ -32,6 +33,7 @@
       <mapping ext="etb" type="PLAIN_TEXT" />
       <mapping ext="spec" type="PLAIN_TEXT" />
       <mapping ext="sqlite3" type="PLAIN_TEXT" />
+      <mapping ext="commandfactory" type="PLAIN_TEXT" />
       <mapping ext="rv" type="PLAIN_TEXT" />
       <mapping ext="rbb" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
