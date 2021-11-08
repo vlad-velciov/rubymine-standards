@@ -1,5 +1,7 @@
 <application>
   <component name="OverrideFileTypeManager">
+    <file url="file://$USER_HOME$/workspace/gcp-be-banqup-dev-helm/community/be-dev-jinja-secrets.yaml.dec" value="YAML" />
+    <file url="file://$USER_HOME$/workspace/gcp-be-banqup-dev-helm/community/secrets.yaml.dec" value="YAML" />
     <file url="file://$USER_HOME$/workspace/intake_microservice/Procfile" value="Properties" />
     <file url="file://$USER_HOME$/workspace/intake_microservice/docker-compose.yml.sample" value="YAML" />
   </component>
