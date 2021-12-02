@@ -44,6 +44,7 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
       <removed_mapping pattern=".env.*" approved="true" type="Env File" />
       <removed_mapping pattern=".simplecov" approved="true" type="Ruby" />
       <mapping ext="gradle.kts" type="Kotlin" />
