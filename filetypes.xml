@@ -3,6 +3,9 @@
     <extensionMap>
       <mapping pattern="DockerfileLiquibase" type="Dockerfile" />
       <mapping pattern=".nycrc" type="JSON" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="lti/credentials_controller" type="PLAIN_TEXT" />
       <mapping pattern=".gemset" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
@@ -16,6 +19,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="audit_concern" type="PLAIN_TEXT" />
       <mapping pattern="lexile" type="PLAIN_TEXT" />
+      <mapping pattern=".simplecov" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
       <mapping pattern=".rspec" type="PLAIN_TEXT" />
       <mapping pattern="factories" type="PLAIN_TEXT" />
@@ -26,7 +30,6 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="book_bank" type="PLAIN_TEXT" />
       <mapping pattern=".mocharc" type="PLAIN_TEXT" />
-      <mapping pattern=".simplecov" type="PLAIN_TEXT" />
       <mapping ext="epub" type="PLAIN_TEXT" />
       <mapping ext="etb" type="PLAIN_TEXT" />
       <mapping ext="spec" type="PLAIN_TEXT" />
@@ -34,9 +37,6 @@
       <mapping ext="commandfactory" type="PLAIN_TEXT" />
       <mapping ext="rv" type="PLAIN_TEXT" />
       <mapping ext="rbb" type="PLAIN_TEXT" />
-      <mapping ext="eco" type="RHTML" />
-      <mapping pattern="Rakekfile" type="Ruby" />
-      <mapping ext="rale" type="Ruby" />
       <mapping ext="" type="TypeScript" />
       <mapping pattern="*.yml.dec" type="YAML" />
       <mapping pattern="*.yaml.dec" type="YAML" />
@@ -47,10 +47,10 @@
       <removed_mapping pattern=".env" approved="true" type=".env file" />
       <removed_mapping pattern=".env.*" approved="true" type="Env File" />
       <removed_mapping pattern=".simplecov" approved="true" type="Ruby" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="eco" type="RHTML" />
+      <mapping ext="rale" type="Ruby" />
       <mapping pattern=".env.development" type="Bash" />
+      <mapping pattern="Rakekfile" type="Ruby" />
       <mapping pattern="nginx.conf" type="nginx file type" />
       <mapping pattern="nginx.conf.erb" type="nginx file type" />
       <mapping pattern="nginx_dev.conf.erb" type="nginx file type" />
