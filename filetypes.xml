@@ -3,9 +3,6 @@
     <extensionMap>
       <mapping pattern="DockerfileLiquibase" type="Dockerfile" />
       <mapping pattern=".nycrc" type="JSON" />
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="lti/credentials_controller" type="PLAIN_TEXT" />
       <mapping pattern=".gemset" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
@@ -48,7 +45,10 @@
       <removed_mapping pattern=".env.*" approved="true" type="Env File" />
       <removed_mapping pattern=".simplecov" approved="true" type="Ruby" />
       <mapping ext="eco" type="RHTML" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="rale" type="Ruby" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping pattern=".env.development" type="Bash" />
       <mapping pattern="Rakekfile" type="Ruby" />
       <mapping pattern="nginx.conf" type="nginx file type" />
