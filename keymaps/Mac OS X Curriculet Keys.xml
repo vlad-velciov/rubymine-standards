@@ -21,16 +21,21 @@
     <keyboard-shortcut first-keystroke="shift f9" />
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="Diff.ShowDiff">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="Diff.ShowSettingsPopup" />
   <action id="DoDdescribe" />
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorCodeBlockEndWithSelection" />
+  <action id="EditorCodeBlockStartWithSelection" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="EditorDuplicate" />
+  <action id="EditorMatchBrace" />
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
@@ -58,7 +63,9 @@
   </action>
   <action id="MinimizeCurrentWindow" />
   <action id="NextSplitter" />
+  <action id="NextTab" />
   <action id="PrevSplitter" />
+  <action id="PreviousTab" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
